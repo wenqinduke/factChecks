@@ -1,0 +1,1271 @@
+Matched 6.0
+5.081825311 748 Says that “instead of taking charge” during the Benghazi attacks, then-Secretary of State Hillary Clinton “decided to go home and sleep.”
+4.95297384597 874 The Benghazi victims were "left helpless to die as Hillary Clinton soundly slept in her bed."
+4.5 697 Says Hillary Clinton has spoken "such lies about my foreign policy. They said I want Japan to … get nuclear weapons. Give me a break."
+4.5 1043 Hillary Clinton "took 13 hours to send help to Americans under fire," during terrorist attack in Benghazi.
+4.5 1044 Says Hillary Clinton "took 13 hours to send help to Americans under fire" during the terrorist attack in Benghazi.
+4.5 1214 " ‘What difference, at this point, does it make?' I am the guy that got under her skin and provoked that infamous response from Hillary Clinton by asking a pretty simple question, 'Why didn't you just pick up the phone and call the survivors’ (of the Benghazi attack)?"
+4.5 1207 Hillary Clinton "lied about why her parents named her Hillary."
+4.5 1238 Clinton blamed terrorism for the attack in an email to her own daughter Chelsea Clinton, but "when I saw Hillary Clinton at Sean’s coffin ceremony, just days later, she looked me squarely in the eye and told me a video was responsible."
+6.0 1240 Says Hillary Clinton lied to her face about the reason for the Benghazi attacks
+6.0 1241 Says Hillary Clinton lied about a video causing the Benghazi attacks, despite knowing it was terrorism
+4.5 1242  "I blame Hillary Clinton. I blame Hillary Clinton personally for the death of my son."
+6.0 1243 Says Hillary Clinton lied to families about the cause of the Benghazi attack.
+4.5 2029 "Repeated requests for additional security in Benghazi were routinely denied" by Hillary "Clinton’s State Department."
+4.5 1237 Clinton blamed terrorism for the attack in an email to her own daughter Chelsea Clinton, but "when I saw Hillary Clinton at Sean’s coffin ceremony, just days later, she looked me squarely in the eye and told me a video was responsible."
+4.5 1257 "It was Hillary Clinton who left Americans in harm's way in Benghazi and after four Americans fell said, 'What difference at this point does it make?' "
+4.5 2149 Says Hillary Clinton “lied” when she said she was not secretary of state when President Obama issued his “red line” threat to use military force if Syrian President Bashar Assad used chemical weapons against his own people.
+
+NOT FOUND 10.5
+6.61574989232 2252 When Hillary Clinton "ran the State Department, $6 billion was missing. How do you miss $6 billion? You ran the State Department, $6 billion was either stolen — they don't know."
+
+#all-in
+Matched 7.5
+7.5 386 Says Hillary Clinton "started the 'birther' movement" against Barack Obama in 2008.
+7.5 395 “You know who started the birther movement? You know who started it? Do you know who questioned his birth certificate, one of the first? Hillary Clinton."
+7.5 1818 "The birther movement was started by Hillary Clinton in 2008. She was all in!"
+6.0 1825 "Hillary Clinton and her campaign of 2008, started the birther controversy."
+6.0 1826 Hillary Clinton and her campaign of 2008 started the birther controversy."
+6.0 1854 Hillary Clinton and the birther movement: Still nothing there
+6.0 7712 "Hillary Clinton and her campaign of 2008 started the birther controversy."
+6.0 7750 Hillary Clinton and her campaign of 2008 started the birther controversy."
+6.0 7749 Hillary Clinton and her campaign of 2008 started the birther controversy."
+7.5 394 “You know who started the birther movement? You know who started it? Do you know who questioned his birth certificate, one of the first? Hillary Clinton."
+7.5 1776 "The birther movement was started by Hillary Clinton in 2008. She was all in!"
+6.0 1835 “Hillary Clinton and her campaign of 2008 started the birther controversy. I finished it."
+
+Matched 11.5
+9.0 2253 Says Donald Trump “used undocumented labor to build the Trump Tower.”
+
+Matched 9.0
+9.0 1379 Claims Hillary Clinton deleted emails from her private server “after she gets a subpoena” from Congress.
+9.0 2044 "You (Hillary Clinton) get a subpoena, and after getting the subpoena you delete 33,000 emails."
+6.72956277702 2376 "You get a subpoena, and after getting the subpoena, you delete 33,000 e-mails."
+9.0 7824 "You (Hillary Clinton) get a subpoena, and after getting the subpoena you delete 33,000 emails."
+
+NOT FOUND 10.0
+6.74690095221 2249 "We have 17 intelligence agencies, civilian and military, who have all concluded that these espionage attacks, these cyberattacks, come from the highest levels of the Kremlin, and they are designed to influence our election."
+
+#too much qualification
+Matched 10.0
+7.5 372 "Frankly, (Hillary Clinton) doesn’t do very well with women."
+7.5 405 Hillary Clinton "would go after these women and destroy their lives. She was an unbelievably nasty, mean enabler."
+7.5 580 "Frankly, (Hillary Clinton) doesn’t do very well with women."
+7.5 748 Says that “instead of taking charge” during the Benghazi attacks, then-Secretary of State Hillary Clinton “decided to go home and sleep.”
+8.45647972107 855 Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”
+8.45647972107 857 Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”
+7.5 894 Claims that Donald Trump said “women will start making equal pay as soon as we do as good a job as men.”
+7.5 570 "Frankly, (Hillary Clinton) doesn’t do very well with women."
+8.01749807358 1012 Hillary Clinton has been given tens of millions of dollars by countries that "treat women horribly ... and countries that kill gays."
+7.5 1328 Says when an interviewer asked Donald Trump if he treats women with respect, Trump replied, "I can't say that."
+7.5 1871 Hillary Clinton said, "with a straight face, that the terrorist attacks this weekend were caused by Donald J. Trump"
+10.0 2063  “Hillary Clinton attacked those same women, attacked them viciously."
+10.0 2071 Says Hillary Clinton "viciously" attacked women abused by Bill Clinton.
+10.0 2072 Says Hillary Clinton "viciously" attacked women abused by Bill Clinton.
+7.05071024705 2292 Says Hillary Clinton takes "tens of millions of dollars from countries that hate women, that disrespect women, that throw gays off of buildings."
+7.5 2395 "Donald Trump's strategy is pretty simple. They have even said in his campaign it's to get women to stay home, get young people to stay home, get people of color to stay home, and get a lot of smart, intelligent men to stay home, too."
+8.01749807358 7742 Hillary Clinton has been given tens of millions of dollars by countries that "treat women horribly ... and countries that kill gays."
+10.0 7766 Says Hillary Clinton "viciously" attacked women abused by Bill Clinton.
+7.5 406 Hillary Clinton "would go after these women and destroy their lives. She was an unbelievably nasty, mean enabler."
+8.45647972107 856 Says Hillary Clinton "said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers."
+
+
+Matched 10.0
+7.09853293687 358 Says both Donald Trump and Hillary Clinton say Planned Parenthood is "terrific and that it should keep taxpayer funding."
+7.10836481817 393 Says Donald Trump promised to repeal Obamacare, build a wall, ban Muslims, and more.
+7.09853293687 557 Says both Donald Trump and Hillary Clinton say Planned Parenthood is "terrific and that it should keep taxpayer funding."
+7.07957701604 629 "The only two [tax returns] we have show that he hasn't paid a penny in taxes.”
+7.5 894 Claims that Donald Trump said “women will start making equal pay as soon as we do as good a job as men.”
+7.06263569824 925 "Hillary Clinton surged the trade deficit with China 40% as Secretary of State, costing Americans millions of jobs."
+7.17980883803 947 Claims that Americans “pay more personal tax” than residents anywhere else in the world.
+7.97223910244 982 "Taxpayers are paying a fortune for the use of Air Force One on the campaign trail" by President Obama and Hillary Clinton.
+8.44166109397 1278 "While Hillary Clinton plans a massive, and I mean massive, tax increase, I have proposed the largest tax reduction of any candidate who has run for president this year, Democrat or Republican."
+7.50110881803 1328 Says when an interviewer asked Donald Trump if he treats women with respect, Trump replied, "I can't say that."
+7.87769509406 1696 Claims that "hundreds of thousands of jobs [would] disappear" as a result of Hillary Clinton's proposal to raise taxes.
+7.87769509406 1458 Hillary Clinton says she wants to raise taxes on the middle class.’
+7.87769509406 1459 Says Hillary Clinton says she wants to raise taxes on the middle class.
+7.87769509406 1465 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+7.87769509406 1495 Says Hillary Clinton “accidentally told the truth and said that she wanted to raise taxes on the middle class.”
+7.84399587396 1508 Says Hillary Clinton's plan "would tax many small businesses by almost 50 percent."
+7.70876725194 1536 In Hillary Clinton's tax returns, "you saw a lot of income coming from donors to the Clinton Foundation and people who benefitted from her State Department term as well."
+7.07506220277 1626 In Hillary Clinton’s America, “illegal immigrants … [are] collecting Social Security benefits, skipping the line.”
+7.07506220277 1627 In Hillary Clinton’s America, “illegal immigrants … [are] collecting Social Security benefits, skipping the line.”
+7.04779009834 1643 Says Hillary Clinton wants illegal immigrants "collecting Social Security benefits."
+9.37769509406 1657 Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."
+7.7429106112 1840 Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. "Donald Trump doesn't."
+7.7429106112 1841 Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. "Donald Trump doesn't."
+7.22809223045 1891 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+10.0 1905 "The only years that anybody's ever seen" of Donald Trump’s tax returns "showed he didn't pay any federal income tax."
+7.00840152013 1910 Says Hillary Clinton’s energy agenda "will cost the U.S. economy over $5 trillion"
+7.94470921787 1911 According to "independent experts," Donald Trump's tax plan "would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy."
+7.44798923581 1914 Says "Hillary Clinton's plan would bring in 620,000 refugees in her first term, alone, with no effective way to screen or vet them. Her plan would cost $400 billion in terms of lifetime welfare and entitlement costs."
+9.02258197575 1941 Publicly released Trump tax records "showed he didn't pay any federal income tax.”
+7.7429106112 1966 Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. "Donald Trump doesn't."
+7.0 2051 "These are radical Islamic terrorists, and (Hillary Clinton) won't even mention the word."
+7.45498913462 2059 Says Hillary Clinton "promised, running for the Senate years ago, 200,000 jobs for upstate New York. ... Not only didn't they come, but they lost so many jobs."
+7.08420119367 2061  Bill Clinton “had to pay an $850,000 fine to one of the women. Paula Jones"
+7.07267040281 2071 Says Hillary Clinton "viciously" attacked women abused by Bill Clinton.
+7.07267040281 2072 Says Hillary Clinton "viciously" attacked women abused by Bill Clinton.
+8.05003642893 2084 Says Donald Trump’s tax plan gives the wealthy and corporations "more than the Bush tax cuts by at least a factor of two."
+7.11630997461 2147 Says Donald Trump "actually stood on a debate stage during the Republican primaries and said, 'Wages in America are too high.'"
+7.0226713689 2174 Says Warren Buffett has publicly said his secretary "should not be paying a lower tax rate" than him.
+7.0226713689 2175 Says Warren Buffett has publicly said his secretary "should not be paying a higher tax rate" than him.
+7.11630997461 2187 Says Donald Trump "actually stood on a debate stage during the Republican primaries and said, 'Wages in America are too high.'"
+8.40311019997 2250 Says Hillary Clinton's "plan is going to raise taxes and even double your taxes."
+7.55309793197 2256 "There was even a time when (Donald Trump) didn't get an Emmy for his TV program three years in a row and he started tweeting that the Emmys were rigged."
+8.40572914143 2279 Claims her proposals would "not add a penny to the debt," while Donald Trump's tax cuts "add $20 trillion."
+7.0 2345 Donald Trump "doesn't make a thing in America."
+7.23452226975 2336 “Hillary Clinton gave them 20 percent of our uranium — gave Russia for a big payment.”
+7.13266780489 2342 Says Donald Trump "was asked if he would defend our allies. He said well, first he'd want to know if they made any payments to us to defend them."
+7.08788355009 2347 "The man who was in charge of the investigation of Hillary Clinton accepted essentially from Hillary Clinton $675,000 that went to his wife."
+7.01317333992 2387 “When Hillary Clinton served in the U.S. Senate for nearly a decade, women in her employ earned ... 72 cents for every dollar men earned.”
+8.5 2470 Says Donald Trump “doesn't believe in equal pay.”
+8.37215245587 2569 Under Donald Trump's tax plan, "51 percent of single parents would see their taxes go up."
+7.04444836184 3360 General Motors is sending Mexican made model of Chevy Cruze to U.S. car dealers-tax free across border. Make in U.S.A.or pay big border tax!
+7.54178039124 10296 The Bill and Hillary Clinton deal "allowed big Uranium to go to Russia."
+7.54178039124 10297 The Bill and Hillary Clinton deal "allowed big Uranium to go to Russia."
+7.54178039124 10298 The Bill and Hillary Clinton deal "allowed big Uranium to go to Russia."
+8.40311019997 922 Claims Hillary Clinton is going to “raise your taxes very substantially.”
+7.07267040281 7766 Says Hillary Clinton "viciously" attacked women abused by Bill Clinton.
+7.87769509406 7768 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+8.57944295936 1520 Claims Donald Trump’s plan for a child care tax deduction benefits “rich people like him” while “hard-working families” would get “little to nothing.”
+7.84399587396 1496 Claims Hillary Clinton “would tax many small businesses by almost 50 percent.”
+7.01960058847 9275 "The people that have been hired are all Hillary Clinton supporters. Some of them worked for Hillary Clinton. I mean the whole thing is ridiculous, if you want to know the truth, from that standpoint.”
+7.08788355009 9814 "The man who was in charge of the investigation of Hillary Clinton accepted essentially from Hillary Clinton $675,000 that went to his wife."
+7.08788355009 9813 "The man who was in charge of the investigation of Hillary Clinton accepted essentially from Hillary Clinton $675,000 that went to his wife."
+9.6092080911 605 "The only two (Donald Trump tax returns) we have show that he hasn't paid a penny in taxes."
+7.10361466364 861 "For the amount of money Hillary Clinton would like to spend on refugees, we could rebuild every inner city in America."
+7.97223910244 988 "Taxpayers are paying a fortune for the use of Air Force One on the campaign trail" by President Barack Obama and Hillary Clinton.
+7.6862004558 906 "As Secretary of State, Hillary Clinton laundered money to Bill Clinton through Laureate Education, while Bill Clinton was an honorary chairman of the group. Clinton’s State Department provided $55.2 million in grants to Laureate Education from 2010-2012. "
+7.08072398827 1273 "America has lost nearly one third of its manufacturing jobs since 1997, following the enactment of disastrous trade deals supported by Bill and Hillary Clinton."
+7.07506220277 1611 In Hillary Clinton’s America, “illegal immigrants … [are] collecting Social Security benefits, skipping the line.”
+8.41267162603 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+7.15340119014 1721 Says "Hillary Clinton has pledged amnesty in her first 100 days, and her plan will provide Obamacare, Social Security, and Medicare for illegal immigrants, breaking the federal budget."
+7.12756585854 1903 Says Donald Trump "was one of the people who rooted for the housing crisis. He said back in 2006, ‘Gee, I hope it does collapse because then I can go in and buy some and make some money.’ "
+7.19818799716 1908 Says Donald Trump "started his career back in 1973 being sued by the Justice Department for racial discrimination because he would not rent apartments in one of his developments to African-Americans."
+7.12756585854 2036 Says Donald Trump "was one of the people who rooted for the housing crisis. He said back in 2006, ‘Gee, I hope it does collapse because then I can go in and buy some and make some money.’ "
+7.68809072681 2173 "Many of (Hillary Clinton's) friends took bigger deductions (than me). Warren Buffett took a massive deduction. (George) Soros, who is a friend of hers, took a massive deduction."
+7.0 2252 When Hillary Clinton "ran the State Department, $6 billion was missing. How do you miss $6 billion? You ran the State Department, $6 billion was either stolen — they don't know."
+7.04444836184 3362 General Motors is sending Mexican made model of Chevy Cruze to U.S. car dealers-tax free across border. Make in U.S.A.or pay big border tax!
+7.25677618238 5916 "Currently, when we ship products out of America, many other countries make us pay very high tariffs and taxes — but when foreign companies ship their products into America, we charge them nothing or almost nothing."
+7.55172584836 11187 Farmers' heirs "can't pay the [estate] tax, so they have to sell the farm."
+7.51413859936 11193 “A married couple won't pay a dime in taxes on their first $24,000 of income. So a married couple, up to $24,000, can spend their money on their family, on their children, on what they have to do — so much better.”
+9.02258197575 11543 Publicly released Trump tax records "showed he didn't pay any federal income tax.”
+
+Matched 7.0
+4.95565127653 108 Says Donald Trump promised "to take care of everybody (through government-run healthcare and) the government's going to pay for it."
+4.94436267466 210 Says Donald Trump hired illegal workers "from Poland and he had to pay a million dollars or so in a judgment."
+4.99443178306 558 Says "there's nothing to learn" from his income tax returns.
+5.58102619991 576 Under Donald Trump's tax plan, "the top 0.1 percent of taxpayers -- people earning multiple millions of dollars a year, on average --  would get more tax relief than the bottom 60 percent of taxpayers combined."
+5.58102619991 606 Under Donald Trump's tax plan, "the top 0.1 percent of taxpayers -- people earning multiple millions of dollars a year, on average --  would get more tax relief than the bottom 60 percent of taxpayers combined."
+4.9703582605 894 Claims that Donald Trump said “women will start making equal pay as soon as we do as good a job as men.”
+6.49491039204 947 Claims that Americans “pay more personal tax” than residents anywhere else in the world.
+4.95565127653 107 Says Donald Trump promised "to take care of everybody (through government-run healthcare and) the government's going to pay for it."
+4.97223910244 982 "Taxpayers are paying a fortune for the use of Air Force One on the campaign trail" by President Obama and Hillary Clinton.
+5.55067293917 1250 Says Donald Trump "always pays his bills promptly."
+5.49796621144 1278 "While Hillary Clinton plans a massive, and I mean massive, tax increase, I have proposed the largest tax reduction of any candidate who has run for president this year, Democrat or Republican."
+4.9703582605 1696 Claims that "hundreds of thousands of jobs [would] disappear" as a result of Hillary Clinton's proposal to raise taxes.
+4.9703582605 1458 Hillary Clinton says she wants to raise taxes on the middle class.’
+4.9703582605 1459 Says Hillary Clinton says she wants to raise taxes on the middle class.
+4.9703582605 1465 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+4.94078226143 1470 Says he saw videotape "of the people taking the money off the plane" to pay ransom to Iran for hostages.
+4.9703582605 1495 Says Hillary Clinton “accidentally told the truth and said that she wanted to raise taxes on the middle class.”
+4.96192483527 1497 Says “American workers … should not be taxed again at death.”
+4.9703582605 1508 Says Hillary Clinton's plan "would tax many small businesses by almost 50 percent."
+6.4703582605 1657 Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."
+5.5 1740 "I released the most extensive financial review of anybody in the history of politics. … You don't learn much in a tax return."
+7.0 1905 "The only years that anybody's ever seen" of Donald Trump’s tax returns "showed he didn't pay any federal income tax."
+4.9703582605 1911 According to "independent experts," Donald Trump's tax plan "would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy."
+5.47377590277 1913 "You will learn more about Donald Trump by going down to the Federal Election Commission" to see the financial disclosure form than by looking at tax returns.
+4.96445454585 1921 Says that except for Donald Trump, "every other major party nominee" for the past 40 years has released their tax returns.
+5.27825263355 1940 "As far as tax return, you don’t learn that much” from tax returns.
+6.22956277702 1941 Publicly released Trump tax records "showed he didn't pay any federal income tax.”
+5.5 1951 "The 'New York Times' writes this long story" about Donald Trump’s tax returns but "didn't point out there was no wrongdoing" until paragraph 18.
+5.5 1952 "The 'New York Times' writes this long story" about Donald Trump’s tax returns but "didn't point out there was no wrongdoing" until paragraph 18.
+5.5087492085 1961 Claims Donald Trump "already promised in his tax plan to change many of these special interest loopholes and get rid of them so you don’t have this kind of situation."
+5.5 1964 "The 'New York Times' writes this long story" about Donald Trump’s tax returns but "didn't point out there was no wrongdoing" until paragraph 18.
+6.40265744264 2058 Says he has "a fiduciary responsibility to his business, his family and his employees to pay no more tax than legally required."
+5.58420119367 2061  Bill Clinton “had to pay an $850,000 fine to one of the women. Paula Jones"
+5.52039468943 2084 Says Donald Trump’s tax plan gives the wealthy and corporations "more than the Bush tax cuts by at least a factor of two."
+5.51795796474 2161 Says Donald Trump’s plan to repeal the estate tax would mean the Walmart Walton family would "get a $53 billion tax break."
+5.49577336641 2250 Says Hillary Clinton's "plan is going to raise taxes and even double your taxes."
+5.3979348274 2541 Claims that under his plan, "a middle-class family with two children will get about a 35 percent tax reduction."
+5.52039468943 2279 Claims her proposals would "not add a penny to the debt," while Donald Trump's tax cuts "add $20 trillion."
+5.5 2470 Says Donald Trump “doesn't believe in equal pay.”
+5.49577336641 2569 Under Donald Trump's tax plan, "51 percent of single parents would see their taxes go up."
+6.51410943575 3360 General Motors is sending Mexican made model of Chevy Cruze to U.S. car dealers-tax free across border. Make in U.S.A.or pay big border tax!
+4.91355555489 3481 "Paying for a hotel room is not a gift or a present and it has nothing to do with an office. It's not an emolument."
+5.51779740583 10228 Says Jose Felix Diaz supports President Donald Trump's "plan to slash Medicare, charge older Americans an age tax and cut coverage for pre-existing conditions."
+4.98556891976 5298 "Stock market hits new high with longest winning streak in decades. Great level of confidence and optimism - even before tax plan rollout!"
+6.41405314303 10273 "Amazon is doing great damage to tax paying retailers. Towns, cities and states throughout the U.S. are being hurt - many jobs being lost!"
+5.49577336641 922 Claims Hillary Clinton is going to “raise your taxes very substantially.”
+4.9703582605 7768 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+5.62981765532 1520 Claims Donald Trump’s plan for a child care tax deduction benefits “rich people like him” while “hard-working families” would get “little to nothing.”
+4.98098134502 8016 "And as far as the tax returns, as soon as the audits complete" I'll release them
+4.99471922615 8028 Claimed Jon Ossoff, a Democratic candidate in Georgia's 6th Congressional District, “will raise your taxes.”
+4.99471922615 8112 "Democrat Jon Ossoff would be a disaster in Congress. VERY weak on crime and illegal immigration, bad for jobs and wants higher taxes. Say NO"
+4.9703582605 1496 Claims Hillary Clinton “would tax many small businesses by almost 50 percent.”
+6.41405314303 8708 "I’m going to end up paying more than I pay right now in taxes, all right?"
+5.63787124078 8832 The federal tax code includes "deductions for birds flying across America."
+5.62273515455 8903 "If Donald Trump would stay home from Mar-a-Lago one weekend, it would pay the entire meals on wheels budget for the state of Missouri for almost two years."
+5.44557949045 8965 Says President Donald "Trump’s budget gives a $100 billion tax break to three of the wealthiest families."
+5.44557949045 8966 Says President Donald "Trump’s budget gives a $100 billion tax break to three of the wealthiest families."
+5.11764337266 10495 Republican Sen. Jeff Flake of Arizona hasn't worked with President Donald Trump to "repeal Obamacare."
+4.936670306 9204 "We're thinking about building the wall as a solar wall so it creates energy and pays for itself. ... Pretty good imagination, right? Good? My idea."
+4.91405314303 9212 Said he is pushing repeal of the federal estate tax so “farms can be passed on” to farmers’ children and grandchildren.
+4.91405314303 9852 “We have the highest taxes in the world.”
+5.51502276724 9853  “Actually if I get what I want it will be the single biggest tax cut in American history.”
+5.57635588132 359 Says Donald Trump’s "only economic agenda is imposing massive taxes on the American people with a 40 percent tax hike of a giant tariff."
+6.6092080911 605 "The only two (Donald Trump tax returns) we have show that he hasn't paid a penny in taxes."
+4.97223910244 988 "Taxpayers are paying a fortune for the use of Air Force One on the campaign trail" by President Barack Obama and Hillary Clinton.
+5.68935256223 1384 In first week as governor, Tim Kaine “proposed a nearly $4 billion tax increase, $4 billion, including a tax increase on people earning as little as $17,000 a year."
+5.44404754504 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+5.72419484021 1962 "The New York Times does not have any information in that story that says Mr. Trump did not pay taxes."
+5.354283794 1963 Claims that it took “about 26 paragraphs” for the New York Times to say that what Donald Trump did in taking a $916 million loss on his 1995 tax returns was “perfectly legal.”
+4.95565127653 2009 Says Donald Trump "hasn’t broken his promise" to release his tax returns.
+5.05003642893 3012 Claimed his tax plan will provide “massive tax cuts, by the way, for middle-class workers.”
+4.97841184596 3089 America’s federal business tax rate is the highest "in the world."
+6.51410943575 3362 General Motors is sending Mexican made model of Chevy Cruze to U.S. car dealers-tax free across border. Make in U.S.A.or pay big border tax!
+5.5 3439 Americans don't "care at all" about Donald Trump's tax returns.
+5.5236536457 5865 "Nearly 20 million Americans have chosen to pay the penalty or received an exemption rather than buy insurance. That’s something that nobody has ever heard of or thought could happen."
+6.47841184596 5916 "Currently, when we ship products out of America, many other countries make us pay very high tariffs and taxes — but when foreign companies ship their products into America, we charge them nothing or almost nothing."
+5.36993009277 6022 “Donald Trump wants to eliminate overtime pay for people. . . . He nominates someone to head the Labor Department who wants to gut overtime pay.”
+5.61511067134 6545 Trump-o-Meter promise: Allow individuals to deduct health care insurance premiums from taxes
+4.94436267466 7721 Says Donald Trump hired illegal workers "from Poland and he had to pay a million dollars or so in a judgment."
+5.43946824894 7855 “We have a great health care plan that I think will happen, and if it happens, then I go immediately to tax reform. And that will happen. That will be easier than health care.”
+5.43946824894 7864 "We have a great health care plan that I think will happen, and if it happens, then I go immediately to tax reform. And that will happen. That will be easier than health care."
+4.91405314303 8958 "Many of these [NATO] nations owe massive amounts of money from past years and not paying in those past years.”
+5.15435512644 9475 Says because of Donald Trump, "the IRS decided to stop enforcing the individual mandate that was the underpinning of the ACA. That has resulted in insurance companies all across the country jacking their rates up, explicitly because they don't believe that healthy people will buy insurance."
+5.60382115826 1960 Claims claimed that Donald Trump would have violated his “fiduciary obligation” to his company and “could have been sued by his investors” if he overpaid personal income taxes.
+5.28286729632 1798 Says he could “stop funding programs that are not authorized in law” to help pay for more spending on the military.
+4.91405314303 10586 The U.S. has been talking to North Korea, and paying them extortion money, for 25 years. Talking is not the answer!
+5.54446821199 10592 "Ronald Reagan led the world by cutting our corporate tax rate to 34 percent. ... Under this pro-America system, our economy boomed. It just went beautifully -- right through the roof. The middle class thrived and median family income increased."
+5.43561411981 10608 “The tax code is so complicated that more than 90 percent of Americans need professional help to do their own taxes.”
+5.522039734 10620 “Under [Ronald Reagan’s 1986 tax reform], our economy boomed. It just went beautifully right through the roof. The middle class thrived, and median family income increased.”
+6.41405314303 10624 Large U.S. companies that do business overseas have "anywhere from $3 trillion to $5 trillion" in offshore accounts to avoid paying U.S. taxes.
+4.91405314303 10626 The U.S. is “dead last” in terms of business taxes, with a rate “60 percent higher” than “our economic competitors.”
+5.43561411981 10627 "The tax code is so complicated that more than 90 percent of Americans need professional help to do their own taxes."
+5.54446821199 10721 "In 1986, President Ronald Reagan" cut the business tax rate to 34 percent and "it worked -- our economy boomed, the middle class thrived and median family income increased."
+5.46408957196 10911 “And the rich will not be gaining at all with this plan,” referring to his tax cut proposal.
+5.61631459164 10997 "We pay 22 percent of the entire UN budget and more."
+7.0 11187 Farmers' heirs "can't pay the [estate] tax, so they have to sell the farm."
+5.50898414642 11191 “I'm doing the right thing and it's not good for me, believe me. … We are also repealing the alternative minimum tax, or AMT.”
+5.43561411981 11192 “To protect millions of small businesses and the American farmer, we are finally ending the crushing, the horrible, the unfair estate tax, or as it is often referred to, the death tax.”
+7.0 11193 “A married couple won't pay a dime in taxes on their first $24,000 of income. So a married couple, up to $24,000, can spend their money on their family, on their children, on what they have to do — so much better.”
+4.92574439367 11194 “The tax strategy that Ronald Reagan used to create an economic boom in the 1980s when our economy took off, the middle class thrived... it was a beautiful sight to behold.”
+4.96192483527 11204 Ending the estate tax would "protect millions of small businesses and the American farmer."
+5.5 11216 Says "No, I don't benefit, I don't benefit" from his tax proposal.
+4.91405314303 11301 Says repeal of estate tax would save President Donald Trump's heirs $4 billion.
+4.98098134502 11538 "And as far as the tax returns, as soon as the audits complete" I'll release them
+6.22956277702 11543 Publicly released Trump tax records "showed he didn't pay any federal income tax.”
+5.00090789068 11586 Says “everybody’s gonna benefit” from his tax plan.
+5.467151075 11592 The NFL is "getting massive tax breaks."
+4.91405314303 11686 “Some people say it differently, and they will say we are the highest developed nation taxed in the world."
+5.467151075 11707 Said “more than 30 million” small businesses get “a 40 percent cut" in their tax rate.
+4.91405314303 11711 "We're the highest developed nation taxed in the world."
+6.41405314303 11708 Said a 25 percent tax rate is "substantially lower" than what "many" truckers pay.
+
+Matched 8.0
+6.5 851 Says Donald Trump has "bankrupted his companies not once, not twice but four times."
+6.00897764555 1645 "Since President Obama came into office, another 2 million Hispanics have joined the ranks of those in poverty. … The number of Hispanic children living in poverty increased by 15 percent in that short period of time."
+5.92682872401 2256 "There was even a time when (Donald Trump) didn't get an Emmy for his TV program three years in a row and he started tweeting that the Emmys were rigged."
+6.5 7714 Says Donald Trump has "bankrupted his companies not once, not twice but four times."
+5.90640513648 7716 "The National Debt in my first month went down by $12 billion."
+5.77185505059 7883 “’The New York Times’ said the word wiretapped in the headline of the first edition. Then they took it out of there fast when they realized.”
+5.77185505059 7898 “’The New York Times’ said the word wiretapped in the headline of the first edition. Then they took it out of there fast when they realized.”
+6.03479426384 9216 "I believe the time has come for new immigration rules which say that those seeking admission into our country must be able to support themselves financially and should not use welfare for a period of at least five years."
+6.16683685167 43 The wives of the 9/11 hijackers "knew exactly what was happening" and went back to Saudi Arabia two days before the attacks to watch their husbands on television flying the planes.
+5.90640513648 5710 "The National Debt in my first month went down by $12 billion."
+6.24442189862 11602 “We have missiles that can knock out a missile in the air 97 percent of the time, and if you send two of them, it's going to get knocked down.”
+
+Matched 9.0
+6.75831256083 705 “You have to assume that our enemies and our adversaries had access to every email that ever went over [Hillary Clinton's] private server.”
+6.54635896443 9819 "Attorney General Jeff Sessions has taken a VERY weak position on Hillary Clinton crimes (where are E-mails & DNC server) & Intel leakers!"
+
+NOT FOUND 8.5
+5.5 7747 Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.
+
+Matched 10.5
+8.05896996012 709 Says Donald Trump "says he has foreign policy experience because he ran the Miss Universe pageant in Russia."
+9.0 940 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+9.0 942 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+9.0 943 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+9.0 944 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+8.94842713936 945 Says Hillary Clinton "presided over $6 billion lost at the State Department, sold uranium to the Russians through (her) faux charity, illegally deleted public records, and murdered an ambassador."
+8.78219958875 697 Says Hillary Clinton has spoken "such lies about my foreign policy. They said I want Japan to … get nuclear weapons. Give me a break."
+7.36771402713 1419 "General Petraeus got in trouble for far less" than Hillary Clinton.
+8.03469044574 1439 “Our incompetent Secretary of State, Hillary Clinton, was the one who started talks to give 400 million dollars, in cash, to Iran."
+7.62532459061 1522 Says Donald Trump "has been talking about the option of using a nuclear weapon against our Western European allies."
+7.36410339429 1758 Says Hillary Clinton made “a terrible mistake on Libya” in supporting U.S. action that led to the removal of Moammar Gadhafi from power.
+10.5 1934 Says Hillary Clinton "gave up 20 percent of America's uranium supply to Russia."
+7.59374216639 2181 "The Department of Justice, the State Department and the FBI colluded, got together, to make Hillary Clinton look less guilty ."
+7.59374216639 2285 "The Department of Justice, the State Department and the FBI colluded, got together, to make Hillary Clinton look less guilty ."
+8.46479979373 2325 Claims Hillary Clinton "even handed over American uranium rights to the Russians."
+10.5 2336 “Hillary Clinton gave them 20 percent of our uranium — gave Russia for a big payment.”
+7.52252933185 2486 Says Donald Trump has said he loves war, "including with nukes."
+9.51673927807 5291 “Hillary Clinton gave away 20 percent of the uranium in the United States.”
+9.0 10296 The Bill and Hillary Clinton deal "allowed big Uranium to go to Russia."
+7.5 7029 Donald Trump’s tweets about Hillary Clinton and Russia
+9.0 10297 The Bill and Hillary Clinton deal "allowed big Uranium to go to Russia."
+9.0 10298 The Bill and Hillary Clinton deal "allowed big Uranium to go to Russia."
+9.0 7722 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+7.57901846345 9829 "The person in charge of the Hillary investigation, Andrew McCabe, got $700,000 from (Hillary Clinton) for wife!"
+7.59374216639 9877 Claimed Acting FBI Director Andrew McCabe "got $700,000" from Hillary Clinton for his wife's 2015 state Senate campaign in Virginia.
+8.20270760913 733 Says Donald Trump said the U.S. should "encourage" Japan to get nuclear weapons.
+9.0 941 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+7.41559253491 2173 "Many of (Hillary Clinton's) friends took bigger deductions (than me). Warren Buffett took a massive deduction. (George) Soros, who is a friend of hers, took a massive deduction."
+7.59374216639 2182 "The Department of Justice, the State Department and the FBI colluded, got together, to make Hillary Clinton look less guilty ."
+
+Matched 7.0
+6.0 1379 Claims Hillary Clinton deleted emails from her private server “after she gets a subpoena” from Congress.
+5.1581083202 1576 Medical documents purporting to be from Hillary Clinton's doctor and posted on conservative websites claim to show Clinton suffers from seizures and dementia.
+6.0 2044 "You (Hillary Clinton) get a subpoena, and after getting the subpoena you delete 33,000 emails."
+6.0 7824 "You (Hillary Clinton) get a subpoena, and after getting the subpoena you delete 33,000 emails."
+
+NOT FOUND 10.5
+6.75560291213 2439 “As it pertains to the CNN debates, I never had access to questions and would never have shared them with the candidates if I did.”
+
+Matched 6.0
+5.00907563005 250 The Colorado caucus system for selecting Republican delegates is "rigged."
+6.0 258 THE CLAIM: "Corrupt and crooked" elections have been "rigged" against Trump.
+4.5 689 We’ve broken "by millions" the all-time record for votes in a GOP presidential primary election.
+4.5 1016 Claims he “was the first to use” the term “rigged” and “then all of a sudden Bernie [Sanders] started using it and other people.”
+6.0 1436 Cited precincts in which "practically nobody" voted for Republican Mitt Romney in 2012 as indication of "rigged" elections.
+5.00907563005 1427 "As usual, Hillary & the Dems are trying to rig the debates so 2 are up against major NFL games."
+5.00907563005 1428 "As usual, Hillary & the Dems are trying to rig the debates so 2 are up against major NFL games."
+4.5 10069 “Since our election — not mine — since our election, we’ve added more than one million new jobs.”
+6.0 1546 Says the U.S. election system is "rigged."
+6.0 1550 Says the U.S. election system is "rigged."
+6.0 1551 Says the U.S. election system is "rigged."
+4.5 1893 "On November 1 ... new [Obamacare premium] numbers are coming out which will show 40, 50, 60 percent increases. They want to delay it until after the election."
+4.5 1913 "You will learn more about Donald T13rump by going down to the Federal Election Commission" to see the financial disclosure form than by looking at tax returns.
+4.5 2166 "Of course, there is large scale voter fraud happening on and before election day."
+4.5 2184 “Of course there is large scale voter fraud happening on and before election day."
+4.5 2256 "There was even a time when (Donald Trump) didn't get an Emmy for his TV program three years in a row and he started tweeting that the Emmys were rigged."
+5.11623573997 2324 "Wikileaks also shows how John Podesta rigged the polls by oversampling Democrats, a voter suppression technique."
+4.5 2321 Says Donald Trump is "the first person running for president, Republican or Democrat, who refused to say that he would respect the results of this election."
+4.5 3130 Trump's electoral fraud tweets and the public's fragile trust in elections
+4.5 3392 Activities by foreign governments had "absolutely no effect on the outcome of this election."
+4.5 3394 Activities by foreign governments had "absolutely no effect on the outcome of this election."
+4.5 3395 Activities by foreign governments had "absolutely no effect on the outcome of this election."
+4.5 5698 “But it was a little rigged against him [Bernie Sanders], you know, super delegate, super delegate."
+4.5 5699 "Ford and Fiat Chrysler, General Motors, Sprint, Intel, and so many others are now, because of the election result, making major investments in the United States."
+4.5 6191 Claimed as a “fact” that “President Obama was tapping my phones in October, just prior to Election!”
+4.5 6598 Says "the New York Times wrote about" Barack Obama wiretapping Donald Trump during the election.
+4.5 6813 "Since the day of my election, we've already cut illegal immigration at the southern border by 61 percent."
+4.5 6915 Claimed “new information” proves he was "right" when he tweeted that President Obama illegally wiretapped his phones during the 2016 election.
+4.5 7838 Claimed Toyota's $1.3 billion investment in its Georgetown, Kentucky, plant would “not have been made if we didn’t win the election."
+4.5 8011 "In the last presidential election, when [Donald] Trump won, we had the lowest voter turnout ... in 20 years."
+4.5 8707 Said "96 percent of journalists who made donations in the last election gave them to our opponent."
+4.5 9002 "The Democrats are using that faux — or fake — Russia story in order to make themselves feel better for losing an election that's very hard for a Democrat to lose.”
+4.5 9003 "Russian officials must be laughing at the U.S. & how a lame excuse for why the Dems lost the election has taken over the Fake News."
+4.5 9005 "The Democrats had to come up with a story as to why they lost the election, and so badly (306), so they made up a story - RUSSIA. Fake news!"
+4.5 9162 "The new Rasmussen Poll, one of the most accurate in the 2016 Election, just out with a Trump 50% Approval Rating. That's higher than O's #'s!"
+4.5 9426 Not 17, but 4, intel agencies found Russia meddled in election.,
+4.5 9424 Not 17, but 4, intel agencies found Russia meddled in election.,
+4.5 9425 Not 17, but 4, intel agencies found Russia meddled in election.,
+4.5 9438 Claimed former President Barack Obama “did nothing” from August to Nov. 8 about Russia meddling in the 2016 election.
+4.5 9468 Says Barack Obama found out about Russia "in August. Now, the election was in November. That's a lot of time. He did nothing about it."
+4.5 9914 "Since my election we’ve added much more than 1 million jobs."
+4.5 10000 “Stock Market could hit all-time high (again) 22,000 today. Was 18,000 only 6 months ago on Election Day. Mainstream media seldom mentions!”
+4.5 1431 Claims “Hillary & the Dems are trying to rig the debates so 2 are up against major NFL games.”
+4.5 1886 "On November 1 ... new [Obamacare premium] numbers are coming out which will show 40, 50, 60 percent increases. They want to delay it until after the election."
+5.00907563005 2113 Says the debates are “rigged” because the Commission on Presidential Debates’ “head guy used to work for Bill Clinton.”
+4.5 3393 Activities by foreign governments had "absolutely no effect on the outcome of this election."
+4.5 6154 “How low has President Obama gone to tapp [sic] my phones during the very sacred election process. This is Nixon/Watergate. Bad (or sick) guy!”
+4.5 6340 “How low has President Obama gone to tapp [sic] my phones during the very sacred election process. This is Nixon/Watergate. Bad (or sick) guy!”
+4.5 6580 "Already, we're seeing jobs coming back. Since my election ... just today, breaking news, General Motors announced that they’re adding or keeping 900 jobs right here in Michigan."
+4.5 8012 "In the last presidential election, when [Donald] Trump won, we had the lowest voter turnout ... in 20 years."
+4.5 8822 "This Russia thing with Trump and Russia is a made-up story. It's an excuse by the Democrats for having lost an election that they should've won."
+4.5 8898 "It was a 100 percent lie that (Donald Trump’s) election unleashed anti-Semitism. … Hundreds of Jewish community centers had bomb threats called in. To the best of our knowledge to this day, 90 percent of them were called in by an American Jewish kid living in Israel, and the other 10 percent were a black radical who was trying to impress his girlfriend."
+4.95503832247 9004 "Russia talk is FAKE NEWS put out by the Dems, and played up by the media, in order to mask the big election defeat and the illegal leaks!"
+4.5 9427 Not 17, but 4, intel agencies found Russia meddled in election.
+4.5 9437 Claimed the computer hacking of U.S. political organizations during the 2016 presidential election “could have been other people and other countries.”
+4.5 10577 Joe Arpaio "is loved in Arizona. ... He lost in a fairly close election. He would've won the election, but they just hammered him just before the election. I thought that was a very, very unfair thing to do."
+4.5 11020 "Fortunately, the United States has done very well since Election Day last November 8th. The stock market is at an all-time high -- a record."
+4.5 11018 “Fortunately, the United States has done very well since Election Day last November 8th. ... Unemployment is at its lowest level in 16 years.”
+4.5 11076 “How low has President Obama gone to tapp [sic] my phones during the very sacred election process. This is Nixon/Watergate. Bad (or sick) guy!”
+4.5 11498 "The Democrats had to come up with a story as to why they lost the election, and so badly (306), so they made up a story - RUSSIA. Fake news!"
+4.95503832247 11499 "Russia talk is FAKE NEWS put out by the Dems, and played up by the media, in order to mask the big election defeat and the illegal leaks!"
+4.5 11500 "Russian officials must be laughing at the U.S. & how a lame excuse for why the Dems lost the election has taken over the Fake News."
+4.5 11501 "The Democrats are using that faux — or fake — Russia story in order to make themselves feel better for losing an election that's very hard for a Democrat to lose.”
+4.5 11532 "Ford and Fiat Chrysler, General Motors, Sprint, Intel, and so many others are now, because of the election result, making major investments in the United States."
+4.5 11533 “But it was a little rigged against him [Bernie Sanders], you know, super delegate, super delegate."
+
+Matched 7.5
+7.5 707 Says "Donald Trump says climate change is a hoax invented by the Chinese."
+5.60422603223 1564 "I had previously said that NATO was obsolete because it failed to deal adequately with terrorism. Since my comments, they have changed their policy and now have a new division focused on terror threats."
+5.60422603223 1565 "I had previously said that NATO was obsolete because it failed to deal adequately with terrorism. Since my comments, they have changed their policy and now have a new division focused on terror threats."
+5.60422603223 1566 "I had previously said that NATO was obsolete because it failed to deal adequately with terrorism. Since my comments, they have changed their policy and now have a new division focused on terror threats."
+6.0 1840 Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. "Donald Trump doesn't."
+6.0 1841 Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. "Donald Trump doesn't."
+7.5 1899 "I did not — I did not — I do not say that. I do not say that" climate change is a hoax perpetrated by the Chinese.
+6.0 1966 Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. "Donald Trump doesn't."
+7.5 7726 Says "Donald Trump says climate change is a hoax invented by the Chinese."
+5.60422603223 1563 "I had previously said that NATO was obsolete because it failed to deal adequately with terrorism. Since my comments, they have changed their policy and now have a new division focused on terror threats."
+6.0 9215 Claimed the Paris Agreement on climate change is legally binding.
+
+Matched 8.0
+6.55531458013 2381 “You know the murder rate in the United States, I don’t know if you know this because the press never talks about it, is the highest it’s been, think of this, in 45 years.”
+6.0 3013 Said “the murder rate has experienced its largest increase in 45 years.”
+6.0 3197 "Think of it, the murder rate, more people are being murdered than in 45 years."
+6.0 10329 Says that the murder rate in 2015 "experienced its largest single-year increase in nearly half a century."
+- 6.46228375196 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+6.55531458013 2484 "We have the highest murder rate in this country in 45 years."
+6.55531458013 4028 "The murder rate in our country is the highest it’s been in 47 years."
+5.67568379891 10626 The U.S. is “dead last” in terms of business taxes, with a rate “60 percent higher” than “our economic competitors.”
+
+Matched 9.5
+7.92952215703 2052 "We have an increase in murder within our cities, the biggest in 45 years."
+7.92952215703 2053 "We have an increase in murder within our cities, the biggest in 45 years."
+7.92952215703 2055 "We have an increase in murder within our cities, the biggest in 45 years."
+9.5 2381 “You know the murder rate in the United States, I don’t know if you know this because the press never talks about it, is the highest it’s been, think of this, in 45 years.”
+8.95900007323 3013 Said “the murder rate has experienced its largest increase in 45 years.”
+8.5 3197 "Think of it, the murder rate, more people are being murdered than in 45 years."
+7.01759833209 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+7.92952215703 2054 "We have an increase in murder within our cities, the biggest in 45 years."
+9.5 2484 "We have the highest murder rate in this country in 45 years."
+- 8.5 4028 "The murder rate in our country is the highest it’s been in 47 years."
+
+Matched 10.5
+7.5293877537 1576 Medical documents purporting to be from Hillary Clinton's doctor and posted on conservative websites claim to show Clinton suffers from seizures and dementia.
+
+Matched 7.5
+5.25391219541 856 Says Hillary Clinton "said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers."
+5.78336948475 1176 "Barack Obama and Hillary Clinton have left us with $19 trillion in debt."
+5.70398859199 10897 "There had been 75 straight months of job growth under President Obama and incomes for the bottom 80% were finally starting to go up."
+
+Matched 12.0
+9.26098108459 2030 Says "Donald Trump proposes to deport 16 million people, 11 million who are here without documents, and both Donald Trump and Mike Pence want to get rid of birthright citizenship."
+8.5 2254 Says Donald Trump "said as recently as a few weeks ago in Phoenix that every undocumented person would be subject to deportation."
+11.0 2306 "Donald Trump says he'd deport 16 million people."
+11.0 2307 "Donald Trump says he'd deport 16 million people."
+11.0 2351 “Donald Trump says he’d deport 16 million people."
+9.33232030557 2391 Says Hillary Clinton "wants to let people just pour in. You could have 650 million people pour in and we do nothing about it. Think of it. That’s what could happen. You triple the size of our country in one week."
+8.5 2419 Says of Donald Trump, "He even said, on his very first day in office, he would require every school in America to let people carry guns into our classrooms."
+8.5 2453 Says of Donald Trump, "He even said, on his very first day in office, he would require every school in America to let people carry guns into our classrooms."
+8.5 1520 Claims Donald Trump’s plan for a child care tax deduction benefits “rich people like him” while “hard-working families” would get “little to nothing.”
+9.33232030557 2393 Says Hillary Clinton "wants to let people just pour in. You could have 650 million people pour in and we do nothing about it. Think of it. That’s what could happen. You triple the size of our country in one week."
+
+Matched 7.5
+6.99070166418 1893 "On November 1 ... new [Obamacare premium] numbers are coming out which will show 40, 50, 60 percent increases. They want to delay it until after the election."
+6.47301045223 2190 "Your [Obamacare] health insurance is going up … 68 percent, 59 percent, 71 percent.”
+6.0 2585 "It's just been announced that the residents of Florida are going to experience a massive, double-digit premium hike."
+6.0 10326 "Obamacare premiums nationwide have increased by double and triple digits."
+5.49070166418 8834 “The best thing that is happening with the health care is premiums will come down.”
+6.0 9138 "Obamacare premiums have doubled" in Wisconsin.
+5.90600818444 9221 “In Alaska, they’ve gone up 207 percent on Obamacare."
+6.99070166418 1886 "On November 1 ... new [Obamacare premium] numbers are coming out which will show 40, 50, 60 percent increases. They want to delay it until after the election."
+6.47301045223 2062  "Your [Obamacare] health insurance is going up … 68 percent, 59 percent, 71 percent.”
+7.5 2267 On Obamacare, "the premiums are going up 60, 70, 80 percent."
+5.29630898486 5402  “We’ve gotten hundreds of millions of dollars off the price of a plane that was going to be ordered.”
+6.0 5775 "Obamacare premiums nationwide have increased by double and triple digits."
+5.4075952807 8888 Before Obamacare, Wisconsin’s "high-risk pool" for health insurance "had eight or nine" plans to choose from, people "could go to any doctor or any hospital they wanted, and their premiums and co-pays were cheaper than they are under Obamacare today."
+
+Matched 10.0
+7.0 2348 "It’s the craziest thing in the world.”
+7.0 11544 "It’s the craziest thing in the world.”
+
+Matched 10.5
+7.67439458239 1282 Says Hillary Clinton "has called for a radical 550 percent increase in Syrian  ... refugees . . .  despite the fact that there’s no way to screen these refugees in order to find out who they are or where they come from."
+8.22227412312 1517 Claims President Obama "founded ISIS" and "the co-founder" was former Secretary of State Hillary Clinton.
+8.22227412312 1513 Says Barack Obama "founded ISIS. I would say the co-founder would be crooked Hillary Clinton."
+7.67439458239 1281 Says Hillary Clinton "has called for a radical 550 percent increase in Syrian  ... refugees . . .  despite the fact that there’s no way to screen these refugees in order to find out who they are or where they come from."
+8.22227412312 7815 Says Barack Obama "founded ISIS. I would say the co-founder would be crooked Hillary Clinton."
+7.3558165208 11659 “If you look at President Obama and other presidents, most of them didn't make calls. A lot of them didn't make calls. I like to call when it's appropriate, when I think I am able to do it.”
+
+Matched 8.5
+8.5 1944 "I got a very, very small loan from my father many years ago. I built that into a massive empire."
+
+Matched 7.5
+6.57485603032 330 "I was totally against the war in Iraq, saying for many years that it would destabilize the Middle East."
+6.57485603032 332 "I was totally against the war in Iraq, saying for many years that it would destabilize the Middle East."
+6.58527895404 853 "I was among the earliest to criticize the rush to war (in Iraq), and yes, even before the war ever started."
+5.85760804308 852 Quotes Donald Trump saying “I love war in a certain way” (slight pause) “including with nukes, yes, including with nukes.”
+5.90569774591 615 "Look, we are at war with these people and they don't wear uniforms. … This is a war against people that are vicious, violent people, that we have no idea who they are, where they come from. We are allowing tens of thousands of them into our country now."
+6.0 337 "I was never for it [Iraq War]. I was against it — before it ever started, I was against it. And I was against it from before 2004."
+6.62014241959 1231 On the Iraq war, "I said it loud and clear, 'You'll destabilize the Middle East.' "
+6.0 1227 On the Iraq war, "I said it loud and clear, 'You'll destabilize the Middle East.' "
+6.59595520418 1400  "Donald Trump, you are asking Americans to trust you with our future. Let me ask you: Have you even read the U.S. Constitution?"
+6.59595520418 1401 "Donald Trump, you are asking Americans to trust you with our future. Let me ask you: Have you even read the U.S. Constitution?"
+6.62014241959 1742  "I was totally against the war in Iraq."
+5.75899378927 1509 "Mr. Trump did indeed send his plane ... to transport over 200 Gulf War Marines back home."
+5.68520849746 1555 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+5.68520849746 1557 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+6.62014241959 1553 “I was an opponent of the Iraq War from the beginning -- a major difference between me and my opponent.”
+5.68520849746 1560 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+5.68520849746 1562 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+5.68520849746 1567 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+5.68520849746 1568 Claims President Obama and Hillary Clinton said "we're moving out, here's our time, here's our date" for troop withdrawal from Iraq.
+5.68520849746 1569 Claims President Obama and Hillary Clinton said "we're moving out, here's our time, here's our date" for troop withdrawal from Iraq.
+5.68520849746 1570 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+7.5 1571 Claims a Jan. 28, 2003 TV interview proves he opposed the Iraq War “from the beginning.”
+5.99684948377 1613 "Neither Hillary Clinton or Donald Trump has a plan to address the civil war in Syria."
+5.62776547509 1729 Says the U.S. has admitted about 100,000 immigrants from Iraq and Afghanistan over the last five years.
+6.62014241959 1763  "I was totally against the war in Iraq."
+6.61536567482 1764 Claims Donald Trump "is on record as supporting [the Iraq war] after it happened."
+5.65512177668 1765 Claims President Obama set a “certain date” for withdrawing troops from Iraq.
+5.68520849746 1559 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+6.51879961689 1901 "I did not support the war in Iraq … The record shows that I’m right."
+6.51879961689 1939 "I did not support the war in Iraq."
+6.51879961689 2039 "I did not support the war in Iraq."
+6.51879961689 2042 "I did not support the war in Iraq."
+6.51879961689 2050 “I was against the war in Iraq. Has not been debunked.”
+7.5 2266 I opposed the Iraq war
+5.83919796625 2486 Says Donald Trump has said he loves war, "including with nukes."
+5.61314914233 4532 "72% of refugees admitted into U.S. (2/3 -2/11) during COURT BREAKDOWN are from 7 countries: SYRIA, IRAQ, SOMALIA, IRAN, SUDAN, LIBYA & YEMEN."
+6.0 7826 "I was totally against the war in Iraq."
+5.69587406276 8706 Claimed President Andrew Jackson "was really angry that he saw what was happening with regard to the Civil War. He said, 'There’s no reason for this.'"
+5.68520849746 1554 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+5.94461398449 712 Says Donald Trump "has the gall to say that prisoners of war like John McCain aren’t heroes."
+5.7104389248 895 Quotes Donald Trump saying “I love war, in a certain way," then saying “including with nukes, yes, including with nukes.”
+5.65110185924 1493 "The Obama-Clinton war on coal has cost Michigan over 50,000 jobs."
+5.75899378927 1510 "Mr. Trump did indeed send his plane ... to transport over 200 Gulf War Marines back home."
+5.75899378927 1511 "Mr. Trump did indeed send his plane ... to transport over 200 Gulf War Marines back home."
+5.68520849746 1558 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+5.25934633426 1794 "The Germans, the French, countries that opposed us in the (Iraq) war, all believed (Saddam Hussein) had weapons of mass destruction."
+6.0 7738 "I was among the earliest to criticize the rush to war (in Iraq), and yes, even before the war ever started."
+5.68520849746 1556 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+
+Matched 6.0
+4.5 629 "The only two [tax returns] we have show that he hasn't paid a penny in taxes.”
+5.10594176574 649 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 650 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 653 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 656 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 657 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 658 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 660 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 662 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 663 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 664 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 665 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 667 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 668 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 669 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 670 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 671 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 673 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 674 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 659 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 675 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.0102574791 1278 "While Hillary Clinton plans a massive, and I mean massive, tax increase, I have proposed the largest tax reduction of any candidate who has run for president this year, Democrat or Republican."
+4.5 1301 "I am the only candidate who ran in either primary who said, ‘I will not raise taxes on the middle class.’"
+4.5 1696 Claims that "hundreds of thousands of jobs [would] disappear" as a result of Hillary Clinton's proposal to raise taxes.
+4.5 1458 Hillary Clinton says she wants to raise taxes on the middle class.’
+4.5 1459 Says Hillary Clinton says she wants to raise taxes on the middle class.
+4.5 1465 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+4.5 1495 Says Hillary Clinton “accidentally told the truth and said that she wanted to raise taxes on the middle class.”
+4.5 1508 Says Hillary Clinton's plan "would tax many small businesses by almost 50 percent."
+5.05629024058 1536 In Hillary Clinton's tax returns, "you saw a lot of income coming from donors to the Clinton Foundation and people who benefitted from her State Department term as well."
+4.5 1657 Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."
+5.02122674212 1673 Says Hillary Clinton "voted to raise taxes on workers earning as little as $41,500."
+5.02122674212 1676  Says Hillary Clinton "voted to raise taxes on workers earning as little as $41,500."
+5.05629024058 1905 "The only years that anybody's ever seen" of Donald Trump’s tax returns "showed he didn't pay any federal income tax."
+5.01431653373 1911 According to "independent experts," Donald Trump's tax plan "would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy."
+5.05629024058 1941 Publicly released Trump tax records "showed he didn't pay any federal income tax.”
+5.02893099067 1953 The Great Recession emerged "in large part because of tax policies that slashed taxes on the wealthy, failed to invest in the middle class, took their eyes off of Wall Street, and created a perfect storm."
+4.5 2084 Says Donald Trump’s tax plan gives the wealthy and corporations "more than the Bush tax cuts by at least a factor of two."
+4.5 2174 Says Warren Buffett has publicly said his secretary "should not be paying a lower tax rate" than him.
+4.5 2175 Says Warren Buffett has publicly said his secretary "should not be paying a higher tax rate" than him.
+4.5 2191 Says Warren Buffett has publicly said his secretary "should not be paying a higher tax rate" than him.
+6.0 2250 Says Hillary Clinton's "plan is going to raise taxes and even double your taxes."
+4.5 2279 Claims her proposals would "not add a penny to the debt," while Donald Trump's tax cuts "add $20 trillion."
+4.99967262799 2569 Under Donald Trump's tax plan, "51 percent of single parents would see their taxes go up."
+4.5 922 Claims Hillary Clinton is going to “raise your taxes very substantially.”
+4.5 7768 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+5.02122674212 1520 Claims Donald Trump’s plan for a child care tax deduction benefits “rich people like him” while “hard-working families” would get “little to nothing.”
+4.5 1496 Claims Hillary Clinton “would tax many small businesses by almost 50 percent.”
+4.98594173243 325 "Hillary Clinton has promised to raise taxes by $1 trillion."
+4.5 605 "The only two (Donald Trump tax returns) we have show that he hasn't paid a penny in taxes."
+5.10594176574 651 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 652 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 654 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 655 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 661 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 666 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+5.10594176574 672 "I believe we should have tax on carbon and deal aggressively with climate change. That is not (Hillary Clinton's) position."
+4.5 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+5.02893099067 1935 The Great Recession "was in large part because of tax policies" of George W. Bush.
+5.05629024058 11543 Publicly released Trump tax records "showed he didn't pay any federal income tax.”
+
+Matched 7.5
+5.29236444044 543 Hillary Clinton "politically attacked sexual harassment victims"
+5.4236674673 822 Did Hillary Clinton volunteer in 1975 to defend a rapist, who was found not guilty, and laugh about it in 1980?
+6.00304883817 542 Hillary Clinton "defended an accused child rapist, then laughed about his lenient sentence"
+6.78454526093 2049 Says after Hillary Clinton helped a man accused of raping a 12-year-old, "she's seen laughing on two separate occasions, laughing at the girl who was raped."
+6.78454526093 7753 Says after Hillary Clinton helped a man accused of raping a 12-year-old, "she's seen laughing on two separate occasions, laughing at the girl who was raped."
+6.00304883817 541 Hillary Clinton "defended an accused child rapist, then laughed about his lenient sentence"
+
+Matched 12.5
+12.5 981 Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.
+9.56769231911 1745 "Classified material has a header which says ‘top-secret, secret, confidential.’ Nothing, and I will repeat this and this is verified in the report by the Department of Justice, none of the emails sent or received by me had such a header."
+12.5 7747 Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.
+
+Matched 9.5
+6.69494331667 1481 "Yesterday for the first time she said she wants to renegotiate trade agreements."
+7.01447483887 948 Claims the North American Free Trade Agreement was "Bill Clinton’s disastrous and totally disastrous NAFTA."
+6.99410392637 1273 "America has lost nearly one third of its manufacturing jobs since 1997, following the enactment of disastrous trade deals supported by Bill and Hillary Clinton."
+6.934063581 1277 Says Hillary Clinton "supported North American Free Trade Agreement), and she supported China’s entrance into the World Trade Organization…. She supported the job-killing trade deal with South Korea. She supported the Trans-Pacific Partnership."
+8.0049204589 1900  Says Hillary Clinton called the Trans-Pacific Partnership “the gold standard. You called it the gold standard of trade deals. You said it’s the finest deal you’ve ever seen.”
+
+Matched 8.5
+7.47736957095 1032 "Independent analysts say (Donald Trump) would add $30 trillion to the national debt."
+6.44538737683 1902 Says Donald Trump once suggested that he “would try to negotiate down the national debt.”
+6.46801780588 1911 According to "independent experts," Donald Trump's tax plan "would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy."
+7.0 2269 “I do not add a penny to the national debt.”
+6.47736957095 2279 Claims her proposals would "not add a penny to the debt," while Donald Trump's tax cuts "add $20 trillion."
+6.0 2277 "What I have put forward does not add a penny to the debt."
+
+Matched 6.0
+4.25498571867 267 "When I withdrew in June of 2008, polls were showing that at least 40 percent of my supporters said, oh, they weren't going to support Sen. Obama."
+5.14813912411 863 Says Hillary Clinton’s "State Department blocked investigation into Orlando killer’s mosque."
+5.14813912411 864 Says Hillary Clinton’s "State Department blocked investigation into Orlando killer’s mosque."
+4.27505862163 940 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+4.27505862163 942 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+4.27505862163 943 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+4.27505862163 944 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+4.22727691906 982 "Taxpayers are paying a fortune for the use of Air Force One on the campaign trail" by President Obama and Hillary Clinton.
+4.5 1148 "Just look at what the FBI director said about her (Hillary Clinton) — her misconduct  is a disgrace and embarrassment to our country."
+4.5 1211 Says Hillary Clinton "said all work-related emails were sent back to the State Department. The FBI director said, that's not true."
+4.21149333554 1234 Clinton blamed terrorism for the attack in an email to her own daughter Chelsea Clinton, but "when I saw Hillary Clinton at Sean’s coffin ceremony, just days later, she looked me squarely in the eye and told me a video was responsible."
+4.21149333554 1238 Clinton blamed terrorism for the attack in an email to her own daughter Chelsea Clinton, but "when I saw Hillary Clinton at Sean’s coffin ceremony, just days later, she looked me squarely in the eye and told me a video was responsible."
+4.37349516257 1323 Hillary Clinton and Ralph Northam “label police as racists.”
+4.20602868716 1330 "As secretary of state, (Hillary Clinton) worked hard to get strong sanctions against Iran's nuclear program" and "got Russia and China to support them."
+4.28376152682 1385 Says Hillary Clinton "negotiated the first agreement — ever — where China and India officially committed to reduce their emissions."
+4.22727691906 1517 Claims President Obama "founded ISIS" and "the co-founder" was former Secretary of State Hillary Clinton.
+4.28376152682 1386 Says Hillary Clinton "negotiated the first agreement — ever — where China and India officially committed to reduce their emissions."
+4.25556950096 1391 "Our economy is so much stronger than when (Barack Obama and Joe Biden) took office. Nearly 15 million new private-sector jobs."
+4.25556950096 1404 “Our economy is so much stronger than when they [Obama and Biden] took office. Nearly 15 million new private-sector jobs.”
+4.25556950096 1402 Claimed 15 million private-sector jobs have been created since President Obama took office.
+4.5 1423 Says, regarding the presence of classified information in her email, FBI Director James "Comey said my answers were truthful, and what I've said is consistent with what I have told the American people."
+5.04825394454 1425 Claims that FBI Director James Comey found her public statements about not sending or receiving classified email to be “truthful.”
+4.5 1449 “As the FBI said, everything that I’ve said publicly has been consistent and truthful with what I’ve told them.”
+4.22727691906 1460 Says "nearly 15 million new private-sector jobs" have been created under President Obama.
+4.23186934983 1475 Says Barack Obama and Hillary Clinton are "responsible for leading America into a deal that will arm Iran."
+4.24589960586 1527 Claims Donald Trump said, “I alone can fix it.” Says, “Isn’t he forgetting? Troops on the front lines. Police officers and fire fighters ...”
+4.22727691906 1555 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+4.22727691906 1557 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+4.22727691906 1560 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+4.22727691906 1562 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+4.22727691906 1567 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+4.22727691906 1568 Claims President Obama and Hillary Clinton said "we're moving out, here's our time, here's our date" for troop withdrawal from Iraq.
+4.22727691906 1569 Claims President Obama and Hillary Clinton said "we're moving out, here's our time, here's our date" for troop withdrawal from Iraq.
+4.22727691906 1570 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+5.04825394454 1579 "The FBI director ... had to amend the previous day’s statement, that she [Hillary Clinton] had never received any emails marked classified."
+4.34897294974 1641 Says Hillary Clinton "abided by the ethics agreement" between the Clinton Foundation and the Obama administration.
+4.22727691906 1730 “President Obama and Hillary Clinton support sanctuary cities.”
+6.0 1748 Claims the FBI investigation of Hillary Clinton found “more than 15,000 additional emails dealing with national security.”
+4.22727691906 1559 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+4.5 2181 "The Department of Justice, the State Department and the FBI colluded, got together, to make Hillary Clinton look less guilty ."
+4.5 2285 "The Department of Justice, the State Department and the FBI colluded, got together, to make Hillary Clinton look less guilty ."
+6.0 2337 Claims Hillary Clinton knew about $675,000 in donations to the campaign of an FBI official's wife and implies they were made to influence an FBI investigation of Clinton’s private email system.
+5.11302219064 2347 "The man who was in charge of the investigation of Hillary Clinton accepted essentially from Hillary Clinton $675,000 that went to his wife."
+6.0 2410 "The FBI has reopened its investigation into Hillary Clinton ... and discovered another 650,000 emails."
+6.0 2454 "The FBI has reopened its investigation into Hillary Clinton ... and discovered another 650,000 emails."
+4.5 2468 "Twitter, Google and Facebook are burying the FBI criminal investigation of Clinton."
+4.5 2544 “The FBI agents say their investigation is likely to yield an indictment" in Clinton Foundation case.
+4.20602868716 2547 Claims President Vladimir Putin of Russia "is directing cyberattacks against targets in the United States to influence the outcome of our election."
+4.20602868716 10296 The Bill and Hillary Clinton deal "allowed big Uranium to go to Russia."
+4.20602868716 7029 Donald Trump’s tweets about Hillary Clinton and Russia
+4.20602868716 10297 The Bill and Hillary Clinton deal "allowed big Uranium to go to Russia."
+4.20602868716 10298 The Bill and Hillary Clinton deal "allowed big Uranium to go to Russia."
+4.27505862163 7722 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+4.22727691906 1554 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+5.11302219064 9814 "The man who was in charge of the investigation of Hillary Clinton accepted essentially from Hillary Clinton $675,000 that went to his wife."
+5.22956277702 9818 "Problem is that the acting head of the FBI & the person in charge of the Hillary investigation, Andrew McCabe, got $700,000 from H for wife!"
+5.11302219064 9813 "The man who was in charge of the investigation of Hillary Clinton accepted essentially from Hillary Clinton $675,000 that went to his wife."
+5.18640086397 9829 "The person in charge of the Hillary investigation, Andrew McCabe, got $700,000 from (Hillary Clinton) for wife!"
+4.99760420279 9877 Claimed Acting FBI Director Andrew McCabe "got $700,000" from Hillary Clinton for his wife's 2015 state Senate campaign in Virginia.
+4.25498571867 268 "When I withdrew in June of 2008, polls were showing that at least 40 percent of my supporters said, oh, they weren't going to support Sen. Obama."
+4.27505862163 941 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+4.22727691906 988 "Taxpayers are paying a fortune for the use of Air Force One on the campaign trail" by President Barack Obama and Hillary Clinton.
+4.21149333554 1237 Clinton blamed terrorism for the attack in an email to her own daughter Chelsea Clinton, but "when I saw Hillary Clinton at Sean’s coffin ceremony, just days later, she looked me squarely in the eye and told me a video was responsible."
+4.22727691906 1558 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+4.24589960586 1892 Claims Donald Trump said, “I alone can fix it.” Says, “Isn’t he forgetting? Troops on the front lines. Police officers and fire fighters ...”
+4.21873292676 1972 "Iraq has been overrun by ISIS because Hillary Clinton failed to renegotiate . . . a status of forces agreement."
+4.24589960586 2041 Claims Donald Trump said, “I alone can fix it.” Says, “Isn’t he forgetting? Troops on the front lines. Police officers and fire fighters ...”
+4.5 2182 "The Department of Justice, the State Department and the FBI colluded, got together, to make Hillary Clinton look less guilty ."
+6.0 2385 Says FBI Director James Comey’s letter about new developments in the investigation into her emails "only" went "to Republican members of the House."
+6.0 2386 "There are Justice Department policies against" FBI Director James Comey discussing details of a federal investigation "so close to an election."
+4.5 7761 Says, regarding the presence of classified information in her email, FBI Director James "Comey said my answers were truthful, and what I've said is consistent with what I have told the American people."
+4.5 9242 Says investigators have found remains of missing women in steel barrels buried on Bill and Hillary Clinton’s property.
+4.5 1489 FBI Director James Comey said that Hillary Clinton "had no knowledge of some of those so-called classified e-mails because they were either not marked or they were not classified at the time or they were incorrectly marked."
+4.22727691906 2149 Says Hillary Clinton “lied” when she said she was not secretary of state when President Obama issued his “red line” threat to use military force if Syrian President Bashar Assad used chemical weapons against his own people.
+4.5 1649 "[Hillary Clinton] said she turned over all of her work-related emails. But the FBI found thousands she never turned over, and now just recently found another 15,000 more."
+4.22727691906 1556 Claims President Obama and Hillary Clinton said "we’re moving out, here’s our time, here’s our date" for troop withdrawal from Iraq.
+4.22727691906 10658 Katie Couric canceled an interview with Hillary Clinton because Clinton called former President Obama a racial slur.
+4.22727691906 10897 "There had been 75 straight months of job growth under President Obama and incomes for the bottom 80% were finally starting to go up."
+
+Matched 11.0
+8.75251561046 483 "Mitt Romney is the first major party candidate for president of the United States in modern times not to release at least 12 years of tax returns."
+9.0 1740 "I released the most extensive financial review of anybody in the history of politics. … You don't learn much in a tax return."
+8.19327252047 8093 Says the T.R.U.M.P. Act, which would force presidential candidates to release their tax returns to run in North Carolina, "has a lot of support – by a majority of North Carolinians and members of both parties."
+8.32657472911 605 "The only two (Donald Trump tax returns) we have show that he hasn't paid a penny in taxes."
+9.0 2009 Says Donald Trump "hasn’t broken his promise" to release his tax returns.
+
+NOT FOUND 6.5
+3.80922145715 488 Did Bill and Hillary Clinton return furniture they took from the White House in 2001?
+
+Matched 4.5
+4.5 2056 "ICE just endorsed me."
+4.5 3675 Says ICE and border patrol officers "unanimously endorsed me for president."
+
+NOT FOUND 12.5
+7.5 2272 “Those stories [of women saying Trump assaulted them] have been largely debunked."
+
+Matched 7.5
+6.0 3279 Says Donald Trump's first 17 Cabinet appointments "have a net worth of more than a third of America."
+6.0 3319 Says Donald Trump's first 17 Cabinet appointments "have a net worth of more than a third of America."
+
+Matched 7.0
+6.29712746136 891 Says Hillary Clinton’s immigration platform would "create totally open borders."
+5.5 1166 “Hillary Clinton is for open borders.”
+5.5 1165 “Hillary Clinton is for open borders.”
+6.0 1539 Says Hillary Clinton once "wanted a wall" on the Mexican border.
+6.29712746136 1656 Claims Hillary Clinton would "end virtually all immigration enforcement and thus create totally open borders for the United States."
+6.29712746136 1689 Claims Hillary Clinton’s immigration plan “would functionally end enforcement of visa overstay rules — another open border decree.”
+5.29712746136 1714 "Under Donald Trump, America would distinguish itself as the only country in the world to impose a religious test at the border," Clinton said in Reno, Nevada.
+4.90515750482 1884 Says Hillary Clinton and Tim Kaine "want to shut down shale, and shut down natural gas."
+4.90515750482 1885 Says Hillary Clinton and Tim Kaine "want to shut down shale, and shut down natural gas."
+4.90515750482 1887 Says Hillary Clinton and Tim Kaine "want to shut down shale, and shut down natural gas."
+6.17622581877 2088 Says "I’ve been proven right" about "Hillary Clinton's radical call for open borders, meaning anyone in the world can enter the United States without any limit at all."
+7.0 2107 Claimed Hillary Clinton said she wants “open borders” with “no controls over trade or immigration.
+7.0 2103 Claimed Hillary Clinton said that she wants an “open borders” with “no controls over trade or immigration."
+7.0 2247 Says Hillary Clinton "wants to have open borders."
+4.90515750482 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+6.17622581877 1690 Claims Hillary Clinton will “close down detention centers for border crossings, meaning she will have an open southern border.”
+
+Matched 10.0
+7.5 1067 The money the Clinton Foundation took from from foreign governments while Hillary Clinton was secretary of state "is clearly illegal. … The Constitution says you can’t take this stuff."
+7.5 1068 The money the Clinton Foundation took from from foreign governments while Hillary Clinton was secretary of state "is clearly illegal. … The Constitution says you can’t take this stuff."
+7.82123604479 2015 “More than half of the private meetings when she [Clinton] was secretary of state were given to major donors of the Clinton Foundation.”
+
+Matched 9.0
+6.35101644452 735 Judge Gonzalo Curiel "is giving us very unfair rulings, rulings that people can’t even believe. This case should have ended years ago on summary judgment."
+6.52365408138 2161 Says Donald Trump’s plan to repeal the estate tax would mean the Walmart Walton family would "get a $53 billion tax break."
+6.59390108662 2342 Says Donald Trump "was asked if he would defend our allies. He said well, first he'd want to know if they made any payments to us to defend them."
+6.33906880734 3797 "If the ban were announced with a one week notice, the "bad" would rush into our country during that week. A lot of bad "dudes" out there!"
+6.44151229191 8960 "Many of the countries in question (in Trump’s travel ban) don't even have a U.S. embassy there to help us vet."
+6.64995307999 9029 "People, the lawyers and the courts can call it whatever they want, but I am calling it what we need and what it is, a TRAVEL BAN!"
+6.55383205984 6395 ays President Donald Trump's travel ban could ban Somalis "from getting relief (from famine) through coming to the United States."
+6.50639299598 8605 "Donald Trump to issue an executive order to ban Facebook across U.S."
+6.39432631181 11301 Says repeal of estate tax would save President Donald Trump's heirs $4 billion.
+6.33906880734 11552 "If the ban were announced with a one week notice, the "bad" would rush into our country during that week. A lot of bad "dudes" out there!"
+
+NOT FOUND 9.0
+6.24520481546 1241 Says Hillary Clinton lied about a video causing the Benghazi attacks, despite knowing it was terrorism
+
+Matched 8.5
+8.5 2057 "I was gone" when there was a red line against Syria.
+6.52305151754 2149 Says Hillary Clinton “lied” when she said she was not secretary of state when President Obama issued his “red line” threat to use military force if Syrian President Bashar Assad used chemical weapons against his own people.
+
+Matched 6.0
+6.0 456 Says Mexico can afford to build a wall because the country's trade deficit with America is billions of dollars.
+4.20925688509 1973 "When Donald Trump spoke in Phoenix, he looked the audience in the eye and he said ‘no, we're building a wall and we're deporting everybody.’ He said, quote, ‘they will all be gone. They will all be gone.’ This is one of the ones where you can go to the tape on it and see what Donald Trump has said."
+4.30924984554 2005 Says GOP Congressional candidate Scott Jones “wants to build a wall. He wants to round people up and deport folks.”
+4.35506888336 2732 Kanye West said "build the wall" and "get rid of them all" during his Donald Trump speech.
+4.31748743534 9204 "We're thinking about building the wall as a solar wall so it creates energy and pays for itself. ... Pretty good imagination, right? Good? My idea."
+4.22425529846 1677 "They were going to build the wall a while ago, not so long ago, like in '06. And they couldn't get environmental impact statements."
+5.18297360712 8326 Claimed the wall he wants to build on the Mexico border will cost “$10 billion or less."
+
+Matched 10.0
+8.64175779446 429 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+7.93066251932 478 Says Hillary Clinton "wants to abolish the Second Amendment."
+7.0 998 Says Donald Trump “wants to get rid of the federal minimum wage.”
+7.93066251932 1274 Says Hillary Clinton "wants to essentially abolish the Second Amendment."
+8.64175779446 1524 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+7.32331922574 1533 Hillary Clinton "has already said she's going to wipe out the Second Amendment. She doesn't believe in the First Amendment. And, she also believes in big government, which flies in the face of the 10th Amendment"
+8.64175779446 1891 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+
+Matched 7.0
+5.5 769 Says Donald Trump mocked "someone with a disability."
+5.5 770 Says Donald Trump mocked "someone with a disability."
+5.5 771 Says Donald Trump mocked "someone with a disability."
+5.5 772 Says Donald Trump mocked "someone with a disability."
+5.5 774 Says Donald Trump mocked "someone with a disability."
+5.5 775 Says Donald Trump mocked "someone with a disability."
+7.0 2257 Says Hillary Clinton is "wrong" to say he mocked a disabled reporter.
+7.0 7751 Says Hillary Clinton is "wrong" to say he mocked a disabled reporter.
+
+Matched 8.5
+6.38705971557 218 Said he has campaigned to raise the minimum wage to $15 an hour. "Secretary Clinton said, let's raise it to $12.”
+7.58081959 265 "Hillary Clinton was at the State Department working with U.S. corporations to pressure Haiti not to raise the minimum wage to 61 cents an hour from 24 cents."
+7.0 998 Says Donald Trump “wants to get rid of the federal minimum wage.”
+6.48075792226 1458 Hillary Clinton says she wants to raise taxes on the middle class.’
+6.48075792226 1459 Says Hillary Clinton says she wants to raise taxes on the middle class.
+6.48075792226 1465 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+6.48075792226 1495 Says Hillary Clinton “accidentally told the truth and said that she wanted to raise taxes on the middle class.”
+6.63789812864 1657 Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."
+6.48075792226 7768 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+6.38705971557 196 Said he has campaign to raise the minimum wage to $15 an hour. "Secretary Clinton said, let's raise it to $12.”
+6.78965903379 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+
+Matched 10.0
+8.5 998 Says Donald Trump “wants to get rid of the federal minimum wage.”
+7.0 2030 Says "Donald Trump proposes to deport 16 million people, 11 million who are here without documents, and both Donald Trump and Mike Pence want to get rid of birthright citizenship."
+
+Matched 10.0
+9.10281427792 1301 "I am the only candidate who ran in either primary who said, ‘I will not raise taxes on the middle class.’"
+10.0 1458 Hillary Clinton says she wants to raise taxes on the middle class.’
+10.0 1459 Says Hillary Clinton says she wants to raise taxes on the middle class.
+10.0 1465 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+10.0 1495 Says Hillary Clinton “accidentally told the truth and said that she wanted to raise taxes on the middle class.”
+7.5 1657 Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."
+8.06738476982 1953 The Great Recession emerged "in large part because of tax policies that slashed taxes on the wealthy, failed to invest in the middle class, took their eyes off of Wall Street, and created a perfect storm."
+10.0 7768 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+7.5 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+
+Matched 8.5
+6.0 1458 Hillary Clinton says she wants to raise taxes on the middle class.’
+6.0 1459 Says Hillary Clinton says she wants to raise taxes on the middle class.
+6.0 1465 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+6.0 1495 Says Hillary Clinton “accidentally told the truth and said that she wanted to raise taxes on the middle class.”
+6.55003642893 1657 Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."
+6.55526492705 2084 Says Donald Trump’s tax plan gives the wealthy and corporations "more than the Bush tax cuts by at least a factor of two."
+6.79712746136 2279 Claims her proposals would "not add a penny to the debt," while Donald Trump's tax cuts "add $20 trillion."
+6.50453207955 10228 Says Jose Felix Diaz supports President Donald Trump's "plan to slash Medicare, charge older Americans an age tax and cut coverage for pre-existing conditions."
+6.0 7768 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+6.29712746136 1520 Claims Donald Trump’s plan for a child care tax deduction benefits “rich people like him” while “hard-working families” would get “little to nothing.”
+6.0 8112 "Democrat Jon Ossoff would be a disaster in Congress. VERY weak on crime and illegal immigration, bad for jobs and wants higher taxes. Say NO"
+6.18262705292 8965 Says President Donald "Trump’s budget gives a $100 billion tax break to three of the wealthiest families."
+6.18262705292 8966 Says President Donald "Trump’s budget gives a $100 billion tax break to three of the wealthiest families."
+7.5 9853  “Actually if I get what I want it will be the single biggest tax cut in American history.”
+6.5652759621 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+6.56532815494 3012 Claimed his tax plan will provide “massive tax cuts, by the way, for middle-class workers.”
+6.0 10592 "Ronald Reagan led the world by cutting our corporate tax rate to 34 percent. ... Under this pro-America system, our economy boomed. It just went beautifully -- right through the roof. The middle class thrived and median family income increased."
+6.0 10721 "In 1986, President Ronald Reagan" cut the business tax rate to 34 percent and "it worked -- our economy boomed, the middle class thrived and median family income increased."
+7.50453207955 10911 “And the rich will not be gaining at all with this plan,” referring to his tax cut proposal.
+6.71109527515 11707 Said “more than 30 million” small businesses get “a 40 percent cut" in their tax rate.
+
+Matched 7.5
+5.43555204659 552 "Elizabeth Warren lied when she says I want to abolish the Federal Minimum Wage."
+5.29712746136 576 Under Donald Trump's tax plan, "the top 0.1 percent of taxpayers -- people earning multiple millions of dollars a year, on average --  would get more tax relief than the bottom 60 percent of taxpayers combined."
+5.29712746136 606 Under Donald Trump's tax plan, "the top 0.1 percent of taxpayers -- people earning multiple millions of dollars a year, on average --  would get more tax relief than the bottom 60 percent of taxpayers combined."
+5.65324182051 1278 "While Hillary Clinton plans a massive, and I mean massive, tax increase, I have proposed the largest tax reduction of any candidate who has run for president this year, Democrat or Republican."
+5.29712746136 1696 Claims that "hundreds of thousands of jobs [would] disappear" as a result of Hillary Clinton's proposal to raise taxes.
+5.80777068591 1421 "Trump proposes tax cuts, too -- $3 trillion for millionaires like himself and $2 trillion for corporations like his."
+6.0 1458 Hillary Clinton says she wants to raise taxes on the middle class.’
+6.0 1459 Says Hillary Clinton says she wants to raise taxes on the middle class.
+6.0 1465 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+6.0 1495 Says Hillary Clinton “accidentally told the truth and said that she wanted to raise taxes on the middle class.”
+5.29712746136 1508 Says Hillary Clinton's plan "would tax many small businesses by almost 50 percent."
+6.55003642893 1657 Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."
+5.29712746136 1911 According to "independent experts," Donald Trump's tax plan "would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy."
+6.55526492705 2084 Says Donald Trump’s tax plan gives the wealthy and corporations "more than the Bush tax cuts by at least a factor of two."
+5.89095098715 2161 Says Donald Trump’s plan to repeal the estate tax would mean the Walmart Walton family would "get a $53 billion tax break."
+6.79712746136 2279 Claims her proposals would "not add a penny to the debt," while Donald Trump's tax cuts "add $20 trillion."
+5.29712746136 2569 Under Donald Trump's tax plan, "51 percent of single parents would see their taxes go up."
+5.60684422186 2889 On Donald Trump’s plan to cut federal funding to sanctuary cities, "because of a decision by the Supreme Court, no president's in a position to cut off funding across the board. It has to be very specific to the matter at hand."
+5.63085601893 3360 General Motors is sending Mexican made model of Chevy Cruze to U.S. car dealers-tax free across border. Make in U.S.A.or pay big border tax!
+6.50453207955 10228 Says Jose Felix Diaz supports President Donald Trump's "plan to slash Medicare, charge older Americans an age tax and cut coverage for pre-existing conditions."
+5.63085601893 10273 "Amazon is doing great damage to tax paying retailers. Towns, cities and states throughout the U.S. are being hurt - many jobs being lost!"
+6.0 7768 "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "
+5.29712746136 1520 Claims Donald Trump’s plan for a child care tax deduction benefits “rich people like him” while “hard-working families” would get “little to nothing.”
+6.0 8112 "Democrat Jon Ossoff would be a disaster in Congress. VERY weak on crime and illegal immigration, bad for jobs and wants higher taxes. Say NO"
+5.29712746136 1496 Claims Hillary Clinton “would tax many small businesses by almost 50 percent.”
+5.72734422956 8708 "I’m going to end up paying more than I pay right now in taxes, all right?"
+5.67464311579 8965 Says President Donald "Trump’s budget gives a $100 billion tax break to three of the wealthiest families."
+5.67464311579 8966 Says President Donald "Trump’s budget gives a $100 billion tax break to three of the wealthiest families."
+5.38803955829 2276 "Donald Trump's education plan to dramatically slash funding for public education would fire 49,000 Texas teachers."
+7.5 9853  “Actually if I get what I want it will be the single biggest tax cut in American history.”
+6.5652759621 1695 "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."
+6.56532815494 3012 Claimed his tax plan will provide “massive tax cuts, by the way, for middle-class workers.”
+5.63085601893 3362 General Motors is sending Mexican made model of Chevy Cruze to U.S. car dealers-tax free across border. Make in U.S.A.or pay big border tax!
+5.63085601893 5916 "Currently, when we ship products out of America, many other countries make us pay very high tariffs and taxes — but when foreign companies ship their products into America, we charge them nothing or almost nothing."
+5.52372571347 6022 “Donald Trump wants to eliminate overtime pay for people. . . . He nominates someone to head the Labor Department who wants to gut overtime pay.”
+5.39522929347 7855 “We have a great health care plan that I think will happen, and if it happens, then I go immediately to tax reform. And that will happen. That will be easier than health care.”
+5.39522929347 7864 "We have a great health care plan that I think will happen, and if it happens, then I go immediately to tax reform. And that will happen. That will be easier than health care."
+5.29712746136 1960 Claims claimed that Donald Trump would have violated his “fiduciary obligation” to his company and “could have been sued by his investors” if he overpaid personal income taxes.
+6.0 10592 "Ronald Reagan led the world by cutting our corporate tax rate to 34 percent. ... Under this pro-America system, our economy boomed. It just went beautifully -- right through the roof. The middle class thrived and median family income increased."
+5.53257195643 10608 “The tax code is so complicated that more than 90 percent of Americans need professional help to do their own taxes.”
+5.63085601893 10624 Large U.S. companies that do business overseas have "anywhere from $3 trillion to $5 trillion" in offshore accounts to avoid paying U.S. taxes.
+5.53257195643 10627 "The tax code is so complicated that more than 90 percent of Americans need professional help to do their own taxes."
+6.0 10721 "In 1986, President Ronald Reagan" cut the business tax rate to 34 percent and "it worked -- our economy boomed, the middle class thrived and median family income increased."
+5.78308103861 10870 President Donald Trump's deal with Democratic leaders “basically freezes last year’s funding in place, which is a cut of $52 billion” in the defense budget.
+6.50453207955 10911 “And the rich will not be gaining at all with this plan,” referring to his tax cut proposal.
+5.51350920508 11193 “A married couple won't pay a dime in taxes on their first $24,000 of income. So a married couple, up to $24,000, can spend their money on their family, on their children, on what they have to do — so much better.”
+5.29712746136 11204 Ending the estate tax would "protect millions of small businesses and the American farmer."
+5.76024549179 11301 Says repeal of estate tax would save President Donald Trump's heirs $4 billion.
+5.80491880093 11592 The NFL is "getting massive tax breaks."
+6.71109527515 11707 Said “more than 30 million” small businesses get “a 40 percent cut" in their tax rate.
+
+Matched 7.5
+5.64977812145 791 Says Republicans rejected a Democratic measure to "block suspected terrorists from buying guns who are on the no-fly list."
+5.52548925079 697 Says Hillary Clinton has spoken "such lies about my foreign policy. They said I want Japan to … get nuclear weapons. Give me a break."
+5.57847507943 1522 Says Donald Trump "has been talking about the option of using a nuclear weapon against our Western European allies."
+5.54998818315 2545 “I am running against a man who says he doesn’t understand why we can’t use nuclear weapons. He actually said, ‘then why are we making them?’”
+5.52047352444 733 Says Donald Trump said the U.S. should "encourage" Japan to get nuclear weapons.
+5.70649326031 2149 Says Hillary Clinton “lied” when she said she was not secretary of state when President Obama issued his “red line” threat to use military force if Syrian President Bashar Assad used chemical weapons against his own people.
+
+Matched 6.0
+4.5 10034 “The president was not -- did not -- draft the response. The response came from Donald Trump Jr. and -- I’m sure -- in consultation with his lawyer.”
+
+Matched 7.5
+6.0 7779 Say photographs of Hillary Clinton at the debate show what could be an earpiece.
+
+Matched 4.5
+4.5 1576 Medical documents purporting to be from Hillary Clinton's doctor and posted on conservative websites claim to show Clinton suffers from seizures and dementia.
+
+Matched 7.5
+5.50494619053 537 Says over the last 400 years “it has taken every single country at least 10 years to get over a financial crisis this severe.”
+
+Matched 8.5
+6.16324811778 429 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+7.52149032332 998 Says Donald Trump “wants to get rid of the federal minimum wage.”
+6.57825213871 231 Says Jeb Bush and Marco Rubio "had it set so that the winner takes everything, because they wanted to make sure that I didn't get anything" in the Florida primary.
+6.61476429575 697 Says Hillary Clinton has spoken "such lies about my foreign policy. They said I want Japan to … get nuclear weapons. Give me a break."
+6.16324811778 1524 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+6.16324811778 1891 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+6.57127429595 1961 Claims Donald Trump "already promised in his tax plan to change many of these special interest loopholes and get rid of them so you don’t have this kind of situation."
+7.47904445188 2030 Says "Donald Trump proposes to deport 16 million people, 11 million who are here without documents, and both Donald Trump and Mike Pence want to get rid of birthright citizenship."
+6.0 3011 "Got to get the jobs. Got 96 million people out there. We got to get them going, and they want to work. They gave up looking for jobs."
+6.51421165841 3432 “96 million really wanting a job and they can't get. You know that story. That's the real number.”
+5.97430291049 5700 "We’re getting bad ones out, those are the ones that go first and I said it from day one. Basically all I’ve done is keep my promise.”
+6.01908325069 8212 "You know, back when they did NATO there was no such thing as terrorism."
+6.33909345581 9675 "I've gotten rid of the Johnson Amendment … I signed an executive order so that now ... ministers and and preachers and rabbis and whoever it may be, they can speak. You know, you couldn’t speak politically before, now you can."
+6.49684584 9853  “Actually if I get what I want it will be the single biggest tax cut in American history.”
+6.73540939832 1918 "NATO is opening up a major terror division. ... I'm sure I'm not going to get credit for it, but that was largely because of what I was saying and my criticism of NATO."
+6.06727673078 3696 "Do you know if you were a Christian in Syria it was impossible, at least very tough to get into the United States?"
+6.47060306329 8799 "The abuses were all over. As just one example, people were forbidden from giving or receiving religious items at a military hospital where our brave service members were being treated, and when they wanted those religious items. ... They were precluded from getting them."
+6.47060306329 11721 “I don't want to make the insurance companies rich.... they're making a fortune by getting that kind of money.”
+
+Matched 12.0
+9.06192844334 1488 "Many people are saying that the Iranians killed the scientist who helped the U.S. because of Hillary Clinton's hacked emails."
+9.0 1744 Says Donald Trump is "on record extensively supporting (the) intervention in Libya."
+12.0 1758 Says Hillary Clinton made “a terrible mistake on Libya” in supporting U.S. action that led to the removal of Moammar Gadhafi from power.
+8.91622858326 1764 Claims Donald Trump "is on record as supporting [the Iraq war] after it happened."
+8.83133330089 9275 "The people that have been hired are all Hillary Clinton supporters. Some of them worked for Hillary Clinton. I mean the whole thing is ridiculous, if you want to know the truth, from that standpoint.”
+9.06192844334 1494 "Many people are saying that the Iranians killed the scientist who helped the U.S. because of Hillary Clinton's hacked emails."
+
+Matched 8.0
+7.0 527 "We've already lost $500 million in economic impact" from HB2 fallout in North Carolina.
+5.6649316225 6232 Says HB2 has hurt North Carolina’s economy by "one-tenth of 1 percent of our annual GDP."
+
+Matched 5.0
+4.0 527 "We've already lost $500 million in economic impact" from HB2 fallout in North Carolina.
+
+NOT FOUND 7.5
+4.72166826887 11247 Says a photograph shows Seattle Seahawks player Michael Bennett burning the United States flag.
+
+Matched 13.5
+9.69594734976 2498 "Richard Burr voted to protect tax breaks for companies that ship jobs overseas but voted against a tax break to help working people."
+
+Matched 9.0
+9.0 981 Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.
+7.5 1745 "Classified material has a header which says ‘top-secret, secret, confidential.’ Nothing, and I will repeat this and this is verified in the report by the Department of Justice, none of the emails sent or received by me had such a header."
+9.0 7747 Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.
+
+Matched 7.5
+6.0 441 Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."
+7.5 981 Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.
+6.0 705 “You have to assume that our enemies and our adversaries had access to every email that ever went over [Hillary Clinton's] private server.”
+6.0 1379 Claims Hillary Clinton deleted emails from her private server “after she gets a subpoena” from Congress.
+6.0 1423 Says, regarding the presence of classified information in her email, FBI Director James "Comey said my answers were truthful, and what I've said is consistent with what I have told the American people."
+6.0 1425 Claims that FBI Director James Comey found her public statements about not sending or receiving classified email to be “truthful.”
+6.0 1579 "The FBI director ... had to amend the previous day’s statement, that she [Hillary Clinton] had never received any emails marked classified."
+6.0 1745 "Classified material has a header which says ‘top-secret, secret, confidential.’ Nothing, and I will repeat this and this is verified in the report by the Department of Justice, none of the emails sent or received by me had such a header."
+6.0 9819 "Attorney General Jeff Sessions has taken a VERY weak position on Hillary Clinton crimes (where are E-mails & DNC server) & Intel leakers!"
+6.0 440 Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."
+7.5 7747 Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.
+6.0 7761 Says, regarding the presence of classified information in her email, FBI Director James "Comey said my answers were truthful, and what I've said is consistent with what I have told the American people."
+6.0 1489 FBI Director James Comey said that Hillary Clinton "had no knowledge of some of those so-called classified e-mails because they were either not marked or they were not classified at the time or they were incorrectly marked."
+
+Matched 7.5
+6.0 981 Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.
+6.64397813578 1423 Says, regarding the presence of classified information in her email, FBI Director James "Comey said my answers were truthful, and what I've said is consistent with what I have told the American people."
+6.64397813578 1425 Claims that FBI Director James Comey found her public statements about not sending or receiving classified email to be “truthful.”
+6.0 1579 "The FBI director ... had to amend the previous day’s statement, that she [Hillary Clinton] had never received any emails marked classified."
+6.0 1745 "Classified material has a header which says ‘top-secret, secret, confidential.’ Nothing, and I will repeat this and this is verified in the report by the Department of Justice, none of the emails sent or received by me had such a header."
+6.0 7747 Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.
+6.64397813578 7761 Says, regarding the presence of classified information in her email, FBI Director James "Comey said my answers were truthful, and what I've said is consistent with what I have told the American people."
+6.0 1489 FBI Director James Comey said that Hillary Clinton "had no knowledge of some of those so-called classified e-mails because they were either not marked or they were not classified at the time or they were incorrectly marked."
+
+Matched 7.5
+6.0 429 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+5.29712746136 530 "Donald Trump would force schools to allow guns in classrooms on his first day in office.”
+5.4214783138 697 Says Hillary Clinton has spoken "such lies about my foreign policy. They said I want Japan to … get nuclear weapons. Give me a break."
+6.0 1524 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+6.0 1891 "Hillary Clinton wants to take your guns away and she wants to abolish the Second Amendment."
+6.79712746136 2160 Hillary Clinton said gun confiscation "would be worth considering."
+5.38705971557 2419 Says of Donald Trump, "He even said, on his very first day in office, he would require every school in America to let people carry guns into our classrooms."
+5.38705971557 2453 Says of Donald Trump, "He even said, on his very first day in office, he would require every school in America to let people carry guns into our classrooms."
+
+Matched 10.5
+10.5 1811 "When Moammar Gadhafi was set to visit the United Nations, and no one would let him stay in New York, Trump allowed Gadhafi to set up an elaborate tent at his Westchester County (New York) estate."
+10.5 1812 "When Moammar Gadhafi was set to visit the United Nations, and no one would let him stay in New York, Trump allowed Gadhafi to set up an elaborate tent at his Westchester County (New York) estate."
+
+Matched 11.5
+11.5 1616 "Even Richard Nixon released his tax returns to the public when he was running for president ..."
+11.5 1617 "Even Richard Nixon released his tax returns to the public when he was running for president ..."
+11.5 1619 "Even Richard Nixon released his tax returns to the public when he was running for president ..."
+11.5 1620 "Even Richard Nixon released his tax returns to the public when he was running for president ..."
+11.5 1621 "Even Richard Nixon released his tax returns to the public when he was running for president ..."
+11.5 1622 "Even Richard Nixon released his tax returns to the public when he was running for president ..."
+11.5 1624 "Even Richard Nixon released his tax returns to the public when he was running for president ..."
+8.14225420462 1719 "Candidates for 40 years, both parties, this is not a partisan statement, have released their tax returns. Richard Nixon released his tax returns."
+8.43647549993 1957 "Every Republican nominee since Richard Nixon, who at one time was under an audit, has released their tax returns."
+8.36387797612 8093 Says the T.R.U.M.P. Act, which would force presidential candidates to release their tax returns to run in North Carolina, "has a lot of support – by a majority of North Carolinians and members of both parties."
+11.5 1618 "Even Richard Nixon released his tax returns to the public when he was running for president ..."
+11.5 1623 "Even Richard Nixon released his tax returns to the public when he was running for president ..."
+
+Matched 4.5
+3.56663413726 940 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+3.56663413726 942 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+3.56663413726 943 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+3.56663413726 944 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+3.49760420279 799 "Nine million people have lower-cost HIV/AIDS medicine because of the work of the Clinton Foundation and my husband."
+3.61930023347 1641 Says Hillary Clinton "abided by the ethics agreement" between the Clinton Foundation and the Obama administration.
+4.5 2544 “The FBI agents say their investigation is likely to yield an indictment" in Clinton Foundation case.
+3.56663413726 7722 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+3.49760420279 7825 "The Clinton Foundation is a charity where President and Secretary Clinton and their daughter, they take no salary, they get no money from it, they take no personal benefit from it."
+3.5819058268 8785 "Clinton Foundation ordered to cease operations – Chelsea (Clinton) charged with fraud!"
+3.56663413726 941 Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."
+3.49760420279 1706 "The Clinton Foundation is a charity where President and Secretary Clinton and their daughter, they take no salary, they get no money from it, they take no personal benefit from it."
+4.5 2955 “Monica Peterson went to the country of Haiti to investigate links between the Clinton Foundation and human trafficking."
+
+Matched 10.0
+9.09706249305 2390 Says Hillary Clinton "shows up in Broward County" and had a private meeting with elections supervisor Brenda Snipes.
+7.02366911189 2386 "There are Justice Department policies against" FBI Director James Comey discussing details of a federal investigation "so close to an election."
+
+Matched 10.0
+9.26889443157 2169 "When asked about equal pay for women, (Rubio’s) quote was that it was a waste of time."
+
+Matched 11.5
+8.30420501267 2164 Says Marco Rubio "opposes immigration reform. Worse, Rubio supports Donald Trump. His plan would deport 800,000 children, destroying families."
+10.4738135034 2341 "We have never done business with Donald Trump."
+
+Matched 10.0
+9.03408789782 902 Says Ron Johnson referred to "The Lego Movie" as an "insidious anti-business conspiracy."
+9.03408789782 899 Says Ron Johnson referred to "The Lego Movie" as an "insidious anti-business conspiracy."
+9.03408789782 903 Says Ron Johnson referred to "The Lego Movie" as an "insidious anti-business conspiracy."
+
+Matched 8.5
+6.01939458474 1653 The Hollywood celebrities endorsing Hillary Clinton are "in many cases celebrities that aren’t very hot anymore."
+7.72956277702 2083 Says Paul Ryan "is still endorsing Trump."
+6.0 2087 “Despite winning the second debate in a landslide (every poll), it is hard to do well when Paul Ryan and others give zero support!”
+
+Matched 9.0
+9.0 529 Says there's "no way" that hairspray used over the years "in my apartment ... affects the ozone layer."
+
+Matched 8.5
+7.0 1855 Claims Zika “affects everyone” — not just pregnant women and their babies — because recent research found that it “causes people to go blind.”
+
+Matched 10.5
+9.0 1681 Suggests John McCain is too old to fulfill another six-year Senate term, saying "the life expectancy of the American male is not 86. It's less."
+
+Matched 6.0
+4.54939655621 41 Says Donald Trump has said "he would be neutral between Israel and its enemies."
+4.57233324753 807 "The Obama administration was actively supporting Al Qaeda in Iraq, the terrorist group that became the Islamic State."
+4.57233324753 808 "The Obama administration was actively supporting Al Qaeda in Iraq, the terrorist group that became the Islamic State."
+4.38327798009 811 "According to Pew Research, 99 percent of the people in Afghanistan support oppressive Sharia law."
+4.56956901422 800 On his support for Donald Trump.
+4.57233324753 816 Claims a conservative news report proved he was “right” in suggesting President Obama supported terrorists.
+4.5 1011 Says Ron Johnson justifies his support of trade agreements by saying the U.S. has the Trade Adjustment Assistance program for displaced workers, but then he "voted to eliminate it."
+4.5 1030 Says Ron Johnson "supported a plan to cut benefits and raise the retirement age" for Social Security.
+4.5 1031 Says Ron Johnson "supported a plan to cut benefits and raise the retirement age" for Social Security.
+4.75721530841 1191 Alton Sterling was shot and killed by Louisiana police officer (and Donald Trump supporter) Robert Kinnison.
+4.69900917603 1258 Says Ted Cruz "didn't honor the pledge" to support Trump.
+4.69900917603 1259 Says Ted Cruz "didn't honor the pledge" to support Trump.
+4.43558696622 1743 Says Donald Trump supports "an agenda out there" to privatize the Veterans Affairs health care system.
+4.29527691345 1473 Claims a reporter was "trying to change his story" after writing an article that Trump said supported Trump's 9/11 claim.
+4.43558696622 1634 Says a CNN anchor said that Hillary Clinton has gotten "a free ride so far from the media. We're the biggest ones supporting her campaign."
+5.12976679754 1675 Says he’d register 20% support if pollsters listed him with Clinton and Trump in earlier poll questions.
+4.57233324753 1730 “President Obama and Hillary Clinton support sanctuary cities.”
+4.43558696622 1744 Says Donald Trump is "on record extensively supporting (the) intervention in Libya."
+4.43558696622 1758 Says Hillary Clinton made “a terrible mistake on Libya” in supporting U.S. action that led to the removal of Moammar Gadhafi from power.
+4.43558696622 1757 Says Donald Trump supports privatizing the Veterans Health Administration.
+4.43558696622 1764 Claims Donald Trump "is on record as supporting [the Iraq war] after it happened."
+4.37832245718 1901 "I did not support the war in Iraq … The record shows that I’m right."
+4.37832245718 1939 "I did not support the war in Iraq."
+4.37832245718 2039 "I did not support the war in Iraq."
+4.37832245718 2042 "I did not support the war in Iraq."
+4.9997802461 2087 “Despite winning the second debate in a landslide (every poll), it is hard to do well when Paul Ryan and others give zero support!”
+4.86559163317 2137 "Bruce Rauner is of record that he will fully support the Trump candidacy. It's documented. It’s available."
+4.73196160819 2164 Says Marco Rubio "opposes immigration reform. Worse, Rubio supports Donald Trump. His plan would deport 800,000 children, destroying families."
+4.5 2205 "During his 18-year Senate career, (Russ Feingold) supported judges who voted to deny your individual Second Amendment right. … (He) promises to protect those rights, but that's not what his record shows."
+4.5 2491 Says Donald Trump and Ron Johnson "oppose a woman's right to choose and Johnson voted against the Violence Against Women Act."
+4.36851037931 2526 "I have tremendous support from women."
+4.57233324753 2675 Says Denzel Washington supports Donald Trump and speaks out against Barack Obama.
+4.27240164653 3010 Claimed his support from blacks and Hispanics compared with other Republican presidential nominees was “better than has taken place in years back, in years back.”
+4.60996127668 10228 Says Jose Felix Diaz supports President Donald Trump's "plan to slash Medicare, charge older Americans an age tax and cut coverage for pre-existing conditions."
+4.59024557536 8093 Says the T.R.U.M.P. Act, which would force presidential candidates to release their tax returns to run in North Carolina, "has a lot of support – by a majority of North Carolinians and members of both parties."
+4.44997842507 9216 "I believe the time has come for new immigration rules which say that those seeking admission into our country must be able to support themselves financially and should not use welfare for a period of at least five years."
+4.43558696622 9275 "The people that have been hired are all Hillary Clinton supporters. Some of them worked for Hillary Clinton. I mean the whole thing is ridiculous, if you want to know the truth, from that standpoint.”
+4.39394855144 9885 "We've achieved a historic increase in defense spending to get our troops the support they so richly deserve."
+4.71343883316 251 "The chairman of the party of Florida, who is an avid and outward supporter of Marco Rubio, gets to appoint 30 of those delegates."
+4.43558696622 892 Says Hillary Clinton "has even deleted this record of total support (for the Trans-Pacific Partnership trade agreement) from her book."
+4.59263286811 1273 "America has lost nearly one third of its manufacturing jobs since 1997, following the enactment of disastrous trade deals supported by Bill and Hillary Clinton."
+4.4540491309 1277 Says Hillary Clinton "supported North American Free Trade Agreement), and she supported China’s entrance into the World Trade Organization…. She supported the job-killing trade deal with South Korea. She supported the Trans-Pacific Partnership."
+4.20298953008 1285 "An amendment, pushed by Lyndon Johnson many years ago, threatens religious institutions with a loss of their tax-exempt status if they openly advocate their political views."
+4.36998581076 1572 Claims that one of the San Bernardino shooters “very openly” supported jihad online.
+4.73293568567 1633 Claims retired Lt. Gen. Michael Flynn, a Donald Trump supporter, is “on the payroll" of RT, a Russian government-funded TV station.
+4.56135882044 1762 Trump supports "an agenda" to privatize the VA
+4.86559163317 2139 "Bruce Rauner is of record that he will fully support the Trump candidacy. It's documented. It’s available."
+
+NOT FOUND 7.5
+4.5 2445 Chris Koster "opposed protecting the women of Missouri" because he "was one of only four senators to vote against" a bill ending the practice of making rape victims pay for their own rape kits.
+
+Matched 8.5
+7.0 894 Claims that Donald Trump said “women will start making equal pay as soon as we do as good a job as men.”
+6.0 2061  Bill Clinton “had to pay an $850,000 fine to one of the women. Paula Jones"
+6.0 2526 "I have tremendous support from women."
+
+NOT FOUND 9.0
+5.42190939116 1504 "Undocumented immigrants "pay $12 billion a year into Social Security."
+
+NOT FOUND 10.0
+6.94470532283 2563 Says that at a campaign rally President Barack Obama "spent so much time screaming at a protester, and frankly it was a disgrace."
+
+Matched 8.5
+6.03330846975 1599 Says Hillary Clinton is "proposing to print instant work permits for millions of illegal immigrants to come in and take everybody's jobs, including low-income African-Americans."
+6.03330846975 1646 Says Hillary Clinton is "proposing to print instant work permits for millions of illegal immigrants to come in and take everybody's jobs, including low-income African-Americans."
+6.18596567844 1689 Claims Hillary Clinton’s immigration plan “would functionally end enforcement of visa overstay rules — another open border decree.”
+6.0 1720 "Since 2013 alone, the Obama administration has allowed 300,000 criminal aliens to return back into United States communities. These are individuals encountered or identified by (Immigration and Customs Enforcement), but who were not detained or processed for deportation because it wouldn't have been politically correct."
+6.0 1737 The Secure Communities Program and 287(g) immigration programs "were programs that worked" but were "recklessly gutted" by the Obama administration.
+6.00396566578 2734 "President-elect Trump's immigration policies are very similar to policies that are sitting right in the Senate and the House today to temporarily suspend immigration from countries that harbor terrorism, to temporarily suspend immigration from Syria until we get better vetting."
+7.0 3716 "My policy is similar to what President Obama did in 2011 when he banned visas for refugees from Iraq for six months."
+7.0 3709 "My policy is similar to what President Obama did in 2011 when he banned visas for refugees from Iraq for six months.”
+7.0 3721 "My policy is similar to what President Obama did in 2011 when he banned visas for refugees from Iraq for six months."
+7.0 3723 "My policy is similar to what President Obama did in 2011 when he banned visas for refugees from Iraq for six months."
+6.0 3773 "The Obama Administration agreed to take thousands of illegal immigrants from Australia."
+6.0 3798 "Do you believe it? The Obama Administration agreed to take thousands of illegal immigrants from Australia. Why? I will study this dumb deal!"
+6.0 3849 The seven nations identified in Donald Trump's travel ban were "identified by the Obama administration as the seven most dangerous countries in the world in regard to harboring terrorists."
+7.0 7710 "My policy is similar to what President Obama did in 2011 when he banned visas for refugees from Iraq for six months."
+6.0 7773 The seven nations identified in Donald Trump's travel ban were "identified by the Obama administration as the seven most dangerous countries in the world in regard to harboring terrorists."
+6.0 8029 “The weak illegal immigration policies of the Obama Admin. allowed bad MS 13 gangs to form in cities across U.S. We are removing them fast!”
+6.0 10333 Says his ban applies to "countries picked by Obama."
+6.19726394193 9216 "I believe the time has come for new immigration rules which say that those seeking admission into our country must be able to support themselves financially and should not use welfare for a period of at least five years."
+6.03330846975 1647 Says Hillary Clinton is "proposing to print instant work permits for millions of illegal immigrants to come in and take everybody's jobs, including low-income African-Americans."
+6.0 8111 "The weak illegal immigration policies of the Obama Admin. allowed bad MS 13 gangs to form in cities across U.S. We are removing them fast!"
+6.0 8079 "The weak illegal immigration policies of the Obama Admin. allowed bad MS 13 gangs to form in cities across U.S."
+6.0 11551 "Do you believe it? The Obama Administration agreed to take thousands of illegal immigrants from Australia. Why? I will study this dumb deal!"
+
+Matched 7.5
+6.0 370 Russian President Vladimir Putin "called me a genius."
+6.0 397 Claims Russian President Vladimir Putin called him a “genius.”
+6.0 1377 Claims Russian President Vladimir Putin called him a “genius.”
+6.0 1378 Claims Russian President Vladimir Putin “mentioned the N-word one time” in a sign of “a total lack of respect for President Obama.”
+7.5 1426 On whether he’s had a relationship with Vladimir Putin.
+6.0 1770 Says Russian President Vladimir Putin "calls me brilliant."
+6.0 1996 “You’ve got to be tough on Russia. Let’s start by not praising Vladimir Putin as a great leader. Donald Trump and Mike Pence have said he’s a great leader.”
+
+Matched 7.0
+6.51655472278 2051 "These are radical Islamic terrorists, and (Hillary Clinton) won't even mention the word."
+
+Matched 5.5
+4.0 1294 "America is one of the highest-taxed nations in the world."
+4.0 1283 "America is one of the highest-taxed nations in the world."
+4.0 1284 "America is one of the highest-taxed nations in the world"
+4.0 1290 "America is one of the highest-taxed nations in the world."
+4.0 9203 “Right now, we are one of the highest-taxed nations in the world. Really, on a large-scale basis, we are the highest-taxed nation in the world.”
+3.86160090445 54 U.S. global AIDS spending helped reduce "political instability and violence" by "40 percent" in recipient nations.
+4.0 9202 “Right now, we are one of the highest-taxed nations in the world. Really, on a large-scale basis, we are the highest-taxed nation in the world.”
+4.0 11443 "We are the highest-taxed nation in the world."
+
+NOT FOUND 13.5
+6.0 1512 "The overwhelming amount of the money that we're raising is not going to Hillary (Clinton) to run for president. ... It's going to the congressmen and senators to try to take back Congress."
+
+Matched 7.0
+5.24402309223 2547 Claims President Vladimir Putin of Russia "is directing cyberattacks against targets in the United States to influence the outcome of our election."
+6.07217119527 9437 Claimed the computer hacking of U.S. political organizations during the 2016 presidential election “could have been other people and other countries.”
+
+Matched 7.5
+6.45028508315 2087 “Despite winning the second debate in a landslide (every poll), it is hard to do well when Paul Ryan and others give zero support!”
+5.48222410192 2089 Says he won the second debate with Hillary Clinton "in a landslide" in "every poll."
+6.7127165678 2826 “In addition to winning the Electoral College in a landslide, I won the popular vote if you deduct the millions of people who voted illegally.”
+6.59669728917 2870 “In addition to winning the Electoral College in a landslide . . .”
+6.0 7838 Claimed Toyota's $1.3 billion investment in its Georgetown, Kentucky, plant would “not have been made if we didn’t win the election."
+5.43635237923 9004 "Russia talk is FAKE NEWS put out by the Dems, and played up by the media, in order to mask the big election defeat and the illegal leaks!"
+5.43635237923 11499 "Russia talk is FAKE NEWS put out by the Dems, and played up by the media, in order to mask the big election defeat and the illegal leaks!"
+
+Matched 8.5
+7.0 2165 "Donald Trump said rescuing the auto industry didn’t really matter very much. He said, and I quote again, ‘Let it go.’ "
+6.0 6622 “We’re going to put our auto industry back to work.”
+7.0 2155 "[B]ack in the Great Recession when millions of jobs across America hung in the balance, Donald Trump said rescuing the auto industry didn’t really matter very much."
+
+Matched 6.0
+4.5 1486 In the 2012 election, there were more votes cast than registered voters in St. Lucie County, and Palm Beach County had 141 percent turnout.
+5.05523919579 2166 "Of course, there is large scale voter fraud happening on and before election day."
+5.05523919579 2184 “Of course there is large scale voter fraud happening on and before election day."
+4.5 10852 There is "proof" that a U.S. Senate race in New Hampshire "was likely changed through voter fraud on November 8, 2016."
+4.5 10942 "Facts have come to light that indicate that a pivotal, close election was likely changed through voter fraud on November 8, 2016: New Hampshire’s U.S. Senate Seat, and perhaps also New Hampshire’s four Electoral College votes in the presidential election."
+4.5 10943 "Facts have come to light that indicate that a pivotal, close election was likely changed through voter fraud on November 8, 2016: New Hampshire’s U.S. Senate Seat, and perhaps also New Hampshire’s four Electoral College votes in the presidential election."
+4.5 10949  "Mass voter fraud just discovered, to the amount that could void Hillary’s victory In New Hampshire."
+4.5 11125 "Facts have come to light that indicate that a pivotal, close election was likely changed through voter fraud on November 8, 2016: New Hampshire’s U.S. Senate Seat, and perhaps also New Hampshire’s four electoral college votes in the presidential election."
+
+Matched 10.0
+7.27143040042 1406 Says Hillary Clinton's Iran nuclear deal "lined the pockets of the world's number one state sponsor of terrorism with your money."
+9.0 1471 The Iran nuclear deal is "putting billions of dollars back into a country that’s the world’s largest supporter of terrorism. We are actually giving them the money to fund the terrorists that are killing us and our allies."
+
+NOT FOUND 11.5
+7.5 1963 Claims that it took “about 26 paragraphs” for the New York Times to say that what Donald Trump did in taking a $916 million loss on his 1995 tax returns was “perfectly legal.”
+
+Matched 3.0
+3.0 10039 Because of the failure to pass a repeal bill, "Obamacare remains the law of the land ... This means more than 300,000 Georgians below the poverty line will still not have access to the insurance Obamacare promised."
+
+NOT FOUND 8.5
+5.01142388743 3537 "I would imagine there's a gun in the school (in Wapiti, Wyo.) to protect from potential grizzlies."
+
+NOT FOUND 8.5
+5.91911512019 144 Bernie Sanders' ad says Trans-Pacific Partnership could cost 448,000 jobs
+
+NOT FOUND 9.0
+3.68609577535 523 “The United States has a low voter turnout rate.”
+
+Matched 8.5
+6.33969296005 3402 "More college graduates are living at home than in decades."
+
+Matched 7.5
+6.0 1374 Indiana Gov. Mike Pence "advocated diverting taxpayer dollars to so-called conversion therapy."
+6.0 2910 Says Indiana Gov. Mike Pence "advocated diverting taxpayer dollars to so-called conversion therapy."
+6.0 7713 Says Indiana Gov. Mike Pence "advocated diverting taxpayer dollars to so-called conversion therapy."
+
+Matched 8.5
+7.85177618395 3605 “What about that Betsy DeVos? A billionaire who he is picking to head Education who has never seen the inside of a classroom."
+
+Matched 7.0
+5.41812497501 3476 "I have never lobbied against sanctions personally... to my knowledge, Exxon never directly lobbied against sanctions.
+5.41812497501 3477 "I have never lobbied against sanctions personally... to my knowledge, Exxon never directly lobbied against sanctions.
+
+Matched 6.0
+5.04771947514 581 “We now do have evidence” that Donald Trump is being used as a recruiting tool for terrorists.
+5.14571858046 2048 "You can look at the propaganda on a lot of the terrorists' sites and what Donald Trump said about Muslims is used to recruit fighters."
+6.0 3894 "ISIS is already using the rhetoric from the Trump administration, the text of this executive order, to incite attacks against us and to recruit more terrorists to their side."
+
+Matched 9.0
+6.63056277062 6954 “Under the Republican health care repeal proposal North Carolina faces the 2nd highest premium increase in the nation. North Carolina residents will face an average cost increase of over $7,500.”
+6.56556215458 9017  a Congressional Budget Office report found low-income seniors in Florida will face "800 percent premium increases" under the American Health Care Act.
+6.64119321063 11351 Says that under the Obamacare law, health insurance "premiums have increased by more than 105 percent since" 2013.
+
+Matched 5.5
+4.5 1538 Donald Trump is "against marriage equality. He wants to go back."
+4.5 2513 Says Donald Trump "wants to undo marriage equality."
+4.5 7734 Donald Trump is "against marriage equality. He wants to go back."
+
+Matched 7.5
+6.61285255894 530 "Donald Trump would force schools to allow guns in classrooms on his first day in office.”
+6.00855310156 2419 Says of Donald Trump, "He even said, on his very first day in office, he would require every school in America to let people carry guns into our classrooms."
+6.00855310156 2453 Says of Donald Trump, "He even said, on his very first day in office, he would require every school in America to let people carry guns into our classrooms."
+
+NOT FOUND 8.0
+5.5 360 "There are scores of recent migrants inside our borders charged with terrorism. For every case known to the public, there are dozens and dozens more."
+
+Matched 8.0
+6.71637820136 3681 “They say I had the biggest crowd in the history of inaugural speeches. … We had the biggest audience in the history of inaugural speeches.”
+
+Matched 13.5
+9.54493209503 1277 Says Hillary Clinton "supported North American Free Trade Agreement), and she supported China’s entrance into the World Trade Organization…. She supported the job-killing trade deal with South Korea. She supported the Trans-Pacific Partnership."
+
+Matched 10.0
+7.0 980 Says Hillary Clinton "savaged" the dignity of people who accused Bill Clinton of sexual harassment or assault "and shamed them."
+
+NOT FOUND 7.5
+4.0 2836 "There is long historical precedent for a Supreme Court with fewer justices."
+
+Matched 11.5
+8.22628328649 1343 Claims Democratic Vice Presidential nominee Tim Kaine "wrote a letter very recently asking for more [Syrian refugees] than even Hillary [Clinton] wants."
+8.5 1733  Says Hillary Clinton "wants to increase Syrian refugees to this country by 550 percent."
+9.50250104897 2099 “Hillary [Clinton] admitted that ISIS could infiltrate with the refugees. Great. Then why’s she letting so many people into our country?”
+8.70217013881 2391 Says Hillary Clinton "wants to let people just pour in. You could have 650 million people pour in and we do nothing about it. Think of it. That’s what could happen. You triple the size of our country in one week."
+8.70217013881 2393 Says Hillary Clinton "wants to let people just pour in. You could have 650 million people pour in and we do nothing about it. Think of it. That’s what could happen. You triple the size of our country in one week."
