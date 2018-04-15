@@ -8,6 +8,7 @@ from psycopg2.extensions import AsIs
 import time
 from sets import Set
 
+#TEMP: This file is to help speed up the application. By pre-processing each statement, we would get a database in which every word has a list of statement ids, in which the word appears (either in summary, speaker or statement)
 t0 = time.time()
 
 print ('create database..')

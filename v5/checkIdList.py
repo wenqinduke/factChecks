@@ -2,6 +2,7 @@ import psycopg2
 import psycopg2.extras
 import pandas as pd
 
+# TEMP: This file is to check for each question, whether all the matching-ids are in the potential-matching-id lists. 
 conn = psycopg2.connect("dbname=sharefacts user=wenqinwang")
 cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
 query = "select id, stat_id, potential_id from test_questions"

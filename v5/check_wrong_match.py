@@ -9,6 +9,10 @@ dataframe = pd.read_sql_query(query, conn)
 
 out_file = open("./wrong_match.txt", "w")
 
+false_positive = []
+false_negative = []
+true_positive = []
+
 for index in range(dataframe.shape[0]):
     if dataframe.match_id[index] is None:
         continue
@@ -17,6 +21,12 @@ for index in range(dataframe.shape[0]):
 
     false_pos = [w for w in match_id if w not in stat_id]
     false_neg = [w for w in stat_id if w not in match_id]
+    true_pos = [w for w in stat_id if w in match_id]
+
+    false_positive += false_pos
+    false_negative += false_neg
+    true_positive += true_pos
+
 
     out_file.write("===== Question:")
 
@@ -50,3 +60,10 @@ for index in range(dataframe.shape[0]):
         out_file.write("\n")
 
     out_file.write("\n")
+
+precision = float(len(true_positive)) / (len(true_positive) + len(false_positive))
+recall = float(len(true_positive)) / (len(true_positive) + len(false_negative))
+out_file.write("Precision: ")
+out_file.write('%s' precision)
+out_file.write("Recall: ")
+out_file.write('%s' recall)
