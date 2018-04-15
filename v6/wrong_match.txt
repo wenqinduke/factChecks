@@ -1,0 +1,456 @@
+===== Question:46 Did Donald Trump mock a disabled reporter?
+false positive: 
+false negative: 
+
+===== Question:52 Did Hillary Clinton sell weapons to ISIS?
+false positive: 
+false negative: 
+
+===== Question:54 Is it true that Hillary Clinton wore an earpiece at the debates?
+false positive: 
+false negative: 
+
+===== Question:75 Is it true that Donald Trump's hairspray is affecting the ozone layer?
+false positive: 
+false negative: 
+
+===== Question:55 Did Hillary Clinton have a seizure?
+false positive: 
+false negative: 
+
+===== Question:66 Does Hillary Clinton want to confiscate guns?
+false positive: 
+false negative: 
+
+===== Question:8 Was it true when Hillary Clinton said Donald Trump didn't pay taxes?
+false positive: 
+false negative: 
+605   "The only two (Donald Trump tax returns) we have show that he hasn't paid a penny in taxes."   Hillary Clinton
+629   "The only two [tax returns] we have show that he hasn't paid a penny in taxes.”   Hillary Clinton
+1905   "The only years that anybody's ever seen" of Donald Trump’s tax returns "showed he didn't pay any federal income tax."   Hillary Clinton
+1941   Publicly released Trump tax records "showed he didn't pay any federal income tax.”   Hillary Clinton
+2470   Says Donald Trump “doesn't believe in equal pay.”   Hillary Clinton
+11543   Publicly released Trump tax records "showed he didn't pay any federal income tax.”   Hillary Clinton
+
+===== Question:29 Is it true that Hillary Clinton laughed at a rape victim?
+false positive: 
+541   Hillary Clinton "defended an accused child rapist, then laughed about his lenient sentence"   National Republican Senatorial Committee
+542   Hillary Clinton "defended an accused child rapist, then laughed about his lenient sentence"   National Republican Senatorial Committee
+false negative: 
+
+===== Question:23 Was Donald Trump right when he said that Obamacare premiums are going up?
+false positive: 
+false negative: 
+1886   "On November 1 ... new [Obamacare premium] numbers are coming out which will show 40, 50, 60 percent increases. They want to delay it until after the election."   Donald Trump
+1893   "On November 1 ... new [Obamacare premium] numbers are coming out which will show 40, 50, 60 percent increases. They want to delay it until after the election."   Donald Trump
+
+===== Question:25 Was Donald Trump right when he called Obama and Clinton the founders of ISIS?
+false positive: 
+false negative: 
+
+===== Question:22 Was Hillary Clinton right when she said Donald Trump would deport 16 million people?
+false positive: 
+false negative: 
+2030   Says "Donald Trump proposes to deport 16 million people, 11 million who are here without documents, and both Donald Trump and Mike Pence want to get rid of birthright citizenship."    Tim Kaine
+
+===== Question:72 Is it true that Patrick Murphy's family has never done business with Donald Trump?
+false positive: 
+false negative: 
+
+===== Question:31 Is it right when Donald Trump says NAFTA was the worst trade deal ever?
+false positive: 
+false negative: 
+948   Claims the North American Free Trade Agreement was "Bill Clinton’s disastrous and totally disastrous NAFTA."   Donald Trump
+
+===== Question:33 Is the FBI investigating Hillary Clinton?
+false positive: 
+false negative: 
+2410   "The FBI has reopened its investigation into Hillary Clinton ... and discovered another 650,000 emails."   Donald Trump
+2454   "The FBI has reopened its investigation into Hillary Clinton ... and discovered another 650,000 emails."   Donald Trump
+
+===== Question:73 Did Ron Johnson call "The Lego Movie" an anti-business conspiracy?
+false positive: 
+false negative: 
+
+===== Question:34 Is it true that Donald Trump is the first modern candidate not to release his tax returns?
+false positive: 
+false negative: 
+483   "Mitt Romney is the first major party candidate for president of the United States in modern times not to release at least 12 years of tax returns."   Debbie Wasserman Schultz
+1921   Says that except for Donald Trump, "every other major party nominee" for the past 40 years has released their tax returns.     Tammy Baldwin
+
+===== Question:61 Did Deborah Ross support burning flags?
+false positive: 
+false negative: 
+
+===== Question:13 Was Donald Trump right when he said Hillary Clinton gave uranium to Russia?
+false positive: 
+287   "ISIS has the oil [in Libya]....ISIS is making a fortune now in Libya.”   Donald Trump 
+414   "NAFTA was signed by Bill Clinton... NAFTA was given to us by Clinton."    Donald Trump
+460   Claims Donald Trump said “we should pull out of NATO.”   Hillary Clinton
+697   Says Hillary Clinton has spoken "such lies about my foreign policy. They said I want Japan to … get nuclear weapons. Give me a break."   Donald Trump
+709   Says Donald Trump "says he has foreign policy experience because he ran the Miss Universe pageant in Russia."   Hillary Clinton
+733   Says Donald Trump said the U.S. should "encourage" Japan to get nuclear weapons.   Hillary Clinton
+1488   "Many people are saying that the Iranians killed the scientist who helped the U.S. because of Hillary Clinton's hacked emails."   Donald Trump
+1522   Says Donald Trump "has been talking about the option of using a nuclear weapon against our Western European allies."   Hillary Clinton
+1595   Hillary Clinton "lacks the mental and physical stamina to take on ISIS.”   Donald Trump
+1906   Says Donald Trump “publicly invited Putin to hack into Americans’ (emails).”    Hillary Clinton
+2345   Donald Trump "doesn't make a thing in America."   Hillary Clinton
+5291   “Hillary Clinton gave away 20 percent of the uranium in the United States.”   Donald Trump
+7029   Donald Trump’s tweets about Hillary Clinton and Russia   Donald Trump
+false negative: 
+
+===== Question:16 Is it true when Donald Trump says the election is rigged?
+false positive: 
+false negative: 
+250   The Colorado caucus system for selecting Republican delegates is "rigged."   Donald Trump
+258   THE CLAIM: "Corrupt and crooked" elections have been "rigged" against Trump.   Donald Trump
+1436   Cited precincts in which "practically nobody" voted for Republican Mitt Romney in 2012 as indication of "rigged" elections.   Donald Trump
+
+===== Question:86 Is it true that the U.S. is the highest-taxed nation in the world?
+false positive: 
+false negative: 
+
+===== Question:77 Is John McCain too old to serve another six-year Senate term?
+false positive: 
+false negative: 
+1681   Suggests John McCain is too old to fulfill another six-year Senate term, saying "the life expectancy of the American male is not 86. It's less."    Kelli Ward
+
+===== Question:88 Did Russia hack into computers during the presidential election?
+false positive: 
+false negative: 
+3442   The Russians "tried to hack the Republican National Committee, and they were unable to break through."    Donald Trump
+3443   The Russians "tried to hack the Republican National Committee, and they were unable to break through."    Donald Trump
+9437   Claimed the computer hacking of U.S. political organizations during the 2016 presidential election “could have been other people and other countries.”    Donald Trump
+
+===== Question:94 Was Obamacare a failure?
+false positive: 
+false negative: 
+3744   "Obamacare has failed."   Paul Ryan
+9385   "Obamacare Fail #1: Higher Costs: Average premiums are up 105% across the country since 2013"   The White House
+9386   "Obamacare Fail #2: Fewer Choices. 83 Insurers abandoned the Obamacare marketplace this year alone"   The White House
+9387   "Obamacare Fail #3: Fewer Covered under Obamacare exchanges. In 2016, 29% of enrollees dropped off Obamacare exchanges, over 3.6 million people"   The White House
+9388   "Obamacare Fail #4: Less Freedom. In 2015, Americans paid $3 billion in penalties for not purchasing unaffordable health plans that did not meet their needs"   The White House
+6772   “I have to tell you that Obamacare is a disaster. It’s failing. … Obamacare will fail. It will fold. It will close up very, very soon if something isn’t done.”   Donald Trump
+10287   Obamacare is "failing."   Donald Trump
+
+===== Question:106 Is it true that many recent migrants into the U.S. have been charged with terrorism?
+false positive: 
+false negative: 
+
+===== Question:82 Did Donald Trump have more people at his inauguration than Barack Obama?
+false positive: 
+false negative: 
+
+===== Question:79 Does Chris Koster oppose right-to-work efforts?
+false positive: 
+false negative: 
+
+===== Question:101 Does Rex Tillerson oppose sanctions against Russia?
+false positive: 
+false negative: 
+3476   "I have never lobbied against sanctions personally... to my knowledge, Exxon never directly lobbied against sanctions.    Rex Tillerson
+3477   "I have never lobbied against sanctions personally... to my knowledge, Exxon never directly lobbied against sanctions.    Rex Tillerson
+
+===== Question:84 Is it true that Donald Trump has a relationship with Vladimir Putin?
+false positive: 
+false negative: 
+
+===== Question:104 Is it true that Donald Trump is against same-sex marriage?
+false positive: 
+false negative: 
+1538   Donald Trump is "against marriage equality. He wants to go back."   Rep. Sean Patrick Maloney
+2513   Says Donald Trump "wants to undo marriage equality."   Hillary Clinton
+7734   Donald Trump is "against marriage equality. He wants to go back."   Rep. Sean Patrick Maloney
+
+===== Question:11 Is it true that Hillary Clinton broke the law with her email server?
+false positive: 
+false negative: 
+
+===== Question:5 Is it true that Hillary Clinton deleted her emails after getting a subpoena?
+false positive: 
+968   "When I got to work as Secretary of State, I opted for convenience to use my personal email account, which was allowed by the State Department."   Hillary Clinton
+false negative: 
+
+===== Question:108 Did Hillary Clinton change her stance on the Trans-Pacific Partnership after Donald Trump criticized it?
+false positive: 
+false negative: 
+1919   Says to Hillary Clinton, "You heard what I said about (the Trans-Pacific Partnership trade deal), and all of a sudden you were against it."   Donald Trump
+
+===== Question:91 Was there mass voter fraud during the election?
+false positive: 
+false negative: 
+3091   "Florida Moves For FULL RECOUNT Of State Over Massive Voter Fraud"     Bipartisan Report
+10949    "Mass voter fraud just discovered, to the amount that could void Hillary’s victory In New Hampshire."   Young Conservatives
+
+===== Question:93 Did the New York Times apologize for their bad coverage of Donald Trump?
+false positive: 
+false negative: 
+
+===== Question:27 Is it true that Donald Trump opposed the war in Iraq?
+false positive: 
+1227   On the Iraq war, "I said it loud and clear, 'You'll destabilize the Middle East.' "   Donald Trump
+1231   On the Iraq war, "I said it loud and clear, 'You'll destabilize the Middle East.' "   Donald Trump
+1397   Says "Donald Trump has defended" World War II internment camps.   Joaquin Castro
+1398   Says "Donald Trump has defended" World War II internment camps.   Joaquin Castro
+2491   Says Donald Trump and Ron Johnson "oppose a woman's right to choose and Johnson voted against the Violence Against Women Act."   Russ Feingold
+false negative: 
+
+===== Question:20 Is it true that Michelle Obama scrubbed Hillary Clinton from her Twitter accounts?
+false positive: 
+false negative: 
+
+===== Question:14 Is it true that Hillary Clinton deleted 30,000 emails?
+false positive: 
+869   Hillary Clinton "deleted the entire record" about Trans-Pacific Partnership from her book, “Hard Choices."   Donald Trump
+992   Hillary Clinton "released more emails and more pages of emails" than "any of her predecessors."   Sen. Sherrod Brown
+3425   Says Hillary Clinton campaign chairman John Podesta’s email password was "password."   Reince Priebus
+1579   "The FBI director ... had to amend the previous day’s statement, that she [Hillary Clinton] had never received any emails marked classified."   Bill Clinton
+false negative: 
+2376   "You get a subpoena, and after getting the subpoena, you delete 33,000 e-mails."   Donald Trump
+
+===== Question:9 Is it true that Donald Trump didn't pay taxes?
+false positive: 
+8903   "If Donald Trump would stay home from Mar-a-Lago one weekend, it would pay the entire meals on wheels budget for the state of Missouri for almost two years."   Claire McCaskill
+11193   “A married couple won't pay a dime in taxes on their first $24,000 of income. So a married couple, up to $24,000, can spend their money on their family, on their children, on what they have to do — so much better.”   Donald Trump
+11187   Farmers' heirs "can't pay the [estate] tax, so they have to sell the farm."   Donald Trump
+false negative: 
+629   "The only two [tax returns] we have show that he hasn't paid a penny in taxes.”   Hillary Clinton
+1941   Publicly released Trump tax records "showed he didn't pay any federal income tax.”   Hillary Clinton
+11543   Publicly released Trump tax records "showed he didn't pay any federal income tax.”   Hillary Clinton
+
+===== Question:15 Is it true that Donna Brazile gave Clinton debate questions in advance?
+false positive: 
+false negative: 
+2439   “As it pertains to the CNN debates, I never had access to questions and would never have shared them with the candidates if I did.”   Donna Brazile
+
+===== Question:18 Is Donald Trump right when he says the murder rate is really high?
+false positive: 
+false negative: 
+3013   Said “the murder rate has experienced its largest increase in 45 years.”   Donald Trump
+10329   Says that the murder rate in 2015 "experienced its largest single-year increase in nearly half a century."   Donald Trump
+3197   "Think of it, the murder rate, more people are being murdered than in 45 years."   Donald Trump
+
+===== Question:42 Did Hillary Clinton tell the troops in Benghazi to stand down?
+false positive: 
+false negative: 
+946   "During the (Benghazi) attack, a stand-down order was given, and our troops were told to change their clothes four times."   Sean Hannity
+
+===== Question:24 Is it true that Bill Clinton called Obamacare the craziest thing in the world?
+false positive: 
+false negative: 
+
+===== Question:10 Is it true that Donald Trump went bankrupt four times?
+false positive: 
+false negative: 
+202   Says Donald Trump was "forced to file for bankruptcy not once, not twice, four times."   Carly Fiorina
+851   Says Donald Trump has "bankrupted his companies not once, not twice but four times."   Hillary Clinton
+1017    Donald Trump has “bankrupt four separate businesses."   Mark Warner
+1943   Trump has "taken business bankruptcies six times."   Hillary Clinton
+2038   Trump has "taken business bankruptcies six times."   Hillary Clinton
+7706   Says Donald Trump was "forced to file for bankruptcy not once, not twice, four times."   Carly Fiorina
+7714   Says Donald Trump has "bankrupted his companies not once, not twice but four times."   Hillary Clinton
+
+===== Question:39 Is it true that Hillary Clinton wants open borders?
+false positive: 
+false negative: 
+1656   Claims Hillary Clinton would "end virtually all immigration enforcement and thus create totally open borders for the United States."    Donald Trump
+891   Says Hillary Clinton’s immigration platform would "create totally open borders."     Donald Trump
+1165   “Hillary Clinton is for open borders.”   Rudy Giuliani
+1166   “Hillary Clinton is for open borders.”   Rudy Giuliani
+1689   Claims Hillary Clinton’s immigration plan “would functionally end enforcement of visa overstay rules — another open border decree.”   Donald Trump
+1690   Claims Hillary Clinton will “close down detention centers for border crossings, meaning she will have an open southern border.”   Donald Trump
+2014   Clinton and Kaine “have a plan for open borders.”   Mike Pence
+
+===== Question:7 Was it true when Donald Trump said Hillary Clinton viciously attacked women?
+false positive: 
+372   "Frankly, (Hillary Clinton) doesn’t do very well with women."    Donald Trump
+570   "Frankly, (Hillary Clinton) doesn’t do very well with women."   Donald Trump
+580   "Frankly, (Hillary Clinton) doesn’t do very well with women."    Donald Trump
+855   Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”    Donald Trump
+856   Says Hillary Clinton "said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers."   Donald Trump
+857   Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”    Donald Trump
+1012   Hillary Clinton has been given tens of millions of dollars by countries that "treat women horribly ... and countries that kill gays."   Donald Trump
+1871   Hillary Clinton said, "with a straight face, that the terrorist attacks this weekend were caused by Donald J. Trump"   Newt Gingrich
+2061    Bill Clinton “had to pay an $850,000 fine to one of the women. Paula Jones"   Donald Trump
+7742   Hillary Clinton has been given tens of millions of dollars by countries that "treat women horribly ... and countries that kill gays."   Donald Trump
+false negative: 
+
+===== Question:48 Is it true that Donald Trump wants to get rid of the minimum wage?
+false positive: 
+false negative: 
+
+===== Question:19 Is Donald Trump right when he says the murder rate is the highest in 45 years?
+false positive: 
+10626   The U.S. is “dead last” in terms of business taxes, with a rate “60 percent higher” than “our economic competitors.”   Donald Trump
+805   The unemployment rate may be as high as "42 percent."   Donald Trump
+806   The unemployment rate may be as high as "42 percent."   Donald Trump
+3089   America’s federal business tax rate is the highest "in the world."   Donald Trump
+9793   Preliminary murder rates in Philadelphia “will put the murder rate at the highest of this decade in the city.”   Jeff Sessions
+9815   Preliminary murder rates in Philadelphia "will put the murder rate at the highest of this decade in the city."   Jeff Sessions
+1695   "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."    Donald Trump
+9962   "Highest Stock Market EVER, best economic numbers in years, unemployment lowest in 17 years, wages raising"   Donald Trump
+false negative: 
+
+===== Question:35 Does Bill Clinton have an illegitimate black son?
+false positive: 
+false negative: 
+
+===== Question:4 Did Donald Trump use illegal immigrants to build the Trump Tower?
+false positive: 
+false negative: 
+
+===== Question:51 Is it true that Donald Trump wants to cut taxes?
+false positive: 
+1458   Hillary Clinton says she wants to raise taxes on the middle class.’   Donald Trump
+1459   Says Hillary Clinton says she wants to raise taxes on the middle class.   Donald Trump
+1465   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+7768   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+false negative: 
+1278   "While Hillary Clinton plans a massive, and I mean massive, tax increase, I have proposed the largest tax reduction of any candidate who has run for president this year, Democrat or Republican."   Donald Trump
+3012   Claimed his tax plan will provide “massive tax cuts, by the way, for middle-class workers.”   Donald Trump
+11707   Said “more than 30 million” small businesses get “a 40 percent cut" in their tax rate.   Donald Trump
+
+===== Question:17 Did Donald Trump say climate change is a hoax?
+false positive: 
+false negative: 
+
+===== Question:41 Does Donald Trump want to ban Muslims from the US?
+false positive: 
+8605   "Donald Trump to issue an executive order to ban Facebook across U.S."   Internet rumors
+8960   "Many of the countries in question (in Trump’s travel ban) don't even have a U.S. embassy there to help us vet."   John Kelly
+false negative: 
+
+===== Question:64 Did Hillary Clinton have classified emails on her server?
+false positive: 
+false negative: 
+981   Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.   Hillary Clinton
+1489   FBI Director James Comey said that Hillary Clinton "had no knowledge of some of those so-called classified e-mails because they were either not marked or they were not classified at the time or they were incorrectly marked."   Rep. Xavier Becerra
+1579   "The FBI director ... had to amend the previous day’s statement, that she [Hillary Clinton] had never received any emails marked classified."   Bill Clinton
+7747   Says she "never received nor sent any material that was marked classified" on her private email server while secretary of state.   Hillary Clinton
+
+===== Question:70 Did Hillary Clinton have a private meeting with a Florida elections supervisor?
+false positive: 
+false negative: 
+
+===== Question:3 Is it true that Hillary Clinton started the birther movement?
+false positive: 
+false negative: 
+1835   “Hillary Clinton and her campaign of 2008 started the birther controversy. I finished it."   Donald Trump
+
+===== Question:76 Is it true that the zika virus causes people to go blind?
+false positive: 
+false negative: 
+
+===== Question:1 Did Hillary Clinton lie about Benghazi?
+false positive: 
+false negative: 
+
+===== Question:62 Did Richard Burr support a tax break for companies that move jobs to other countries?
+false positive: 
+false negative: 
+2498   "Richard Burr voted to protect tax breaks for companies that ship jobs overseas but voted against a tax break to help working people."   Deborah Ross
+
+===== Question:85 Is it true that Hillary Clinton won’t say the phrase “radical Islam”?
+false positive: 
+false negative: 
+2051   "These are radical Islamic terrorists, and (Hillary Clinton) won't even mention the word."   Donald Trump
+
+===== Question:60 Did HB2 have a big economic impact?
+false positive: 
+false negative: 
+6232   Says HB2 has hurt North Carolina’s economy by "one-tenth of 1 percent of our annual GDP."   Dan Forest
+
+===== Question:57 Is it true that Donald Trump wants to get rid of NATO?
+false positive: 
+998   Says Donald Trump “wants to get rid of the federal minimum wage.”   Hillary Clinton
+false negative: 
+460   Claims Donald Trump said “we should pull out of NATO.”   Hillary Clinton
+
+===== Question:81 Is it true that 3 million undocumented immigrants voted in this year’s election?
+false positive: 
+false negative: 
+2727   "Report: 3 million votes in presidential election cast by illegal aliens."     Bloggers
+2729   "Report: 3 million votes in presidential election cast by illegal aliens."   Bloggers
+7720   "Report: 3 million votes in presidential election cast by illegal aliens."    Bloggers
+11255   "Report: 3 million votes in presidential election cast by illegal aliens."     Internet rumors
+
+===== Question:107 Is it true that the crowd at Donald Trump's inauguration was the largest ever?
+false positive: 
+false negative: 
+3583   "That was the largest audience to witness an inauguration, period."   Sean Spicer
+7717   "That was the largest audience to witness an inauguration, period."   Sean Spicer
+
+===== Question:99 Did Mike Pence support conversion therapy?
+false positive: 
+false negative: 
+
+===== Question:105 Does Trump believe guns should be allowed in schools?
+false positive: 
+false negative: 
+
+===== Question:103 Is it true that Obamacare is causing health care premiums to increase?
+false positive: 
+9017    a Congressional Budget Office report found low-income seniors in Florida will face "800 percent premium increases" under the American Health Care Act.   Chris King
+false negative: 
+3804   Obamacare is "hurting people right now" with premium increases of up to 116 percent.   Paul Ryan
+
+===== Question:6 Did 17 intelligence agencies say Clinton's emails were hacked by Russia?
+false positive: 
+false negative: 
+2249   "We have 17 intelligence agencies, civilian and military, who have all concluded that these espionage attacks, these cyberattacks, come from the highest levels of the Kremlin, and they are designed to influence our election."   Hillary Clinton
+
+===== Question:12 Did Hillary Clinton break the law with her private server?
+false positive: 
+false negative: 
+440   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton 
+441   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton 
+
+===== Question:21 Did Michelle Obama slam Hillary Clinton?
+false positive: 
+false negative: 
+
+===== Question:2 Did Donald Trump call Miss Universe Miss Piggy?
+false positive: 
+false negative: 
+
+===== Question:45 It is true that Hillary Clinton wants to get rid of the Second Amendment?
+false positive: 
+false negative: 
+1533   Hillary Clinton "has already said she's going to wipe out the Second Amendment. She doesn't believe in the First Amendment. And, she also believes in big government, which flies in the face of the 10th Amendment"   Rep. Chris Collins
+
+===== Question:78 Is Ron Johnson supporting Trump?
+false positive: 
+2675   Says Denzel Washington supports Donald Trump and speaks out against Barack Obama.   AmericanPoliticNews
+1011   Says Ron Johnson justifies his support of trade agreements by saying the U.S. has the Trade Adjustment Assistance program for displaced workers, but then he "voted to eliminate it."   Russ Feingld
+false negative: 
+2491   Says Donald Trump and Ron Johnson "oppose a woman's right to choose and Johnson voted against the Violence Against Women Act."   Russ Feingold
+
+===== Question:63 Did Hillary Clinton have classified materials on her email server?
+false positive: 
+false negative: 
+1745   "Classified material has a header which says ‘top-secret, secret, confidential.’ Nothing, and I will repeat this and this is verified in the report by the Department of Justice, none of the emails sent or received by me had such a header."   Hillary Clinton
+
+===== Question:100 Is it true that Betsy DeVos hasn't seen the inside of a classroom?
+false positive: 
+false negative: 
+
+===== Question:102 Is it true that Trump has been used for ISIS recruitment?
+false positive: 
+false negative: 
+
+===== Question:37 Is it true when Donald Trump says the accounts of the women accusing him of sexual assault have been totally debunked?
+false positive: 
+false negative: 
+
+===== Question:111 Did Hillary Clinton want to let a lot of Syrian refugees into the country?
+false positive: 
+1343   Claims Democratic Vice Presidential nominee Tim Kaine "wrote a letter very recently asking for more [Syrian refugees] than even Hillary [Clinton] wants."   Donald Trump
+false negative: 
+
+===== Question:92 Does the Iran Nuclear Deal really give money to terrorists?
+false positive: 
+1547   Under the Iran nuclear deal, "we give them $150 billion, we get nothing."   Donald Trump
+7765   Under the Iran nuclear deal, "we give them $150 billion, we get nothing."   Donald Trump
+false negative: 
+1406   Says Hillary Clinton's Iran nuclear deal "lined the pockets of the world's number one state sponsor of terrorism with your money."   Reince Priebus
+
