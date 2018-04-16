@@ -27,10 +27,14 @@ from sklearn.model_selection import train_test_split
 
 def get_data_array(df, index):
     question_id = df.id[index]
-    data_array = [df.ques_length[index], df.ques_score[index], df.stat_length[index], df.noun[index], df.verb[index], df.adj[index], df.speaker_half_match[index], df.speaker_full_match[index],
-    df.matching_score[index], df.highest_noun[index], df.second_noun[index], df.highest_verb[index], df.second_verb[index], df.highest_adj[index], df.second_adj[index],
-    df.sum_other[index], df.person_entity[index], df.gpe_entity[index], df.person_entity_match[index], df.gpe_entity_match[index], df.org_entity[index], df.org_entity_match[index],
-    df.full_other_match[index], df.summary_score[index]]
+    # data_array = [df.ques_length[index], df.ques_score[index], df.stat_length[index], df.noun[index], df.verb[index], df.adj[index], df.speaker_half_match[index], df.speaker_full_match[index],
+    # df.matching_score[index], df.highest_noun[index], df.second_noun[index], df.highest_verb[index], df.second_verb[index], df.highest_adj[index], df.second_adj[index],
+    # df.sum_other[index], df.person_entity[index], df.gpe_entity[index], df.person_entity_match[index], df.gpe_entity_match[index], df.org_entity[index], df.org_entity_match[index],
+    # df.full_other_match[index], df.summary_score[index]]
+    data_array = [df.ques_length[index], df.stat_length[index], df.noun[index], df.verb[index], df.adj[index], df.speaker_half_match[index],
+    df.matching_score[index], df.highest_noun[index], df.second_noun[index], df.third_noun[index], df.fourth_noun[index], df.highest_verb[index],
+    df.second_verb[index], df.third_verb[index], df.highest_adj[index], df.second_adj[index], df.person_entity_match[index], df.gpe_entity_match[index], df.org_entity_match[index],
+    df.full_other_match[index]]
     return (question_id, data_array)
 
 

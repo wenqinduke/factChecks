@@ -1,0 +1,114 @@
+===== Question:61 Did Deborah Ross support burning flags?
+false positive: 
+false negative: 
+
+===== Question:98 Is it true that a large number of college graduates are living at home?
+false positive: 
+false negative: 
+
+===== Question:86 Is it true that the U.S. is the highest-taxed nation in the world?
+false positive: 
+9210   Although California has "the sixth largest economy in the world, we also have one of the highest poverty rates" in the nation.   Antonio Villaraigosa
+false negative: 
+
+===== Question:106 Is it true that many recent migrants into the U.S. have been charged with terrorism?
+false positive: 
+false negative: 
+
+===== Question:38 Is it true that Donald Trump exaggerates his net worth?
+false positive: 
+false negative: 
+
+===== Question:39 Is it true that Hillary Clinton wants open borders?
+false positive: 
+2088   Says "I’ve been proven right" about "Hillary Clinton's radical call for open borders, meaning anyone in the world can enter the United States without any limit at all."   Donald Trump
+1539   Says Hillary Clinton once "wanted a wall" on the Mexican border.   Donald Trump
+false negative: 
+2014   Clinton and Kaine “have a plan for open borders.”   Mike Pence
+
+===== Question:7 Was it true when Donald Trump said Hillary Clinton viciously attacked women?
+false positive: 
+855   Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”    Donald Trump
+856   Says Hillary Clinton "said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers."   Donald Trump
+857   Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”    Donald Trump
+false negative: 
+
+===== Question:102 Is it true that Trump has been used for ISIS recruitment?
+false positive: 
+false negative: 
+
+===== Question:34 Is it true that Donald Trump is the first modern candidate not to release his tax returns?
+false positive: 
+false negative: 
+
+===== Question:69 Is the Clinton Foundation under investigation?
+false positive: 
+false negative: 
+
+===== Question:49 Is it true that Hillary Clinton wants to raise taxes on the middle class?
+false positive: 
+11585   Says the GOP plan raises “middle class” taxes by $470 billion.   Nancy Pelosi
+false negative: 
+
+===== Question:81 Is it true that 3 million undocumented immigrants voted in this year’s election?
+false positive: 
+false negative: 
+2727   "Report: 3 million votes in presidential election cast by illegal aliens."     Bloggers
+2729   "Report: 3 million votes in presidential election cast by illegal aliens."   Bloggers
+7720   "Report: 3 million votes in presidential election cast by illegal aliens."    Bloggers
+11255   "Report: 3 million votes in presidential election cast by illegal aliens."     Internet rumors
+
+===== Question:57 Is it true that Donald Trump wants to get rid of NATO?
+false positive: 
+998   Says Donald Trump “wants to get rid of the federal minimum wage.”   Hillary Clinton
+false negative: 
+460   Claims Donald Trump said “we should pull out of NATO.”   Hillary Clinton
+
+===== Question:60 Did HB2 have a big economic impact?
+false positive: 
+false negative: 
+6232   Says HB2 has hurt North Carolina’s economy by "one-tenth of 1 percent of our annual GDP."   Dan Forest
+
+===== Question:92 Does the Iran Nuclear Deal really give money to terrorists?
+false positive: 
+1547   Under the Iran nuclear deal, "we give them $150 billion, we get nothing."   Donald Trump
+7765   Under the Iran nuclear deal, "we give them $150 billion, we get nothing."   Donald Trump
+false negative: 
+1406   Says Hillary Clinton's Iran nuclear deal "lined the pockets of the world's number one state sponsor of terrorism with your money."   Reince Priebus
+
+===== Question:105 Does Trump believe guns should be allowed in schools?
+false positive: 
+false negative: 
+
+===== Question:21 Did Michelle Obama slam Hillary Clinton?
+false positive: 
+false negative: 
+
+===== Question:11 Is it true that Hillary Clinton broke the law with her email server?
+false positive: 
+false negative: 
+440   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton 
+441   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton 
+
+===== Question:12 Did Hillary Clinton break the law with her private server?
+false positive: 
+false negative: 
+440   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton 
+441   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton 
+
+===== Question:63 Did Hillary Clinton have classified materials on her email server?
+false positive: 
+false negative: 
+1745   "Classified material has a header which says ‘top-secret, secret, confidential.’ Nothing, and I will repeat this and this is verified in the report by the Department of Justice, none of the emails sent or received by me had such a header."   Hillary Clinton
+
+===== Question:68 Is it true that even Richard Nixon released his tax returns while running for president?
+false positive: 
+false negative: 
+
+===== Question:30 Is it true when Hillary Clinton says she never sent classified material on her private email server?
+false positive: 
+false negative: 
+1745   "Classified material has a header which says ‘top-secret, secret, confidential.’ Nothing, and I will repeat this and this is verified in the report by the Department of Justice, none of the emails sent or received by me had such a header."   Hillary Clinton
+1425   Claims that FBI Director James Comey found her public statements about not sending or receiving classified email to be “truthful.”   Hillary Clinton
+
+Precision: 0.84375Recall: 0.782608695652

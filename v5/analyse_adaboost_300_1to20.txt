@@ -1,0 +1,158 @@
+===== Question:8 Was it true when Hillary Clinton said Donald Trump didn't pay taxes?
+false positive:
+922   Claims Hillary Clinton is going to “raise your taxes very substantially.”   Donald Trump
+1458   Hillary Clinton says she wants to raise taxes on the middle class.’   Donald Trump
+1459   Says Hillary Clinton says she wants to raise taxes on the middle class.   Donald Trump
+1465   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+7768   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+1657   Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."   Donald Trump
+false negative:
+
+===== Question:16 Is it true when Donald Trump says the election is rigged?
+false positive:
+3763   "In my first election in 1982, Democrats rigged about 25 percent of the voting machines to vote for everyone on the ballot but me. That’s 11 of 45 machines."   Rep. Mo Brooks (R-Ala.)
+false negative:
+250   The Colorado caucus system for selecting Republican delegates is "rigged."   Donald Trump
+258   THE CLAIM: "Corrupt and crooked" elections have been "rigged" against Trump.   Donald Trump
+1436   Cited precincts in which "practically nobody" voted for Republican Mitt Romney in 2012 as indication of "rigged" elections.   Donald Trump
+
+===== Question:13 Was Donald Trump right when he said Hillary Clinton gave uranium to Russia?
+false positive:
+697   Says Hillary Clinton has spoken "such lies about my foreign policy. They said I want Japan to … get nuclear weapons. Give me a break."   Donald Trump
+5291   “Hillary Clinton gave away 20 percent of the uranium in the United States.”   Donald Trump
+false negative:
+940   Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."   Donald Trump
+941   Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."   Donald Trump
+942   Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."   Donald Trump
+943   Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."   Donald Trump
+944   Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."   Donald Trump
+2325   Claims Hillary Clinton "even handed over American uranium rights to the Russians."    Donald Trump
+7722   Says Hillary Clinton’s State Department "approved the transfer of 20 percent of America’s uranium holdings to Russia, while nine investors in the deal funneled $145 million to the Clinton Foundation."   Donald Trump
+
+===== Question:5 Is it true that Hillary Clinton deleted her emails after getting a subpoena?
+false positive:
+false negative:
+2376   "You get a subpoena, and after getting the subpoena, you delete 33,000 e-mails."   Donald Trump
+
+===== Question:9 Is it true that Donald Trump didn't pay taxes?
+false positive:
+8708   "I’m going to end up paying more than I pay right now in taxes, all right?"   Donald Trump
+947   Claims that Americans “pay more personal tax” than residents anywhere else in the world.   Donald Trump
+1250   Says Donald Trump "always pays his bills promptly."   Phil Ruffin
+11193   “A married couple won't pay a dime in taxes on their first $24,000 of income. So a married couple, up to $24,000, can spend their money on their family, on their children, on what they have to do — so much better.”   Donald Trump
+1657   Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."   Donald Trump
+1952   "The 'New York Times' writes this long story" about Donald Trump’s tax returns but "didn't point out there was no wrongdoing" until paragraph 18.   Rudy Giuliani
+1964   "The 'New York Times' writes this long story" about Donald Trump’s tax returns but "didn't point out there was no wrongdoing" until paragraph 18.   Rudy Giuliani
+2058   Says he has "a fiduciary responsibility to his business, his family and his employees to pay no more tax than legally required."   Donald Trump
+10273   "Amazon is doing great damage to tax paying retailers. Towns, cities and states throughout the U.S. are being hurt - many jobs being lost!"    Donald Trump
+2470   Says Donald Trump “doesn't believe in equal pay.”   Hillary Clinton
+10997   "We pay 22 percent of the entire UN budget and more."   Donald Trump
+11187   Farmers' heirs "can't pay the [estate] tax, so they have to sell the farm."   Donald Trump
+11216   Says "No, I don't benefit, I don't benefit" from his tax proposal.   Donald Trump
+3439   Americans don't "care at all" about Donald Trump's tax returns.   Donald Trump
+1951   "The 'New York Times' writes this long story" about Donald Trump’s tax returns but "didn't point out there was no wrongdoing" until paragraph 18.   Rudy Giuliani
+11708   Said a 25 percent tax rate is "substantially lower" than what "many" truckers pay.   Donald Trump
+false negative:
+629   "The only two [tax returns] we have show that he hasn't paid a penny in taxes.”   Hillary Clinton
+
+===== Question:14 Is it true that Hillary Clinton deleted 30,000 emails?
+false positive:
+false negative:
+1747   Claims Hillary Clinton "had her emails — 33,000 emails — acid washed ... a very expensive process."   Donald Trump
+2188   Claims Hillary Clinton "had her emails — 33,000 emails — acid washed ... a very expensive process."   Donald Trump
+
+===== Question:15 Is it true that Donna Brazile gave Clinton debate questions in advance?
+false positive:
+false negative:
+2439   “As it pertains to the CNN debates, I never had access to questions and would never have shared them with the candidates if I did.”   Donna Brazile
+
+===== Question:10 Is it true that Donald Trump went bankrupt four times?
+false positive:
+1481   "Yesterday for the first time she said she wants to renegotiate trade agreements."   Donald Trump
+10310   Wages "haven’t gone up for a long time."   Donald Trump
+10400   "Wages haven’t gone up in a long time."   Donald Trump
+10428   Claimed that wages for U.S. workers “haven’t gone up for a long time.”   Donald Trump
+5710   "The National Debt in my first month went down by $12 billion."   Donald Trump
+6364   Ellen DeGeneres and Portia de Rossi are going on "date nights" to save their marriage.   Life & Style
+9470   Ellen DeGeneres and Portia de Rossi's marriage is "going to pot."   RadarOnline
+7716   "The National Debt in my first month went down by $12 billion."   Donald Trump
+false negative:
+202   Says Donald Trump was "forced to file for bankruptcy not once, not twice, four times."   Carly Fiorina
+1017    Donald Trump has “bankrupt four separate businesses."   Mark Warner
+1943   Trump has "taken business bankruptcies six times."   Hillary Clinton
+2038   Trump has "taken business bankruptcies six times."   Hillary Clinton
+7706   Says Donald Trump was "forced to file for bankruptcy not once, not twice, four times."   Carly Fiorina
+
+===== Question:20 Is it true that Michelle Obama scrubbed Hillary Clinton from her Twitter accounts?
+false positive:
+false negative:
+
+===== Question:18 Is Donald Trump right when he says the murder rate is really high?
+false positive:
+805   The unemployment rate may be as high as "42 percent."   Donald Trump
+806   The unemployment rate may be as high as "42 percent."   Donald Trump
+3089   America’s federal business tax rate is the highest "in the world."   Donald Trump
+false negative:
+10329   Says that the murder rate in 2015 "experienced its largest single-year increase in nearly half a century."   Donald Trump
+
+===== Question:4 Did Donald Trump use illegal immigrants to build the Trump Tower?
+false positive:
+false negative:
+
+===== Question:7 Was it true when Donald Trump said Hillary Clinton viciously attacked women?
+false positive:
+372   "Frankly, (Hillary Clinton) doesn’t do very well with women."    Donald Trump
+570   "Frankly, (Hillary Clinton) doesn’t do very well with women."   Donald Trump
+580   "Frankly, (Hillary Clinton) doesn’t do very well with women."    Donald Trump
+2209   Tercer debate: Trump miente al decir que Clinton apoya el aborto hasta en en noveno mes de embarazo   Donald Trump
+false negative:
+
+===== Question:3 Is it true that Hillary Clinton started the birther movement?
+false positive:
+1854   Hillary Clinton and the birther movement: Still nothing there   Donald Trump
+false negative:
+
+===== Question:22 Was Hillary Clinton right when she said Donald Trump would deport 16 million people?
+false positive:
+false negative:
+2030   Says "Donald Trump proposes to deport 16 million people, 11 million who are here without documents, and both Donald Trump and Mike Pence want to get rid of birthright citizenship."    Tim Kaine
+
+===== Question:1 Did Hillary Clinton lie about Benghazi?
+false positive:
+false negative:
+
+===== Question:6 Did 17 intelligence agencies say Clinton's emails were hacked by Russia?
+false positive:
+1906   Says Donald Trump “publicly invited Putin to hack into Americans’ (emails).”    Hillary Clinton
+false negative:
+
+===== Question:21 Did Michelle Obama slam Hillary Clinton?
+false positive:
+false negative:
+
+===== Question:12 Did Hillary Clinton break the law with her private server?
+false positive:
+false negative:
+440   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton
+441   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton
+
+===== Question:11 Is it true that Hillary Clinton broke the law with her email server?
+false positive:
+false negative:
+440   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton
+441   Says exclusively using a private email account and server for government business as secretary of state was "absolutely permitted."   Hillary Clinton
+
+===== Question:17 Did Donald Trump say climate change is a hoax?
+false positive:
+9215   Claimed the Paris Agreement on climate change is legally binding.    Donald Trump
+false negative:
+
+===== Question:19 Is Donald Trump right when he says the murder rate is the highest in 45 years?
+false positive:
+false negative:
+
+===== Question:2 Did Donald Trump call Miss Universe Miss Piggy?
+false positive:
+false negative:
+
+Precision: 0.622807017544Recall: 0.731958762887

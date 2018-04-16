@@ -1,0 +1,184 @@
+===== Question:23 Was Donald Trump right when he said that Obamacare premiums are going up?
+false positive: 
+405   Hillary Clinton "would go after these women and destroy their lives. She was an unbelievably nasty, mean enabler."   Donald Trump
+406   Hillary Clinton "would go after these women and destroy their lives. She was an unbelievably nasty, mean enabler."   Donald Trump
+9316   “Democrats purposely misstated Medicaid under new Senate bill — actually goes up.”   Donald Trump
+9490   "Obama goes to G20 summit ...  Everywhere President Donald Trump goes, Obama shows up, too."   Bloggers
+2062    "Your [Obamacare] health insurance is going up … 68 percent, 59 percent, 71 percent.”   Donald Trump
+2190   "Your [Obamacare] health insurance is going up … 68 percent, 59 percent, 71 percent.”   Donald Trump
+2585   "It's just been announced that the residents of Florida are going to experience a massive, double-digit premium hike."   Donald Trump
+8749   "Dems want billions to go to Insurance Companies to bail out donors"   Donald Trump
+8888   Before Obamacare, Wisconsin’s "high-risk pool" for health insurance "had eight or nine" plans to choose from, people "could go to any doctor or any hospital they wanted, and their premiums and co-pays were cheaper than they are under Obamacare today."   Paul Ryan
+9221   “In Alaska, they’ve gone up 207 percent on Obamacare."   Donald Trump
+6484   Claimed that “because of Obamacare, premiums on everybody have gone up … whether you’re in an employer-based system or not.”   Sean Spicer
+false negative: 
+
+===== Question:13 Was Donald Trump right when he said Hillary Clinton gave uranium to Russia?
+false positive: 
+414   "NAFTA was signed by Bill Clinton... NAFTA was given to us by Clinton."    Donald Trump
+697   Says Hillary Clinton has spoken "such lies about my foreign policy. They said I want Japan to … get nuclear weapons. Give me a break."   Donald Trump
+733   Says Donald Trump said the U.S. should "encourage" Japan to get nuclear weapons.   Hillary Clinton
+1330   "As secretary of state, (Hillary Clinton) worked hard to get strong sanctions against Iran's nuclear program" and "got Russia and China to support them."   Bill Clinton
+1439   “Our incompetent Secretary of State, Hillary Clinton, was the one who started talks to give 400 million dollars, in cash, to Iran."   Donald Trump
+1547   Under the Iran nuclear deal, "we give them $150 billion, we get nothing."   Donald Trump
+1595   Hillary Clinton "lacks the mental and physical stamina to take on ISIS.”   Donald Trump
+1959   I “got the treaty cutting Russia’s nuclear arms”   Hillary Clinton 
+2069   “Hillary Clinton wants to put all the miners out of business.”   Donald Trump
+2148   Claims Hillary Clinton said, ”We're going to put the [coal] miners out of work.”    Donald Trump
+5291   “Hillary Clinton gave away 20 percent of the uranium in the United States.”   Donald Trump
+5865   "Nearly 20 million Americans have chosen to pay the penalty or received an exemption rather than buy insurance. That’s something that nobody has ever heard of or thought could happen."   Donald Trump
+7765   Under the Iran nuclear deal, "we give them $150 billion, we get nothing."   Donald Trump
+false negative: 
+
+===== Question:16 Is it true when Donald Trump says the election is rigged?
+false positive: 
+2776   Says Donald Trump said he intends "to open up additional areas off the coast to oil drilling" during the campaign.   Bill Nelson
+false negative: 
+1436   Cited precincts in which "practically nobody" voted for Republican Mitt Romney in 2012 as indication of "rigged" elections.   Donald Trump
+
+===== Question:75 Is it true that Donald Trump's hairspray is affecting the ozone layer?
+false positive: 
+false negative: 
+
+===== Question:84 Is it true that Donald Trump has a relationship with Vladimir Putin?
+false positive: 
+false negative: 
+
+===== Question:108 Did Hillary Clinton change her stance on the Trans-Pacific Partnership after Donald Trump criticized it?
+false positive: 
+false negative: 
+
+===== Question:24 Is it true that Bill Clinton called Obamacare the craziest thing in the world?
+false positive: 
+false negative: 
+
+===== Question:10 Is it true that Donald Trump went bankrupt four times?
+false positive: 
+789   "There are tens of thousands of homes right here in California where you turn on the faucet but you can't drink the water."   Bernie Sanders
+1481   "Yesterday for the first time she said she wants to renegotiate trade agreements."   Donald Trump
+10310   Wages "haven’t gone up for a long time."   Donald Trump
+1741   "Food stamps have gone up two-and-a-half times under Barack Obama."   Rudy Giuliani
+2256   "There was even a time when (Donald Trump) didn't get an Emmy for his TV program three years in a row and he started tweeting that the Emmys were rigged."    Hillary Clinton
+11602   “We have missiles that can knock out a missile in the air 97 percent of the time, and if you send two of them, it's going to get knocked down.”   Donald Trump
+3749   Says Donald Trump's abortion rule "puts at risk 15 times more funding and millions more women and families ... than previous similar policies by Republican presidents."   Jeanne Shaheen
+3750   Says Donald Trump's abortion rule "puts at risk 15 times more funding and millions more women and families ... than previous similar policies by Republican presidents."   Jeanne Shaheen
+10400   "Wages haven’t gone up in a long time."   Donald Trump
+10428   Claimed that wages for U.S. workers “haven’t gone up for a long time.”   Donald Trump
+5710   "The National Debt in my first month went down by $12 billion."   Donald Trump
+6364   Ellen DeGeneres and Portia de Rossi are going on "date nights" to save their marriage.   Life & Style
+9470   Ellen DeGeneres and Portia de Rossi's marriage is "going to pot."   RadarOnline
+7716   "The National Debt in my first month went down by $12 billion."   Donald Trump
+false negative: 
+1017    Donald Trump has “bankrupt four separate businesses."   Mark Warner
+
+===== Question:48 Is it true that Donald Trump wants to get rid of the minimum wage?
+false positive: 
+1440   "I would leave it [federal minimum wage] and raise it somewhat. You need to help people — and I know it’s not very Republican to say."   Donald Trump
+1974   “First, Donald Trump said wages are too high, and both Donald Trump and Mike Pence think we ought to eliminate the federal minimum wage.”   Tim Kaine
+1988   "First, Donald Trump said wages are too high, and both Donald Trump and Mike Pence think we ought to eliminate the federal minimum wage."   Tim Kaine
+6022   “Donald Trump wants to eliminate overtime pay for people. . . . He nominates someone to head the Labor Department who wants to gut overtime pay.”   Tom Perez
+false negative: 
+
+===== Question:74 Is it true that Paul Ryan is still endorsing Donald Trump?
+false positive: 
+false negative: 
+2087   “Despite winning the second debate in a landslide (every poll), it is hard to do well when Paul Ryan and others give zero support!”   Donald Trump
+
+===== Question:70 Did Hillary Clinton have a private meeting with a Florida elections supervisor?
+false positive: 
+1673   Says Hillary Clinton "voted to raise taxes on workers earning as little as $41,500."   Republican Party of Florida
+false negative: 
+
+===== Question:65 Did Hillary Clinton lie about classified emails?
+false positive: 
+143   Hillary Clinton spins on ‘Meet the Press,’ says she put out all her emails   Hillary Cinton
+1579   "The FBI director ... had to amend the previous day’s statement, that she [Hillary Clinton] had never received any emails marked classified."   Bill Clinton
+false negative: 
+1425   Claims that FBI Director James Comey found her public statements about not sending or receiving classified email to be “truthful.”   Hillary Clinton
+
+===== Question:81 Is it true that 3 million undocumented immigrants voted in this year’s election?
+false positive: 
+3620   "Between 3 million and 5 million illegal votes caused him to lose the popular vote.”   Donald Trump
+false negative: 
+
+===== Question:107 Is it true that the crowd at Donald Trump's inauguration was the largest ever?
+false positive: 
+10427   "No president in history has imposed larger personal lifestyle costs on the taxpayer than Donald Trump."   David Frum
+11237   "In terms of a total audience including television and everything else that you have we had supposedly the biggest crowd in history."   Donald Trump
+3047   Kanye West is writing a song to perform at Donald Trump's inauguration.    MediaTakeOut
+3056   Kanye West is performing at Donald Trump's inauguration.   HollywoodLife
+3110   David Foster is planning the performances for Donald Trump's inauguration.   New York Post
+7466   "There was a very large infrastructure bill that was approved during the Obama administration, a trillion dollars. Nobody ever saw anything being built."   Donald Trump
+3456   Flo Rida is performing at Donald Trump's inauguration.    RadarOnline
+3488   Jennifer Holliday pulled out of Donald Trump's inauguration concert.   The Wrap
+3520   Donald Trump's inauguration "will be the first one that I miss since I’ve been in the Congress."   Rep. John Lewis
+3522   The inauguration of Donald Trump "will be the first one that I miss since I've been in Congress."   John Lewis
+3681   “They say I had the biggest crowd in the history of inaugural speeches. … We had the biggest audience in the history of inaugural speeches.”   Donald Trump
+false negative: 
+3583   "That was the largest audience to witness an inauguration, period."   Sean Spicer
+7717   "That was the largest audience to witness an inauguration, period."   Sean Spicer
+
+===== Question:59 Did HB2 have a big economic impact in North Carolina?
+false positive: 
+603   "Super Bowl L by everybody's estimation is a $500 million economic impact to the state of Florida."   Ron Book
+2374   Says HB2 "hasn’t moved the needle one iota" on North Carolina’s economy.   John Skvarla
+false negative: 
+
+===== Question:62 Did Richard Burr support a tax break for companies that move jobs to other countries?
+false positive: 
+false negative: 
+
+===== Question:12 Did Hillary Clinton break the law with her private server?
+false positive: 
+705   “You have to assume that our enemies and our adversaries had access to every email that ever went over [Hillary Clinton's] private server.”   Sen. Ron Johnson, R-Wisconsin 
+1379   Claims Hillary Clinton deleted emails from her private server “after she gets a subpoena” from Congress.   Donald Trump
+false negative: 
+
+===== Question:32 Will Hillary Clinton's plans add to the national debt?
+false positive: 
+10258   O.J. Simpson is planning to get revenge on Kris Jenner after he's released from prison.   National Enquirer
+2250   Says Hillary Clinton's "plan is going to raise taxes and even double your taxes."   Donald Trump
+2277   "What I have put forward does not add a penny to the debt."   Hillary Clinton
+266   "Andrew Jackson was the last president who actually balanced the federal budget, where we had no national debt."   Ben Carson
+269   "Andrew Jackson was the last president who actually balanced the federal budget, where we had no national debt."   Ben Carson
+8511   Angelina Jolie is planning her own funeral.   National Enquirer 
+358   Says both Donald Trump and Hillary Clinton say Planned Parenthood is "terrific and that it should keep taxpayer funding."    Ted Cruz
+8571   Justin Bieber is planning his funeral.   National Enquirer 
+557   Says both Donald Trump and Hillary Clinton say Planned Parenthood is "terrific and that it should keep taxpayer funding."     Ted Cruz
+8351   Alec Baldwin is planning a fitness empire with Hilaria Thomas.   National Enquirer 
+785   Says Hillary Clinton "plans to massively increase admissions (of Middle East refugees) … including a 500 percent increase in Syrian refugees coming into our country."   Donald Trump
+787   Says Hillary Clinton "plans to massively increase admissions (of Middle East refugees) … including a 500 percent increase in Syrian refugees coming into our country."   Donald Trump
+8331   Jessica Simpson is planning liposuction to lose more weight.   National Enquirer 
+8333   Taylor Swift is making plans to marry Conor Kennedy and have a baby.   National Enquirer 
+8336   A letter from Angelina Jolie that reveals her Brad Pitt plans has been uncovered.   National Enquirer 
+1032   "Independent analysts say (Donald Trump) would add $30 trillion to the national debt."   Hillary Clinton
+1609   "At $587 apiece, USA would need to bring home about 33.1 BILLION gold medals to pay off our national debt."   Scott Rigell
+1610   "At $587 apiece, USA would need to bring home about 33.1 BILLION gold medals to pay off our national debt."   Scott Rigell
+1721   Says "Hillary Clinton has pledged amnesty in her first 100 days, and her plan will provide Obamacare, Social Security, and Medicare for illegal immigrants, breaking the federal budget."   Donald Trump
+7927   Jennifer Aniston is planning to go topless in the sequel to "We Are The Millers."    National Enquirer
+7934   Jennifer Aniston is torn about her wedding plans with Justin Theroux.   National Enquirer
+1902   Says Donald Trump once suggested that he “would try to negotiate down the national debt.”   Hillary Clinton
+8062   Katie Holmes is planning for a baby with Luke Kirby.    National Enquirer 
+7834   Jessica Simpson is planning to write novels.   National Enquirer
+6749   Kris Jenner is planning to get O.J. Simpson to join "Keeping Up with the Kardashians."   National Enquirer 
+272   "Andrew Jackson was the last president who actually balanced the federal budget, where we had no national debt."   Ben Carson
+false negative: 
+
+===== Question:44 Is it true that Mexico can afford to build a wall?
+false positive: 
+8326   Claimed the wall he wants to build on the Mexico border will cost “$10 billion or less."   Donald Trump
+false negative: 
+
+===== Question:66 Does Hillary Clinton want to confiscate guns?
+false positive: 
+false negative: 
+
+===== Question:37 Is it true when Donald Trump says the accounts of the women accusing him of sexual assault have been totally debunked?
+false positive: 
+false negative: 
+
+===== Question:100 Is it true that Betsy DeVos hasn't seen the inside of a classroom?
+false positive: 
+false negative: 
+
+Precision: 0.402684563758Recall: 0.909090909091

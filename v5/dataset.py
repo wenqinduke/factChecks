@@ -14,11 +14,11 @@ model = gensim.models.KeyedVectors.load_word2vec_format('../Model/GoogleNews-vec
 total_id =11724
 conn = psycopg2.connect("dbname=sharefacts user=wenqinwang")
 cursor = conn.cursor()
-destroyTable = "DROP TABLE IF EXISTS train_set_300"
+destroyTable = "DROP TABLE IF EXISTS train_set_new_30"
 cursor.execute(destroyTable)
-command = '''CREATE TABLE train_set_300(id integer PRIMARY KEY, question VARCHAR(255), question_id integer, train_id integer, statement text, name_entity text[], name_entity_claim text[],
+command = '''CREATE TABLE train_set_new_30(id integer PRIMARY KEY, question VARCHAR(255), question_id integer, train_id integer, statement text, name_entity text[], name_entity_claim text[],
     name_entity_sum text[], ques_length integer, ques_score decimal, stat_length decimal, noun decimal, verb decimal, adj decimal, speaker_half_match integer, speaker_full_match integer,
-    matching_score decimal, highest_noun decimal, second_noun decimal, highest_verb decimal, second_verb decimal, highest_adj decimal, second_adj decimal,
+    matching_score decimal, highest_noun decimal, second_noun decimal, third_noun decimal, fourth_noun decimal, highest_verb decimal, second_verb decimal, third_verb decimal, highest_adj decimal, second_adj decimal,
     sum_other decimal, person_entity decimal, gpe_entity decimal, person_entity_match decimal, gpe_entity_match decimal, org_entity decimal, org_entity_match decimal,
     full_other_match decimal, summary_score decimal, label integer);'''
 cursor.execute(command)
@@ -101,13 +101,28 @@ def createDataSet(question_id, count, id_list, question, conn, cursor, classifie
                     entity_match += 1
                     continue
 
-        (score, sum_others, full_entity_match, full_other_match, highest_noun, second_noun, highest_verb, second_verb, highest_adj, second_adj, speaker_half_match, speaker_full_match)= match.max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, claim_tags, claim_tokens, claim_ents, claim_ents_index, speaker_tokens, model)
+        (score, sum_others, full_entity_match, full_other_match, highest_noun, second_noun, third_noun, fourth_noun, highest_verb, second_verb, third_verb, highest_adj, second_adj, speaker_half_match, speaker_full_match)= match.max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, claim_tags, claim_tokens, claim_ents, claim_ents_index, speaker_tokens, model)
         sum_score= match.max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, sum_tags, sum_tokens, sum_ents, sum_ents_index, speaker_tokens, model)[0]
 
+        if person_entity == 0:
+            person_entity_match = -1
+        else:
+            person_entity_match = float(person_entity_match) / person_entity
 
-        cursor.execute('''INSERT INTO train_set_300 Values (%s,%s,%s, %s, %s, %s, %s, %s,%s,%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', (count, question, question_id, stat_id, claim, name_entity, name_entity_claim, name_entity_sum,
-        ques_length, ques_score, stat_length, float(ques_noun)/ques_length, float(ques_verb)/ques_length, float(ques_adj)/ques_length, speaker_half_match, speaker_full_match, score/ques_score, highest_noun, second_noun, highest_verb, second_verb, highest_adj, second_adj, float(sum_others)/ques_score, float(person_entity)/ques_length, float(gpe_entity)/ques_length, float(person_entity_match)/ques_length,
-        float(gpe_entity_match)/ques_length, float(org_entity)/ques_length, float(org_entity_match)/ques_length, float(full_other_match)/ques_length, float(sum_score)/ques_score, classified_as))
+        if org_entity == 0:
+            org_entity_match = -1
+        else:
+            org_entity_match = float(org_entity_match) / org_entity
+
+        if gpe_entity == 0:
+            gpe_entity_match = -1
+        else:
+            gpe_entity_match = float(gpe_entity_match) / gpe_entity
+
+
+        cursor.execute('''INSERT INTO train_set_new_30 Values (%s,%s,%s, %s, %s,%s, %s, %s, %s, %s, %s,%s,%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)''', (count, question, question_id, stat_id, claim, name_entity, name_entity_claim, name_entity_sum,
+        ques_length, ques_score, stat_length, float(ques_noun)/ques_length, float(ques_verb)/ques_length, float(ques_adj)/ques_length, speaker_half_match, speaker_full_match, float(score)/ques_length, highest_noun, second_noun, third_noun, fourth_noun, highest_verb, second_verb, third_verb, highest_adj, second_adj, float(sum_others)/ques_length, float(person_entity)/ques_length, float(gpe_entity)/ques_length, person_entity_match,
+        gpe_entity_match, float(org_entity)/ques_length, org_entity_match, float(full_other_match)/ques_length, float(sum_score)/ques_length, classified_as))
         conn.commit()
         count += 1
 
@@ -127,8 +142,8 @@ for index in range(df.shape[0]):
 
     potential_id = df.potential_id[index]
     false_id_list= [w for w in potential_id if w not in stat_id_list]
-    if len(false_id_list) >=300:
-        false_id_list = random.sample(false_id_list, 300)
+    if len(false_id_list) >=30:
+        false_id_list = random.sample(false_id_list, 30)
 
     count = createDataSet(question_id, count, false_id_list, question, conn, cursor, 0)
 

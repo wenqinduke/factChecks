@@ -95,7 +95,7 @@ def process(text):
     pos_tags = pos_tag(word_tokenize(text))
     #tree = cp.parse(pos_tags)
     #print type(tree)
-    # tree.draw()
+    #tree.draw()
     #traverse(tree)
     # print entity_list
     #print tokens
@@ -162,4 +162,4 @@ def get_wordnet_pos(treebank_tag):
 #     line = line.replace("\n", "")
 #     #line = "Is it true that Trump didn't pay 16 million taxes?"
 #     # process (line)
-#process("Is it true that Obamacare is causing health care premiums to increase?")
+#process("Because of the failure to pass a repeal bill, Obamacare remains the law of the land")

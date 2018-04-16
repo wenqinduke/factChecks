@@ -1,0 +1,120 @@
+===== Question:28 Is it true that Hillary Clinton will double taxes?
+false positive:
+false negative:
+
+===== Question:33 Is the FBI investigating Hillary Clinton?
+false positive:
+813   Says the FBI was prevented from fully investigating Omar Mateen because of “the Obama administration’s political correctness.”    Chris Cox
+false negative:
+2410   "The FBI has reopened its investigation into Hillary Clinton ... and discovered another 650,000 emails."   Donald Trump
+2454   "The FBI has reopened its investigation into Hillary Clinton ... and discovered another 650,000 emails."   Donald Trump
+
+===== Question:93 Did the New York Times apologize for their bad coverage of Donald Trump?
+false positive:
+false negative:
+
+===== Question:86 Is it true that the U.S. is the highest-taxed nation in the world?
+false positive:
+3089   America’s federal business tax rate is the highest "in the world."   Donald Trump
+10381   "Today, 20 U.S.- designated foreign terrorist organizations are active in Afghanistan and Pakistan, the highest concentration in any region anywhere in the world."   Donald Trump
+10391   “Today, 20 U.S.-designated foreign terrorist organizations are active in Afghanistan and Pakistan — the highest concentration in any region anywhere in the world.”   Donald Trump
+997   Harris County, Texas has "some of the highest jailing and incarceration rates in the U.S. and the world."   Rodney Ellis
+9210   Although California has "the sixth largest economy in the world, we also have one of the highest poverty rates" in the nation.   Antonio Villaraigosa
+3578   California has "the highest poverty rate in the nation" when considering the U.S. Census Bureau’s Supplemental Poverty Measure.   Chad Mayes
+false negative:
+
+===== Question:98 Is it true that a large number of college graduates are living at home?
+false positive:
+false negative:
+
+===== Question:77 Is John McCain too old to serve another six-year Senate term?
+false positive:
+false negative:
+
+===== Question:110 Has there ever been a vacant seat on the Supreme Court for this long?
+false positive:
+false negative:
+2835   "There is long historical precedent for a Supreme Court with fewer justices."    Ted Cruz
+2836   "There is long historical precedent for a Supreme Court with fewer justices."    Ted Cruz
+
+===== Question:82 Did Donald Trump have more people at his inauguration than Barack Obama?
+false positive:
+false negative:
+
+===== Question:91 Was there mass voter fraud during the election?
+false positive:
+false negative:
+10949    "Mass voter fraud just discovered, to the amount that could void Hillary’s victory In New Hampshire."   Young Conservatives
+
+===== Question:27 Is it true that Donald Trump opposed the war in Iraq?
+false positive:
+1227   On the Iraq war, "I said it loud and clear, 'You'll destabilize the Middle East.' "   Donald Trump
+1231   On the Iraq war, "I said it loud and clear, 'You'll destabilize the Middle East.' "   Donald Trump
+1794   "The Germans, the French, countries that opposed us in the (Iraq) war, all believed (Saddam Hussein) had weapons of mass destruction."     Paul Wolfowitz
+2617   Kendall and Kylie Jenner are at war with Caitlyn over Donald Trump.    HollywoodLife
+2618   Kendall and Kylie Jenner are at war with Caitlyn over Donald Trump.    HollywoodLife
+false negative:
+559   Says he “fought very, very hard against us … going into Iraq,” claiming he could provide “25 different stories” to prove his opposition.    Donald Trump
+957   Says he “fought very, very hard against us … going into Iraq,” claiming he could provide “25 different stories” to prove his opposition.   Donald Trump
+
+===== Question:5 Is it true that Hillary Clinton deleted her emails after getting a subpoena?
+false positive:
+false negative:
+2376   "You get a subpoena, and after getting the subpoena, you delete 33,000 e-mails."   Donald Trump
+
+===== Question:18 Is Donald Trump right when he says the murder rate is really high?
+false positive:
+805   The unemployment rate may be as high as "42 percent."   Donald Trump
+806   The unemployment rate may be as high as "42 percent."   Donald Trump
+3089   America’s federal business tax rate is the highest "in the world."   Donald Trump
+false negative:
+10329   Says that the murder rate in 2015 "experienced its largest single-year increase in nearly half a century."   Donald Trump
+
+===== Question:70 Did Hillary Clinton have a private meeting with a Florida elections supervisor?
+false positive:
+false negative:
+
+===== Question:1 Did Hillary Clinton lie about Benghazi?
+false positive:
+false negative:
+1241   Says Hillary Clinton lied about a video causing the Benghazi attacks, despite knowing it was terrorism   Patricia Smith
+
+===== Question:99 Did Mike Pence support conversion therapy?
+false positive:
+false negative:
+
+===== Question:56 Is it true that the US is getting ripped off by NATO countries?
+false positive:
+false negative:
+
+===== Question:59 Did HB2 have a big economic impact in North Carolina?
+false positive:
+527   "We've already lost $500 million in economic impact" from HB2 fallout in North Carolina.   Chris Sgro
+false negative:
+6232   Says HB2 has hurt North Carolina’s economy by "one-tenth of 1 percent of our annual GDP."   Dan Forest
+
+===== Question:97 Does Massachusetts have the worst ratio of white to black voter turnout?
+false positive:
+false negative:
+
+===== Question:31 Is it right when Donald Trump says NAFTA was the worst trade deal ever?
+false positive:
+10439   Claims “both of the countries” -- Mexico and Canada -- have “such great deals” under NAFTA.   Donald Trump
+false negative:
+948   Claims the North American Free Trade Agreement was "Bill Clinton’s disastrous and totally disastrous NAFTA."   Donald Trump
+
+===== Question:52 Did Hillary Clinton sell weapons to ISIS?
+false positive:
+false negative:
+
+===== Question:37 Is it true when Donald Trump says the accounts of the women accusing him of sexual assault have been totally debunked?
+false positive:
+false negative:
+
+===== Question:100 Is it true that Betsy DeVos hasn't seen the inside of a classroom?
+false positive:
+false negative:
+
+[100, 98, 91, 1, 31, 97, 27, 86, 56, 28, 70, 77, 59, 110, 33, 52, 99, 82, 37, 5, 18, 93]
+
+Precision: 0.760563380282Recall: 0.818181818182

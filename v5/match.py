@@ -3,16 +3,19 @@ import gensim
 import time
 import pre_process_sentence
 
-def max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, sta_tags, claim_tokens, claim_ents,  claim_ents_index, speaker_token, model):
-    verb_weight = 1.5
+def max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, claim_tags, claim_tokens, claim_ents,  claim_ents_index, speaker_token, model):
+    verb_weight = 1
     noun_weight = 1
     entity_weight = 1.5
-    imp_weight = 1.5
+    #imp_weight = 1.5
 
     highest_noun = 0
     second_noun = 0
+    third_noun = 0
+    fourth_noun = 0
     highest_verb = 0
     second_verb = 0
+    third_verb = 0
     highest_adj = 0
     second_adj = 0
     sum_others = 0
@@ -48,7 +51,7 @@ def max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, sta_tags
                         marked_row.append(row)
                         marked_col.append(col)
                         full_other_match += 1
-                        if row in ques_ents_index:
+                        if row in ques_ents_index or col in claim_ents_index:
                             score_sum += entity_weight
                             full_entity_match += 1
                         # elif row in claim_imp_index:
@@ -58,12 +61,18 @@ def max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, sta_tags
                                 highest_verb = verb_weight
                             elif second_verb == 0:
                                 second_verb= verb_weight
+                            elif third_verb == 0:
+                                third_verb = verb_weight
                             score_sum += verb_weight
                         elif noun_tag(ques_tags[row]):
                             if highest_noun == 0:
                                 highest_noun = noun_weight
                             elif second_noun == 0:
                                 second_noun = noun_weight
+                            elif third_noun == 0:
+                                third_noun = noun_weight
+                            elif fourth_noun == 0:
+                                fourth_noun = noun_weight
                             score_sum += noun_weight
                         elif adj_tag(ques_tags[row]):
                             if highest_adj == 0:
@@ -104,17 +113,30 @@ def max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, sta_tags
             #     score_sum += imp_weight * max_weight
             elif verb_tag(ques_tags[max_row]):
                 if highest_verb < max_weight:
+                    third_verb = second_verb
                     second_verb = highest_verb
                     highest_verb = max_weight
                 elif second_verb < max_weight:
+                    third_verb = second_verb
                     second_verb= max_weight
+                elif third_verb < max_weight:
+                    third_verb = max_weight
                 score_sum += verb_weight * max_weight
             elif noun_tag(ques_tags[max_row]):
                 if highest_noun < max_weight:
+                    fourth_noun = third_noun
+                    third_noun = second_noun
                     second_noun = highest_noun
                     highest_noun = max_weight
                 elif second_noun < max_weight:
+                    fourth_noun = third_noun
+                    third_noun = second_noun
                     second_noun= max_weight
+                elif third_noun < max_weight:
+                    fourth_noun = third_noun
+                    third_noun = max_weight
+                elif fourth_noun < max_weight:
+                    fourth_noun = max_weight
                 score_sum += noun_weight * max_weight
             elif adj_tag(ques_tags[max_row]):
                 if highest_adj < max_weight:
@@ -130,7 +152,9 @@ def max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, sta_tags
             max_weight = 0 #re-initialize max_weight
     #print score_sum
     sum_others = score_sum - highest_noun - second_noun - highest_verb - second_verb - highest_adj - second_adj
-    return (score_sum, sum_others, full_entity_match, full_other_match, highest_noun, second_noun, highest_verb, second_verb, highest_adj, second_adj, speaker_half_match, speaker_full_match)
+    if (sum_others < 0):
+        sum_others = 0
+    return (score_sum, sum_others, full_entity_match, full_other_match, highest_noun, second_noun, third_noun, fourth_noun, highest_verb, second_verb, third_verb, highest_adj, second_adj, speaker_half_match, speaker_full_match)
 
 
 def verb_tag(tag):

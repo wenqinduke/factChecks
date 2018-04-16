@@ -1,0 +1,141 @@
+===== Question:16 Is it true when Donald Trump says the election is rigged?
+false positive: 
+false negative: 
+250   The Colorado caucus system for selecting Republican delegates is "rigged."   Donald Trump
+258   THE CLAIM: "Corrupt and crooked" elections have been "rigged" against Trump.   Donald Trump
+1436   Cited precincts in which "practically nobody" voted for Republican Mitt Romney in 2012 as indication of "rigged" elections.   Donald Trump
+
+===== Question:8 Was it true when Hillary Clinton said Donald Trump didn't pay taxes?
+false positive: 
+922   Claims Hillary Clinton is going to “raise your taxes very substantially.”   Donald Trump
+1458   Hillary Clinton says she wants to raise taxes on the middle class.’   Donald Trump
+1459   Says Hillary Clinton says she wants to raise taxes on the middle class.   Donald Trump
+1465   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+7768   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+1657   Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."   Donald Trump
+false negative: 
+
+===== Question:29 Is it true that Hillary Clinton laughed at a rape victim?
+false positive: 
+541   Hillary Clinton "defended an accused child rapist, then laughed about his lenient sentence"   National Republican Senatorial Committee
+542   Hillary Clinton "defended an accused child rapist, then laughed about his lenient sentence"   National Republican Senatorial Committee
+543   Hillary Clinton "politically attacked sexual harassment victims"   National Republican Senatorial Committee
+false negative: 
+2049   Says after Hillary Clinton helped a man accused of raping a 12-year-old, "she's seen laughing on two separate occasions, laughing at the girl who was raped."   Donald Trump
+7753   Says after Hillary Clinton helped a man accused of raping a 12-year-old, "she's seen laughing on two separate occasions, laughing at the girl who was raped."   Donald Trump
+
+===== Question:55 Did Hillary Clinton have a seizure?
+false positive: 
+false negative: 
+
+===== Question:88 Did Russia hack into computers during the presidential election?
+false positive: 
+false negative: 
+3442   The Russians "tried to hack the Republican National Committee, and they were unable to break through."    Donald Trump
+3443   The Russians "tried to hack the Republican National Committee, and they were unable to break through."    Donald Trump
+
+===== Question:94 Was Obamacare a failure?
+false positive: 
+10039   Because of the failure to pass a repeal bill, "Obamacare remains the law of the land ... This means more than 300,000 Georgians below the poverty line will still not have access to the insurance Obamacare promised."   David Perdue
+false negative: 
+9387   "Obamacare Fail #3: Fewer Covered under Obamacare exchanges. In 2016, 29% of enrollees dropped off Obamacare exchanges, over 3.6 million people"   The White House
+9388   "Obamacare Fail #4: Less Freedom. In 2015, Americans paid $3 billion in penalties for not purchasing unaffordable health plans that did not meet their needs"   The White House
+6772   “I have to tell you that Obamacare is a disaster. It’s failing. … Obamacare will fail. It will fold. It will close up very, very soon if something isn’t done.”   Donald Trump
+
+===== Question:101 Does Rex Tillerson oppose sanctions against Russia?
+false positive: 
+false negative: 
+
+===== Question:10 Is it true that Donald Trump went bankrupt four times?
+false positive: 
+1481   "Yesterday for the first time she said she wants to renegotiate trade agreements."   Donald Trump
+10310   Wages "haven’t gone up for a long time."   Donald Trump
+10400   "Wages haven’t gone up in a long time."   Donald Trump
+10428   Claimed that wages for U.S. workers “haven’t gone up for a long time.”   Donald Trump
+5710   "The National Debt in my first month went down by $12 billion."   Donald Trump
+6364   Ellen DeGeneres and Portia de Rossi are going on "date nights" to save their marriage.   Life & Style
+9470   Ellen DeGeneres and Portia de Rossi's marriage is "going to pot."   RadarOnline
+7716   "The National Debt in my first month went down by $12 billion."   Donald Trump
+false negative: 
+202   Says Donald Trump was "forced to file for bankruptcy not once, not twice, four times."   Carly Fiorina
+1017    Donald Trump has “bankrupt four separate businesses."   Mark Warner
+1943   Trump has "taken business bankruptcies six times."   Hillary Clinton
+2038   Trump has "taken business bankruptcies six times."   Hillary Clinton
+7706   Says Donald Trump was "forced to file for bankruptcy not once, not twice, four times."   Carly Fiorina
+
+===== Question:18 Is Donald Trump right when he says the murder rate is really high?
+false positive: 
+805   The unemployment rate may be as high as "42 percent."   Donald Trump
+806   The unemployment rate may be as high as "42 percent."   Donald Trump
+3089   America’s federal business tax rate is the highest "in the world."   Donald Trump
+false negative: 
+10329   Says that the murder rate in 2015 "experienced its largest single-year increase in nearly half a century."   Donald Trump
+
+===== Question:102 Is it true that Trump has been used for ISIS recruitment?
+false positive: 
+581   “We now do have evidence” that Donald Trump is being used as a recruiting tool for terrorists.   Hillary Clinton
+false negative: 
+
+===== Question:74 Is it true that Paul Ryan is still endorsing Donald Trump?
+false positive: 
+false negative: 
+2087   “Despite winning the second debate in a landslide (every poll), it is hard to do well when Paul Ryan and others give zero support!”   Donald Trump
+
+===== Question:70 Did Hillary Clinton have a private meeting with a Florida elections supervisor?
+false positive: 
+false negative: 
+
+===== Question:34 Is it true that Donald Trump is the first modern candidate not to release his tax returns?
+false positive: 
+11538   "And as far as the tax returns, as soon as the audits complete" I'll release them   Donald Trump
+8016   "And as far as the tax returns, as soon as the audits complete" I'll release them   Donald Trump
+8093   Says the T.R.U.M.P. Act, which would force presidential candidates to release their tax returns to run in North Carolina, "has a lot of support – by a majority of North Carolinians and members of both parties."   Jay Chaudhuri
+false negative: 
+
+===== Question:57 Is it true that Donald Trump wants to get rid of NATO?
+false positive: 
+998   Says Donald Trump “wants to get rid of the federal minimum wage.”   Hillary Clinton
+false negative: 
+460   Claims Donald Trump said “we should pull out of NATO.”   Hillary Clinton
+
+===== Question:99 Did Mike Pence support conversion therapy?
+false positive: 
+false negative: 
+
+===== Question:59 Did HB2 have a big economic impact in North Carolina?
+false positive: 
+527   "We've already lost $500 million in economic impact" from HB2 fallout in North Carolina.   Chris Sgro
+false negative: 
+6232   Says HB2 has hurt North Carolina’s economy by "one-tenth of 1 percent of our annual GDP."   Dan Forest
+
+===== Question:104 Is it true that Donald Trump is against same-sex marriage?
+false positive: 
+false negative: 
+1538   Donald Trump is "against marriage equality. He wants to go back."   Rep. Sean Patrick Maloney
+2513   Says Donald Trump "wants to undo marriage equality."   Hillary Clinton
+7734   Donald Trump is "against marriage equality. He wants to go back."   Rep. Sean Patrick Maloney
+
+===== Question:2 Did Donald Trump call Miss Universe Miss Piggy?
+false positive: 
+false negative: 
+
+===== Question:17 Did Donald Trump say climate change is a hoax?
+false positive: 
+9215   Claimed the Paris Agreement on climate change is legally binding.    Donald Trump
+false negative: 
+
+===== Question:19 Is Donald Trump right when he says the murder rate is the highest in 45 years?
+false positive: 
+false negative: 
+
+===== Question:44 Is it true that Mexico can afford to build a wall?
+false positive: 
+8326   Claimed the wall he wants to build on the Mexico border will cost “$10 billion or less."   Donald Trump
+false negative: 
+
+===== Question:63 Did Hillary Clinton have classified materials on her email server?
+false positive: 
+false negative: 
+1745   "Classified material has a header which says ‘top-secret, secret, confidential.’ Nothing, and I will repeat this and this is verified in the report by the Department of Justice, none of the emails sent or received by me had such a header."   Hillary Clinton
+
+Precision: 0.623376623377Recall: 0.676056338028

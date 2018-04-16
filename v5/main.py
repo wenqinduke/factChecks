@@ -43,7 +43,7 @@ def create_data_array(cursor, model, question, stat_id):
         print AttributeError
         return []
     ques_length = len(ques_tokens)
-    stat_length = len(claim_tokens)
+    claim_length = len(claim_tokens)
     verb_weight = 1.5
     noun_weight = 1
     entity_weight = 1.5
@@ -71,6 +71,7 @@ def create_data_array(cursor, model, question, stat_id):
     gpe_entity_match = 0
     org_entity = 0
     org_entity_match = 0
+    selected = []
     for ent in name_entity:
         (word, tag, pos) = ent
         if tag.endswith("PERSON"):
@@ -82,20 +83,41 @@ def create_data_array(cursor, model, question, stat_id):
         for ent_in_total in name_entity_total:
             #cur_ent_word = ent_in_total[0]
             if word == ent_in_total[0] or word.startswith(ent_in_total[0]) or ent_in_total[0].startswith(word):
-                if tag.endswith("PERSON"):
-                    person_entity_match += 1
-                elif tag.endswith("GPE"):
-                    gpe_entity_match += 1
-                elif tag.endswith("ORGANIZATION"):
-                    org_entity_match += 1
-                entity_match += 1
-                continue
+                if word not in selected:
+                    if tag.endswith("PERSON"):
+                        person_entity_match += 1
+                    elif tag.endswith("GPE"):
+                        gpe_entity_match += 1
+                    elif tag.endswith("ORGANIZATION"):
+                        org_entity_match += 1
+                    entity_match += 1
+                    selected.append(word)
+                    continue
 
-    (score, sum_others, full_entity_match, full_other_match, highest_noun, second_noun, highest_verb, second_verb, highest_adj, second_adj, speaker_half_match, speaker_full_match)= match.max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, claim_tags, claim_tokens, claim_ents, claim_ents_index, speaker_tokens, model)
+    (score, sum_others, full_entity_match, full_other_match, highest_noun, second_noun, third_noun, fourth_noun, highest_verb, second_verb, third_verb, highest_adj, second_adj, speaker_half_match, speaker_full_match)= match.max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, claim_tags, claim_tokens, claim_ents, claim_ents_index, speaker_tokens, model)
     sum_score= match.max_match_score(ques_tags, ques_tokens, ques_ents, ques_ents_index, sum_tags, sum_tokens, sum_ents, sum_ents_index, speaker_tokens, model)[0]
 
-    data = [ques_length, ques_score, stat_length, float(ques_noun)/ques_length, float(ques_verb)/ques_length, float(ques_adj)/ques_length, speaker_half_match, speaker_full_match, score/ques_score, highest_noun, second_noun, highest_verb, second_verb, highest_adj, second_adj, float(sum_others)/ques_score, float(person_entity)/ques_length, float(gpe_entity)/ques_length, float(person_entity_match)/ques_length,
-    float(gpe_entity_match)/ques_length, float(org_entity)/ques_length, float(org_entity_match)/ques_length, float(full_other_match)/ques_length, float(sum_score)/ques_score]
+    # data = [ques_length, ques_score, claim_length, float(ques_noun)/ques_length, float(ques_verb)/ques_length, float(ques_adj)/ques_length, speaker_half_match, speaker_full_match, score/ques_score, highest_noun, second_noun, third_noun, fourth_noun, highest_verb, second_verb, third_verb, highest_adj, second_adj, float(sum_others)/ques_score, float(person_entity)/ques_length, float(gpe_entity)/ques_length, float(person_entity_match)/ques_length,
+    # float(gpe_entity_match)/ques_length, float(org_entity)/ques_length, float(org_entity_match)/ques_length, float(full_other_match)/ques_length, float(sum_score)/ques_score]
+
+    if person_entity == 0:
+        person_entity_match = -1
+    else:
+        person_entity_match = float(person_entity_match) / person_entity
+
+    if org_entity == 0:
+        org_entity_match = -1
+    else:
+        org_entity_match = float(org_entity_match) / org_entity
+
+    if gpe_entity == 0:
+        gpe_entity_match = -1
+    else:
+        gpe_entity_match = float(gpe_entity_match) / gpe_entity
+
+    data = [ques_length, claim_length, float(ques_noun)/ques_length, float(ques_verb)/ques_length, float(ques_adj)/ques_length, speaker_half_match, float(score)/ques_length, highest_noun, second_noun, third_noun, fourth_noun, highest_verb, second_verb, third_verb, highest_adj, second_adj, person_entity_match,
+    gpe_entity_match, org_entity_match, float(full_other_match)/ques_length]
+
 
     return data
 
@@ -105,38 +127,39 @@ def check (ques, model, potential_id, dataframe, conn, clf):
 
     cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
 
-    verb_weight = 1.5
-    noun_weight = 1
-    entity_weight = 1.5
-    imp_weight = 1.5
-    ques_score = 0
-    ques_length = len(ques_token)
-    for word_index in range(ques_length):
-        if word_index in ques_ents_index:
-            ques_score += entity_weight
-        # elif word_index in claim_imp_index:
-        #     claim_score += imp_weight
-        elif match.verb_tag(ques_tags[word_index]):
-            ques_score += verb_weight
-        elif match.noun_tag(ques_tags[word_index]):
-            ques_score += noun_weight
-        else:
-            ques_score += 1
+    # verb_weight = 1.5
+    # noun_weight = 1
+    # entity_weight = 1.5
+    # imp_weight = 1.5
+    # ques_score = 0
+    # ques_length = len(ques_token)
+    # for word_index in range(ques_length):
+    #     if word_index in ques_ents_index:
+    #         ques_score += entity_weight
+    #     # elif word_index in claim_imp_index:
+    #     #     claim_score += imp_weight
+    #     elif match.verb_tag(ques_tags[word_index]):
+    #         ques_score += verb_weight
+    #     elif match.noun_tag(ques_tags[word_index]):
+    #         ques_score += noun_weight
+    #     else:
+    #         ques_score += 1
+    #
+    # name_entity = ques_ents
+    # person_entity = 0
+    # gpe_entity = 0
+    # org_entity = 0
+    #
+    # for ent in name_entity:
+    #     (word, tag, pos) = ent
+    #     if tag.endswith("PERSON"):
+    #         person_entity += 1
+    #     elif tag.endswith("GPE"):
+    #         gpe_entity += 1
+    #     elif tag.endswith("ORGANIZATION"):
+    #         org_entity += 1
 
-    name_entity = ques_ents
-    person_entity = 0
-    gpe_entity = 0
-    org_entity = 0
-
-    for ent in name_entity:
-        (word, tag, pos) = ent
-        if tag.endswith("PERSON"):
-            person_entity += 1
-        elif tag.endswith("GPE"):
-            gpe_entity += 1
-        elif tag.endswith("ORGANIZATION"):
-            org_entity += 1
-
+    #TODO: make code more efficient by only computing question's length, entity once and pass in as a parameter.
     match_list = []
     index_list = []
 

@@ -1,0 +1,151 @@
+===== Question:53 Is it true that Donald Trump dodged the draft?
+false positive: 
+false negative: 
+
+===== Question:54 Is it true that Hillary Clinton wore an earpiece at the debates?
+false positive: 
+false negative: 
+
+===== Question:29 Is it true that Hillary Clinton laughed at a rape victim?
+false positive: 
+541   Hillary Clinton "defended an accused child rapist, then laughed about his lenient sentence"   National Republican Senatorial Committee
+542   Hillary Clinton "defended an accused child rapist, then laughed about his lenient sentence"   National Republican Senatorial Committee
+543   Hillary Clinton "politically attacked sexual harassment victims"   National Republican Senatorial Committee
+822   Did Hillary Clinton volunteer in 1975 to defend a rapist, who was found not guilty, and laugh about it in 1980?   Ask FactCheck
+false negative: 
+
+===== Question:16 Is it true when Donald Trump says the election is rigged?
+false positive: 
+2776   Says Donald Trump said he intends "to open up additional areas off the coast to oil drilling" during the campaign.   Bill Nelson
+false negative: 
+250   The Colorado caucus system for selecting Republican delegates is "rigged."   Donald Trump
+1436   Cited precincts in which "practically nobody" voted for Republican Mitt Romney in 2012 as indication of "rigged" elections.   Donald Trump
+
+===== Question:55 Did Hillary Clinton have a seizure?
+false positive: 
+2160   Hillary Clinton said gun confiscation "would be worth considering."   National Rifle Association
+false negative: 
+
+===== Question:106 Is it true that many recent migrants into the U.S. have been charged with terrorism?
+false positive: 
+false negative: 
+
+===== Question:110 Has there ever been a vacant seat on the Supreme Court for this long?
+false positive: 
+false negative: 
+
+===== Question:93 Did the New York Times apologize for their bad coverage of Donald Trump?
+false positive: 
+5772   “We’ve saved taxpayers hundreds of millions of dollars by bringing down the price of the fantastic new F-35 jet fighter, and will be saving billions more dollars on contracts all across our government.”    Donald Trump
+false negative: 
+
+===== Question:95 Do schools really have guns to protect students from bears?
+false positive: 
+false negative: 
+
+===== Question:84 Is it true that Donald Trump has a relationship with Vladimir Putin?
+false positive: 
+false negative: 
+
+===== Question:38 Is it true that Donald Trump exaggerates his net worth?
+false positive: 
+3279   Says Donald Trump's first 17 Cabinet appointments "have a net worth of more than a third of America."   Mark Pocan
+3319   Says Donald Trump's first 17 Cabinet appointments "have a net worth of more than a third of America."   Mark Pocan
+false negative: 
+
+===== Question:7 Was it true when Donald Trump said Hillary Clinton viciously attacked women?
+false positive: 
+372   "Frankly, (Hillary Clinton) doesn’t do very well with women."    Donald Trump
+405   Hillary Clinton "would go after these women and destroy their lives. She was an unbelievably nasty, mean enabler."   Donald Trump
+406   Hillary Clinton "would go after these women and destroy their lives. She was an unbelievably nasty, mean enabler."   Donald Trump
+570   "Frankly, (Hillary Clinton) doesn’t do very well with women."   Donald Trump
+580   "Frankly, (Hillary Clinton) doesn’t do very well with women."    Donald Trump
+855   Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”    Donald Trump
+856   Says Hillary Clinton "said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers."   Donald Trump
+857   Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”    Donald Trump
+1012   Hillary Clinton has been given tens of millions of dollars by countries that "treat women horribly ... and countries that kill gays."   Donald Trump
+1328   Says when an interviewer asked Donald Trump if he treats women with respect, Trump replied, "I can't say that."   Hillary Clinton
+2061    Bill Clinton “had to pay an $850,000 fine to one of the women. Paula Jones"   Donald Trump
+2209   Tercer debate: Trump miente al decir que Clinton apoya el aborto hasta en en noveno mes de embarazo   Donald Trump
+7742   Hillary Clinton has been given tens of millions of dollars by countries that "treat women horribly ... and countries that kill gays."   Donald Trump
+false negative: 
+
+===== Question:64 Did Hillary Clinton have classified emails on her server?
+false positive: 
+143   Hillary Clinton spins on ‘Meet the Press,’ says she put out all her emails   Hillary Cinton
+148   Hillary Clinton said 'my predecessors did the same thing' with email   Hillary Cinton
+149   Hillary Clinton said 'my predecessors did the same thing' with email   Hillary Cinton
+157   Hillary Clinton said 'my predecessors did the same thing' with email   Hillary Cinton
+705   “You have to assume that our enemies and our adversaries had access to every email that ever went over [Hillary Clinton's] private server.”   Sen. Ron Johnson, R-Wisconsin 
+1211   Says Hillary Clinton "said all work-related emails were sent back to the State Department. The FBI director said, that's not true."   Chris Christie
+3425   Says Hillary Clinton campaign chairman John Podesta’s email password was "password."   Reince Priebus
+1379   Claims Hillary Clinton deleted emails from her private server “after she gets a subpoena” from Congress.   Donald Trump
+7824   "You (Hillary Clinton) get a subpoena, and after getting the subpoena you delete 33,000 emails."   Donald Trump
+2044   "You (Hillary Clinton) get a subpoena, and after getting the subpoena you delete 33,000 emails."   Donald Trump
+false negative: 
+1489   FBI Director James Comey said that Hillary Clinton "had no knowledge of some of those so-called classified e-mails because they were either not marked or they were not classified at the time or they were incorrectly marked."   Rep. Xavier Becerra
+
+===== Question:65 Did Hillary Clinton lie about classified emails?
+false positive: 
+143   Hillary Clinton spins on ‘Meet the Press,’ says she put out all her emails   Hillary Cinton
+148   Hillary Clinton said 'my predecessors did the same thing' with email   Hillary Cinton
+149   Hillary Clinton said 'my predecessors did the same thing' with email   Hillary Cinton
+157   Hillary Clinton said 'my predecessors did the same thing' with email   Hillary Cinton
+1211   Says Hillary Clinton "said all work-related emails were sent back to the State Department. The FBI director said, that's not true."   Chris Christie
+1379   Claims Hillary Clinton deleted emails from her private server “after she gets a subpoena” from Congress.   Donald Trump
+1579   "The FBI director ... had to amend the previous day’s statement, that she [Hillary Clinton] had never received any emails marked classified."   Bill Clinton
+7824   "You (Hillary Clinton) get a subpoena, and after getting the subpoena you delete 33,000 emails."   Donald Trump
+2044   "You (Hillary Clinton) get a subpoena, and after getting the subpoena you delete 33,000 emails."   Donald Trump
+false negative: 
+1425   Claims that FBI Director James Comey found her public statements about not sending or receiving classified email to be “truthful.”   Hillary Clinton
+
+===== Question:69 Is the Clinton Foundation under investigation?
+false positive: 
+8785   "Clinton Foundation ordered to cease operations – Chelsea (Clinton) charged with fraud!"   Internet rumors
+2955   “Monica Peterson went to the country of Haiti to investigate links between the Clinton Foundation and human trafficking."   Viral 'Fake News'
+false negative: 
+
+===== Question:49 Is it true that Hillary Clinton wants to raise taxes on the middle class?
+false positive: 
+2250   Says Hillary Clinton's "plan is going to raise taxes and even double your taxes."   Donald Trump
+10592   "Ronald Reagan led the world by cutting our corporate tax rate to 34 percent. ... Under this pro-America system, our economy boomed. It just went beautifully -- right through the roof. The middle class thrived and median family income increased."   Donald Trump
+10620   “Under [Ronald Reagan’s 1986 tax reform], our economy boomed. It just went beautifully right through the roof. The middle class thrived, and median family income increased.”   Donald Trump
+922   Claims Hillary Clinton is going to “raise your taxes very substantially.”   Donald Trump
+11585   Says the GOP plan raises “middle class” taxes by $470 billion.   Nancy Pelosi
+1657   Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."   Donald Trump
+1695   "Hillary Clinton wants to shut down family farms" using "radical regulation," by raising business tax "rates as high as nearly 50 percent" and by taxing "family farms again at death by as much as 45 percent."    Donald Trump
+1911   According to "independent experts," Donald Trump's tax plan "would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy."   Hillary Clinton
+1953   The Great Recession emerged "in large part because of tax policies that slashed taxes on the wealthy, failed to invest in the middle class, took their eyes off of Wall Street, and created a perfect storm."   Hillary Clinton
+false negative: 
+
+===== Question:56 Is it true that the US is getting ripped off by NATO countries?
+false positive: 
+false negative: 
+
+===== Question:104 Is it true that Donald Trump is against same-sex marriage?
+false positive: 
+false negative: 
+
+===== Question:76 Is it true that the zika virus causes people to go blind?
+false positive: 
+false negative: 
+
+===== Question:2 Did Donald Trump call Miss Universe Miss Piggy?
+false positive: 
+false negative: 
+
+===== Question:62 Did Richard Burr support a tax break for companies that move jobs to other countries?
+false positive: 
+false negative: 
+
+===== Question:68 Is it true that even Richard Nixon released his tax returns while running for president?
+false positive: 
+1975   “Richard Nixon released tax returns when he was under audit.”   Tim Kaine
+1976   “Richard Nixon released tax returns when he was under audit.”   Tim Kaine
+1977   “Richard Nixon released tax returns when he was under audit.”   Tim Kaine
+1979   “Richard Nixon released tax returns when he was under audit.”   Tim Kaine
+1980   "Richard Nixon released tax returns when he was under audit."   Tim Kaine
+1994   “Richard Nixon released tax returns when he was under audit.”   Tim Kaine
+false negative: 
+
+Precision: 0.425742574257Recall: 0.914893617021

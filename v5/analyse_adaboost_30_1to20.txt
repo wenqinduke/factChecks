@@ -1,0 +1,217 @@
+===== Question:13 Was Donald Trump right when he said Hillary Clinton gave uranium to Russia?
+false positive: 
+697   Says Hillary Clinton has spoken "such lies about my foreign policy. They said I want Japan to … get nuclear weapons. Give me a break."   Donald Trump
+733   Says Donald Trump said the U.S. should "encourage" Japan to get nuclear weapons.   Hillary Clinton
+1330   "As secretary of state, (Hillary Clinton) worked hard to get strong sanctions against Iran's nuclear program" and "got Russia and China to support them."   Bill Clinton
+1522   Says Donald Trump "has been talking about the option of using a nuclear weapon against our Western European allies."   Hillary Clinton
+1900    Says Hillary Clinton called the Trans-Pacific Partnership “the gold standard. You called it the gold standard of trade deals. You said it’s the finest deal you’ve ever seen.”   Donald Trump
+2069   “Hillary Clinton wants to put all the miners out of business.”   Donald Trump
+2148   Claims Hillary Clinton said, ”We're going to put the [coal] miners out of work.”    Donald Trump
+5291   “Hillary Clinton gave away 20 percent of the uranium in the United States.”   Donald Trump
+5865   "Nearly 20 million Americans have chosen to pay the penalty or received an exemption rather than buy insurance. That’s something that nobody has ever heard of or thought could happen."   Donald Trump
+false negative: 
+
+===== Question:16 Is it true when Donald Trump says the election is rigged?
+false positive: 
+false negative: 
+1436   Cited precincts in which "practically nobody" voted for Republican Mitt Romney in 2012 as indication of "rigged" elections.   Donald Trump
+
+===== Question:8 Was it true when Hillary Clinton said Donald Trump didn't pay taxes?
+false positive: 
+2084   Says Donald Trump’s tax plan gives the wealthy and corporations "more than the Bush tax cuts by at least a factor of two."   Hillary Clinton
+2174   Says Warren Buffett has publicly said his secretary "should not be paying a lower tax rate" than him.   Hillary Clinton
+2175   Says Warren Buffett has publicly said his secretary "should not be paying a higher tax rate" than him.   Hillary Clinton
+2191   Says Warren Buffett has publicly said his secretary "should not be paying a higher tax rate" than him.   Hillary Clinton
+2250   Says Hillary Clinton's "plan is going to raise taxes and even double your taxes."   Donald Trump
+2279   Claims her proposals would "not add a penny to the debt," while Donald Trump's tax cuts "add $20 trillion."    Hillary Clinton
+8708   "I’m going to end up paying more than I pay right now in taxes, all right?"   Donald Trump
+2569   Under Donald Trump's tax plan, "51 percent of single parents would see their taxes go up."    Hillary Clinton
+922   Claims Hillary Clinton is going to “raise your taxes very substantially.”   Donald Trump
+11187   Farmers' heirs "can't pay the [estate] tax, so they have to sell the farm."   Donald Trump
+11216   Says "No, I don't benefit, I don't benefit" from his tax proposal.   Donald Trump
+982   "Taxpayers are paying a fortune for the use of Air Force One on the campaign trail" by President Obama and Hillary Clinton.   Donald Trump
+988   "Taxpayers are paying a fortune for the use of Air Force One on the campaign trail" by President Barack Obama and Hillary Clinton.    Donald Trump
+3439   Americans don't "care at all" about Donald Trump's tax returns.   Donald Trump
+1458   Hillary Clinton says she wants to raise taxes on the middle class.’   Donald Trump
+1459   Says Hillary Clinton says she wants to raise taxes on the middle class.   Donald Trump
+1465   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+1495   Says Hillary Clinton “accidentally told the truth and said that she wanted to raise taxes on the middle class.”   Donald Trump
+1520   Claims Donald Trump’s plan for a child care tax deduction benefits “rich people like him” while “hard-working families” would get “little to nothing.”   Hillary Clinton 
+7768   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+1657   Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."   Donald Trump
+1696   Claims that "hundreds of thousands of jobs [would] disappear" as a result of Hillary Clinton's proposal to raise taxes.   Donald Trump
+false negative: 
+
+===== Question:14 Is it true that Hillary Clinton deleted 30,000 emails?
+false positive: 
+143   Hillary Clinton spins on ‘Meet the Press,’ says she put out all her emails   Hillary Cinton
+148   Hillary Clinton said 'my predecessors did the same thing' with email   Hillary Cinton
+149   Hillary Clinton said 'my predecessors did the same thing' with email   Hillary Cinton
+157   Hillary Clinton said 'my predecessors did the same thing' with email   Hillary Cinton
+992   Hillary Clinton "released more emails and more pages of emails" than "any of her predecessors."   Sen. Sherrod Brown
+3425   Says Hillary Clinton campaign chairman John Podesta’s email password was "password."   Reince Priebus
+1579   "The FBI director ... had to amend the previous day’s statement, that she [Hillary Clinton] had never received any emails marked classified."   Bill Clinton
+false negative: 
+
+===== Question:15 Is it true that Donna Brazile gave Clinton debate questions in advance?
+false positive: 
+false negative: 
+
+===== Question:5 Is it true that Hillary Clinton deleted her emails after getting a subpoena?
+false positive: 
+false negative: 
+
+===== Question:10 Is it true that Donald Trump went bankrupt four times?
+false positive: 
+789   "There are tens of thousands of homes right here in California where you turn on the faucet but you can't drink the water."   Bernie Sanders
+1481   "Yesterday for the first time she said she wants to renegotiate trade agreements."   Donald Trump
+11602   “We have missiles that can knock out a missile in the air 97 percent of the time, and if you send two of them, it's going to get knocked down.”   Donald Trump
+5710   "The National Debt in my first month went down by $12 billion."   Donald Trump
+6364   Ellen DeGeneres and Portia de Rossi are going on "date nights" to save their marriage.   Life & Style
+9470   Ellen DeGeneres and Portia de Rossi's marriage is "going to pot."   RadarOnline
+7716   "The National Debt in my first month went down by $12 billion."   Donald Trump
+false negative: 
+1017    Donald Trump has “bankrupt four separate businesses."   Mark Warner
+
+===== Question:20 Is it true that Michelle Obama scrubbed Hillary Clinton from her Twitter accounts?
+false positive: 
+false negative: 
+
+===== Question:4 Did Donald Trump use illegal immigrants to build the Trump Tower?
+false positive: 
+false negative: 
+
+===== Question:7 Was it true when Donald Trump said Hillary Clinton viciously attacked women?
+false positive: 
+405   Hillary Clinton "would go after these women and destroy their lives. She was an unbelievably nasty, mean enabler."   Donald Trump
+406   Hillary Clinton "would go after these women and destroy their lives. She was an unbelievably nasty, mean enabler."   Donald Trump
+855   Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”    Donald Trump
+856   Says Hillary Clinton "said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers."   Donald Trump
+857   Says Hillary Clinton “said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.”    Donald Trump
+1012   Hillary Clinton has been given tens of millions of dollars by countries that "treat women horribly ... and countries that kill gays."   Donald Trump
+2209   Tercer debate: Trump miente al decir que Clinton apoya el aborto hasta en en noveno mes de embarazo   Donald Trump
+7742   Hillary Clinton has been given tens of millions of dollars by countries that "treat women horribly ... and countries that kill gays."   Donald Trump
+false negative: 
+
+===== Question:18 Is Donald Trump right when he says the murder rate is really high?
+false positive: 
+805   The unemployment rate may be as high as "42 percent."   Donald Trump
+806   The unemployment rate may be as high as "42 percent."   Donald Trump
+9202   “Right now, we are one of the highest-taxed nations in the world. Really, on a large-scale basis, we are the highest-taxed nation in the world.”   Donald Trump
+9203   “Right now, we are one of the highest-taxed nations in the world. Really, on a large-scale basis, we are the highest-taxed nation in the world.”   Donald Trump
+9793   Preliminary murder rates in Philadelphia “will put the murder rate at the highest of this decade in the city.”   Jeff Sessions
+1831   Says he “heard” the unemployment rate was really 42 percent.    Donald Trump
+10626   The U.S. is “dead last” in terms of business taxes, with a rate “60 percent higher” than “our economic competitors.”   Donald Trump
+3089   America’s federal business tax rate is the highest "in the world."   Donald Trump
+9815   Preliminary murder rates in Philadelphia "will put the murder rate at the highest of this decade in the city."   Jeff Sessions
+8112   "Democrat Jon Ossoff would be a disaster in Congress. VERY weak on crime and illegal immigration, bad for jobs and wants higher taxes. Say NO"   Donald Trump
+false negative: 
+
+===== Question:3 Is it true that Hillary Clinton started the birther movement?
+false positive: 
+1854   Hillary Clinton and the birther movement: Still nothing there   Donald Trump
+false negative: 
+
+===== Question:9 Is it true that Donald Trump didn't pay taxes?
+false positive: 
+8239   Says Eric Trump said, "My father’s tax return is irrelevant because we’re going to cancel taxes for WEALTHY people anyway."   DemocraticMoms.com
+359   Says Donald Trump’s "only economic agenda is imposing massive taxes on the American people with a 40 percent tax hike of a giant tariff."   Ted Cruz
+8708   "I’m going to end up paying more than I pay right now in taxes, all right?"   Donald Trump
+8903   "If Donald Trump would stay home from Mar-a-Lago one weekend, it would pay the entire meals on wheels budget for the state of Missouri for almost two years."   Claire McCaskill
+8965   Says President Donald "Trump’s budget gives a $100 billion tax break to three of the wealthiest families."   Bernie Sanders
+922   Claims Hillary Clinton is going to “raise your taxes very substantially.”   Donald Trump
+947   Claims that Americans “pay more personal tax” than residents anywhere else in the world.   Donald Trump
+982   "Taxpayers are paying a fortune for the use of Air Force One on the campaign trail" by President Obama and Hillary Clinton.   Donald Trump
+1250   Says Donald Trump "always pays his bills promptly."   Phil Ruffin
+1458   Hillary Clinton says she wants to raise taxes on the middle class.’   Donald Trump
+1459   Says Hillary Clinton says she wants to raise taxes on the middle class.   Donald Trump
+1465   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+1495   Says Hillary Clinton “accidentally told the truth and said that she wanted to raise taxes on the middle class.”   Donald Trump
+1520   Claims Donald Trump’s plan for a child care tax deduction benefits “rich people like him” while “hard-working families” would get “little to nothing.”   Hillary Clinton 
+11193   “A married couple won't pay a dime in taxes on their first $24,000 of income. So a married couple, up to $24,000, can spend their money on their family, on their children, on what they have to do — so much better.”   Donald Trump
+1657   Says Hillary Clinton "wants to raise taxes on African-American owned businesses to as much as nearly 50 percent more than they're paying now."   Donald Trump
+9853    “Actually if I get what I want it will be the single biggest tax cut in American history.”   Donald Trump
+1696   Claims that "hundreds of thousands of jobs [would] disappear" as a result of Hillary Clinton's proposal to raise taxes.   Donald Trump
+1940   "As far as tax return, you don’t learn that much” from tax returns.   Donald Trump
+1960   Claims claimed that Donald Trump would have violated his “fiduciary obligation” to his company and “could have been sued by his investors” if he overpaid personal income taxes.   Rudy Giuliani 
+1961   Claims Donald Trump "already promised in his tax plan to change many of these special interest loopholes and get rid of them so you don’t have this kind of situation."   Chris Christie
+2009   Says Donald Trump "hasn’t broken his promise" to release his tax returns.   Mike Pence
+2058   Says he has "a fiduciary responsibility to his business, his family and his employees to pay no more tax than legally required."   Donald Trump
+2061    Bill Clinton “had to pay an $850,000 fine to one of the women. Paula Jones"   Donald Trump
+10273   "Amazon is doing great damage to tax paying retailers. Towns, cities and states throughout the U.S. are being hurt - many jobs being lost!"    Donald Trump
+2084   Says Donald Trump’s tax plan gives the wealthy and corporations "more than the Bush tax cuts by at least a factor of two."   Hillary Clinton
+2161   Says Donald Trump’s plan to repeal the estate tax would mean the Walmart Walton family would "get a $53 billion tax break."   Bernie Sanders
+2250   Says Hillary Clinton's "plan is going to raise taxes and even double your taxes."   Donald Trump
+2279   Claims her proposals would "not add a penny to the debt," while Donald Trump's tax cuts "add $20 trillion."    Hillary Clinton
+10608   “The tax code is so complicated that more than 90 percent of Americans need professional help to do their own taxes.”   Donald Trump
+10624   Large U.S. companies that do business overseas have "anywhere from $3 trillion to $5 trillion" in offshore accounts to avoid paying U.S. taxes.   Donald Trump
+10627   "The tax code is so complicated that more than 90 percent of Americans need professional help to do their own taxes."   Donald Trump
+2470   Says Donald Trump “doesn't believe in equal pay.”   Hillary Clinton
+2569   Under Donald Trump's tax plan, "51 percent of single parents would see their taxes go up."    Hillary Clinton
+10997   "We pay 22 percent of the entire UN budget and more."   Donald Trump
+11187   Farmers' heirs "can't pay the [estate] tax, so they have to sell the farm."   Donald Trump
+11191   “I'm doing the right thing and it's not good for me, believe me. … We are also repealing the alternative minimum tax, or AMT.”   Donald Trump
+11216   Says "No, I don't benefit, I don't benefit" from his tax proposal.   Donald Trump
+11301   Says repeal of estate tax would save President Donald Trump's heirs $4 billion.   Bernie Sanders
+1921   Says that except for Donald Trump, "every other major party nominee" for the past 40 years has released their tax returns.     Tammy Baldwin
+3439   Americans don't "care at all" about Donald Trump's tax returns.   Donald Trump
+11708   Said a 25 percent tax rate is "substantially lower" than what "many" truckers pay.   Donald Trump
+10228   Says Jose Felix Diaz supports President Donald Trump's "plan to slash Medicare, charge older Americans an age tax and cut coverage for pre-existing conditions."   Florida Democratic Legislative Campaign Committee
+8966   Says President Donald "Trump’s budget gives a $100 billion tax break to three of the wealthiest families."   Bernie Sanders
+10495   Republican Sen. Jeff Flake of Arizona hasn't worked with President Donald Trump to "repeal Obamacare."   Ward for Senate
+7768   "Hillary Clinton says she wants to, ‘raise taxes on the middle class.’ "   Donald Trump
+8028   Claimed Jon Ossoff, a Democratic candidate in Georgia's 6th Congressional District, “will raise your taxes.”    Donald Trump
+false negative: 
+
+===== Question:22 Was Hillary Clinton right when she said Donald Trump would deport 16 million people?
+false positive: 
+7816   "Nobody knows about it, nobody talks about it, but under Obama, millions of people have been moved out of this country, they've been deported."   Donald Trump
+false negative: 
+2030   Says "Donald Trump proposes to deport 16 million people, 11 million who are here without documents, and both Donald Trump and Mike Pence want to get rid of birthright citizenship."    Tim Kaine
+
+===== Question:1 Did Hillary Clinton lie about Benghazi?
+false positive: 
+false negative: 
+
+===== Question:6 Did 17 intelligence agencies say Clinton's emails were hacked by Russia?
+false positive: 
+1906   Says Donald Trump “publicly invited Putin to hack into Americans’ (emails).”    Hillary Clinton
+false negative: 
+
+===== Question:21 Did Michelle Obama slam Hillary Clinton?
+false positive: 
+1655   “Barack Obama and Hillary Clinton refuse to declare war on ISIS.”    Charles Boustany
+386   Says Hillary Clinton "started the 'birther' movement" against Barack Obama in 2008.    Donald Trump
+false negative: 
+
+===== Question:12 Did Hillary Clinton break the law with her private server?
+false positive: 
+705   “You have to assume that our enemies and our adversaries had access to every email that ever went over [Hillary Clinton's] private server.”   Sen. Ron Johnson, R-Wisconsin 
+1379   Claims Hillary Clinton deleted emails from her private server “after she gets a subpoena” from Congress.   Donald Trump
+false negative: 
+
+===== Question:11 Is it true that Hillary Clinton broke the law with her email server?
+false positive: 
+705   “You have to assume that our enemies and our adversaries had access to every email that ever went over [Hillary Clinton's] private server.”   Sen. Ron Johnson, R-Wisconsin 
+1379   Claims Hillary Clinton deleted emails from her private server “after she gets a subpoena” from Congress.   Donald Trump
+false negative: 
+
+===== Question:2 Did Donald Trump call Miss Universe Miss Piggy?
+false positive: 
+false negative: 
+
+===== Question:17 Did Donald Trump say climate change is a hoax?
+false positive: 
+9215   Claimed the Paris Agreement on climate change is legally binding.    Donald Trump
+1840   Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. "Donald Trump doesn't."   Tim Kaine
+1966   Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. "Donald Trump doesn't."   Tim Kaine
+10780   "30,000 scientists have come forward confirming that man-made climate change is a hoax perpetuated by the elite in order to make money."   Bloggers
+1841   Says Hillary Clinton and millennials have the same positions on climate change, abortion rights, immigration reform, gay rights and college affordability. "Donald Trump doesn't."   Tim Kaine
+false negative: 
+
+===== Question:19 Is Donald Trump right when he says the murder rate is the highest in 45 years?
+false positive: 
+10626   The U.S. is “dead last” in terms of business taxes, with a rate “60 percent higher” than “our economic competitors.”   Donald Trump
+false negative: 
+
+Precision: 0.429223744292Recall: 0.969072164948

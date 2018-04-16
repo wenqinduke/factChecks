@@ -4,20 +4,20 @@ import pandas as pd
 
 conn = psycopg2.connect("dbname=sharefacts user=wenqinwang")
 cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
-query = "select id, question, stat_id, match_id from test_questions"
+query = "select id, question, stat_id, match_id_adaboost_30 from test_questions"
 dataframe = pd.read_sql_query(query, conn)
 
-out_file = open("./wrong_match.txt", "w")
+out_file = open("./wrong_match_adaboost.txt", "w")
 
 false_positive = []
 false_negative = []
 true_positive = []
 
 for index in range(dataframe.shape[0]):
-    if dataframe.match_id[index] is None:
+    if dataframe.match_id_adaboost_30[index] is None:
         continue
     stat_id = dataframe.stat_id[index]
-    match_id = dataframe.match_id[index]
+    match_id = dataframe.match_id_adaboost_30[index]
 
     false_pos = [w for w in match_id if w not in stat_id]
     false_neg = [w for w in stat_id if w not in match_id]
@@ -64,6 +64,6 @@ for index in range(dataframe.shape[0]):
 precision = float(len(true_positive)) / (len(true_positive) + len(false_positive))
 recall = float(len(true_positive)) / (len(true_positive) + len(false_negative))
 out_file.write("Precision: ")
-out_file.write('%s' precision)
+out_file.write('%s' %precision)
 out_file.write("Recall: ")
-out_file.write('%s' recall)
+out_file.write('%s' %recall)
