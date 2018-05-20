@@ -6,6 +6,7 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 from nltk.corpus import state_union
 from nltk.corpus import wordnet
+from stanfordcorenlp import StanfordCoreNLP
 import nltk.chunk
 import nltk
 import re
@@ -134,23 +135,23 @@ def process(text):
 
 # TEMP: very nasty/bruteforce code;
 def delete_duplicate(array_list):
-    index = len(array_list)
+    index = 0
     res = []
-    array_list.pop(-1)
-    res.append(array_list[-1])
-    while index > 0:
+    #array_list.pop(-1)
+    #res.append(array_list[-1])
+    while index < len(array_list) - 1:
         current = array_list[index]
-        next_array = array_list[index - 1]
+        next_array = array_list[index + 1]
         if len(current) == len(next_array):
             diff = [w for w in current if w not in next_array]
             if len(diff) <= 1 and current[0] != next_array[0]:
                 if current in res:
                     res.remove(current)
                 res.append(next_array)
-                index -= 1
+                index += 1
                 continue
         res.append(current)
-        index -= 1
+        index += 1
     return res
 
 def process_all_text(all_text):
@@ -247,6 +248,13 @@ def get_wordnet_pos(treebank_tag):
         return ''
 
 conn = psycopg2.connect("dbname=sharefacts user=wenqinwang")
+# query = "select question from test_questions"
+# df = pd.read_sql_query(query, conn)
+#
+# for index in range(df.shape[0]):
+#     question = df.question[index]
+#     process(question)
+
 query = "select stat_id from test_questions"
 df = pd.read_sql_query(query, conn)
 cursor = conn.cursor()

@@ -1,19 +1,15 @@
-import spacy
-from spacy import displacy
-import random
+from nltk.parse.stanford import StanfordDependencyParser
+stanford_parser_dir = '../stanford-parser/'
+eng_model_path = stanford_parser_dir  + "stanford-parser-models/edu/stanford/nlp/models/lexparser/englishRNN.ser.gz"
+my_path_to_models_jar = stanford_parser_dir  + "stanford-parser-3.5.2-models.jar"
+my_path_to_jar = stanford_parser_dir  + "stanford-parser.jar"
+# nlp = StanfordCoreNLP(r'/Users/wenqinwang/Desktop/Fact-Checking/stanford-corenlp-python/stanford-corenlp-full-2018-02-27')
 
-# nlp = spacy.load('en')
-# #sentence1 = "PolitiFact rated it Half True when Donald Trump said that Hillary Clinton wanted the wall"
-# #sentence2 = "Is it true that Hillary Clinton wants to raise the minimum wage?
-# #sentence3 = "Hillary Clinton Says Donald Trump wants to get rid of the federal minimum wage"
-# test = "Donald Trump Claims there's 'nothing out there' about Hillary Clinton's religion even though she's been in the public eye for years and years."
-# doc = nlp(unicode(test,"utf-8"))
-# for token in doc:
-#     print(token.text, token.dep_, token.head.text, token.head.pos_,
-#           [child for child in token.children])
-# displacy.serve(doc, style='dep')
+sentence = 'Guangdong University of Foreign Studies is located in Guangzhou.'
+# print 'Tokenize:', nlp.word_tokenize(sentence)
+# print 'Part of Speech:', nlp.pos_tag(sentence)
+# print 'Named Entities:', nlp.ner(sentence)
+print 'Constituency Parsing:', nlp.parse(sentence)
+# print 'Dependency Parsing:', nlp.dependency_parse(sentence)
 
-list = [1, 2, 3]
-list_of_random_items = random.sample(list, 3)
-
-print list_of_random_items
+nlp.close()

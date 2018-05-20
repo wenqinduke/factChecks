@@ -121,43 +121,11 @@ def create_data_array(cursor, model, question, stat_id):
 
     return data
 
-def check (ques, model, potential_id, dataframe, conn, clf):
+def check (ques, model, potential_id, dataframe, conn, clf, y_score, y_test, stat_id):
     (ques_token, ques_tags, ques_ents, ques_ents_index, ques_noun, ques_verb, ques_adj) = ps.process(ques)
     #print ques_token
 
     cursor = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
-
-    # verb_weight = 1.5
-    # noun_weight = 1
-    # entity_weight = 1.5
-    # imp_weight = 1.5
-    # ques_score = 0
-    # ques_length = len(ques_token)
-    # for word_index in range(ques_length):
-    #     if word_index in ques_ents_index:
-    #         ques_score += entity_weight
-    #     # elif word_index in claim_imp_index:
-    #     #     claim_score += imp_weight
-    #     elif match.verb_tag(ques_tags[word_index]):
-    #         ques_score += verb_weight
-    #     elif match.noun_tag(ques_tags[word_index]):
-    #         ques_score += noun_weight
-    #     else:
-    #         ques_score += 1
-    #
-    # name_entity = ques_ents
-    # person_entity = 0
-    # gpe_entity = 0
-    # org_entity = 0
-    #
-    # for ent in name_entity:
-    #     (word, tag, pos) = ent
-    #     if tag.endswith("PERSON"):
-    #         person_entity += 1
-    #     elif tag.endswith("GPE"):
-    #         gpe_entity += 1
-    #     elif tag.endswith("ORGANIZATION"):
-    #         org_entity += 1
 
     #TODO: make code more efficient by only computing question's length, entity once and pass in as a parameter.
     match_list = []
@@ -175,24 +143,10 @@ def check (ques, model, potential_id, dataframe, conn, clf):
         result = clf.predict([data])
         if result[0] == 1:
             index_list.append(n)
-
-
-
-
-    #result = clf.predict(data_array)
-    #print result
-    # for i in range(len(result)):
-    #     if result[i]  == 1:
-    #         print i
-    #         index_list.append(i + 1)
-    #         cursor.execute('''SELECT speaker, statement from facts where id = %(w)s''', {'w' : i+ 1})
-    #         row = cursor.fetchone()
-    #         if row is None:
-    #             continue
-    #         else:
-    #             speaker = row[0]
-    #             statement = row[1]
-    #         match_list.append(speaker + " said that " + statement)
-
-
-    return (index_list, match_list)
+        decision_score = clf.decision_function([data])
+        y_score.append(decision_score[0])
+        if n in stat_id:
+            y_test.append(1)
+        else:
+            y_test.append(0)
+    return (index_list, match_list, y_score, y_test)
