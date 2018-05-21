@@ -23,6 +23,7 @@ def check_potential_id_contains_all_correct_case(conn, cursor):
             print id
             print omitted_id
 
+#ignore this
 def check_final_mod_id_length(conn,cursor):
     query = "select id, stat_id, final_mod_potential_id from test_questions"
     df = pd.read_sql_query(query, conn)

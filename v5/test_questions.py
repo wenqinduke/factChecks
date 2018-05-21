@@ -118,4 +118,4 @@ def select_potential_id(conn, cursor):
 
 #alter_table(cursor, conn)
 #select_mod_potential_id(conn, cursor)
-select_potential_id(conn, cursor)
+#select_potential_id(conn, cursor)

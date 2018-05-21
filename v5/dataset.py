@@ -131,8 +131,6 @@ def createDataSet(question_id, count, id_list, question, conn, cursor, classifie
 
 for index in range(df.shape[0]):
     question_id = df.id[index]
-    # if id <= 30:
-    #     continue
     print (index)
     question = df.question[index]
     stat_id_list = df.stat_id[index]
